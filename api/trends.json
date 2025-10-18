@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T11:01:07.293240+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-10-18T11:07:14.967606+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,30 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 11时07分]"
+        },
+        {
+          "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
+          "url": "https://news.ifeng.com/c/8nXp14yHS6o",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 11时07分]"
+        },
+        {
+          "title": "泽连斯基穿上正装 特朗普：我很喜欢",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A9%BF%E4%B8%8A%E6%AD%A3%E8%A3%85+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 11时07分]"
         },
         {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
@@ -88,17 +110,6 @@
           "time_info": "[00时33分 ~ 07时23分]"
         },
         {
-          "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
-          "url": "https://news.ifeng.com/c/8nXp14yHS6o",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时01分]"
-        },
-        {
           "title": "特朗普又被告",
           "url": "https://www.douyin.com/hot/2273463",
           "source": "抖音",
@@ -111,17 +122,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 07时23分]"
-        },
-        {
-          "title": "泽连斯基穿上正装 特朗普：我很喜欢",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A9%BF%E4%B8%8A%E6%AD%A3%E8%A3%85+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时01分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -161,6 +161,18 @@
           "time_info": "07时23分"
         },
         {
+          "title": "外媒：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
+          "url": "https://flash.jin10.com/detail/20251018091242251800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时07分]"
+        },
+        {
           "title": "金十提示：美国总统特朗普在白宫的记者会结束。",
           "url": "https://flash.jin10.com/detail/20251018021518674800",
           "source": "金十数据",
@@ -172,16 +184,62 @@
           "time_info": "02时34分"
         },
         {
-          "title": "外媒：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
-          "url": "https://flash.jin10.com/detail/20251018091242251800",
-          "source": "金十数据",
+          "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
+          "url": "https://www.cls.cn/detail/2173372",
+          "source": "财联社热门",
           "ranks": [
-            3,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 11时07分]"
+        },
+        {
+          "title": "特朗普对进口中型和重型卡车收25%税",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9E%8B%E5%92%8C%E9%87%8D%E5%9E%8B%E5%8D%A1%E8%BD%A6%E6%94%B625%25%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 11时07分]"
+        },
+        {
+          "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31801773",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 11时07分]"
+        },
+        {
+          "title": "牛弹琴：泽连斯基又被特朗普戏弄了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%8F%88%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%8F%E5%BC%84%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 11时07分]"
+        },
+        {
+          "title": "可怜的泽连斯基，又被特朗普戏弄了",
+          "url": "https://news.ifeng.com/c/8nXp14yHSEN",
+          "source": "凤凰网",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 11时07分]"
         },
         {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
@@ -280,6 +338,40 @@
           "time_info": "[04时29分 ~ 07时23分]"
         },
         {
+          "title": "和普京通话后特朗普的态度变了吗",
+          "url": "https://www.toutiao.com/trending/7562374428537916978/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 11时07分]"
+        },
+        {
+          "title": "特朗普呼吁俄乌停火：各自宣称胜利",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E4%BF%84%E4%B9%8C%E5%81%9C%E7%81%AB%EF%BC%9A%E5%90%84%E8%87%AA%E5%AE%A3%E7%A7%B0%E8%83%9C%E5%88%A9",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 11时07分]"
+        },
+        {
+          "title": "外媒爆：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
+          "url": "https://wallstreetcn.com/livenews/2989972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时07分]"
+        },
+        {
           "title": "美国总统特朗普：我告诉乌克兰总统泽连斯基，是时候（与俄罗斯）达成一份协议了。",
           "url": "https://wallstreetcn.com/livenews/2989907",
           "source": "华尔街见闻-快讯",
@@ -293,16 +385,16 @@
           "time_info": "[05时23分 ~ 07时23分]"
         },
         {
-          "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
-          "url": "https://www.cls.cn/detail/2173372",
-          "source": "财联社热门",
+          "title": "特朗普呼吁俄乌“就地”停火、各自宣称胜利",
+          "url": "https://flash.jin10.com/detail/20251018084832379800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            9
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时01分]"
+          "time_info": "[09时48分 ~ 11时07分]"
         },
         {
           "title": "Salesforce的首席执行官（CEO）为自己说“美国总统特朗普应当向旧金山派遣国民警卫队”道歉。",
@@ -318,50 +410,16 @@
           "time_info": "[05时23分 ~ 07时23分]"
         },
         {
-          "title": "特朗普对进口中型和重型卡车收25%税",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9E%8B%E5%92%8C%E9%87%8D%E5%9E%8B%E5%8D%A1%E8%BD%A6%E6%94%B625%25%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时01分]"
-        },
-        {
-          "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31801773",
-          "source": "澎湃新闻",
+          "title": "特朗普签署行政令 对进口中型和重型卡车征收25%关税",
+          "url": "https://flash.jin10.com/detail/20251018080344399800",
+          "source": "金十数据",
           "ranks": [
             16,
-            19
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时01分]"
-        },
-        {
-          "title": "牛弹琴：泽连斯基又被特朗普戏弄了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%8F%88%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%8F%E5%BC%84%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时01分]"
-        },
-        {
-          "title": "可怜的泽连斯基，又被特朗普戏弄了",
-          "url": "https://news.ifeng.com/c/8nXp14yHSEN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
+          "time_info": "[09时48分 ~ 11时07分]"
         },
         {
           "title": "特朗普再次宣称：印度不会购买俄罗斯石油",
@@ -386,30 +444,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时29分]"
-        },
-        {
-          "title": "外媒爆：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
-          "url": "https://wallstreetcn.com/livenews/2989972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时01分]"
-        },
-        {
-          "title": "特朗普呼吁俄乌“就地”停火、各自宣称胜利",
-          "url": "https://flash.jin10.com/detail/20251018084832379800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时01分]"
         },
         {
           "title": "美国参议院民主党成员Warren再次呼呼特朗普政府在美联储10月份货币政策会议之前发布9月非农就业报告。",
@@ -460,18 +494,6 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
-          "title": "特朗普签署行政令 对进口中型和重型卡车征收25%关税",
-          "url": "https://flash.jin10.com/detail/20251018080344399800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时01分]"
-        },
-        {
           "title": "特朗普重新起诉《纽约时报》",
           "url": "https://www.toutiao.com/trending/7561736617245904425/",
           "source": "今日头条",
@@ -482,28 +504,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 03时21分]"
-        },
-        {
-          "title": "和普京通话后特朗普的态度变了吗",
-          "url": "https://www.toutiao.com/trending/7562374428537916978/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
-        },
-        {
-          "title": "特朗普呼吁俄乌停火：各自宣称胜利",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E4%BF%84%E4%B9%8C%E5%81%9C%E7%81%AB%EF%BC%9A%E5%90%84%E8%87%AA%E5%AE%A3%E7%A7%B0%E8%83%9C%E5%88%A9",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
         },
         {
           "title": "美国总统特朗普：马杜罗“已向美国提供了一切”。",
@@ -722,8 +722,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 11时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时07分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -734,8 +734,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时01分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 11时07分]"
+        },
+        {
+          "title": "美元大逻辑的关键验证：下一次美股大跌",
+          "url": "https://wallstreetcn.com/articles/3757381",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 11时07分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -805,17 +816,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时23分]"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时01分]"
         },
         {
           "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
@@ -891,8 +891,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 11时07分]"
         },
         {
           "title": "金价",
@@ -991,8 +991,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 11时07分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美三大股指齐反弹，金银跳水，美债下挫",
@@ -1091,8 +1091,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时24分 ~ 11时01分]"
+          "appearance_count": 7,
+          "time_info": "[06时24分 ~ 11时07分]"
         }
       ]
     },
