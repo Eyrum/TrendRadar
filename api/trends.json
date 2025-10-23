@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T19:14:05.662563+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2025-10-23T20:32:35.855670+08:00",
+  "total_titles_processed": 1921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 94,
       "titles": [
         {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
@@ -124,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 19时14分]"
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 20时32分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -184,6 +184,19 @@
           "time_info": "[09时05分 ~ 16时22分]"
         },
         {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 20时32分]"
+        },
+        {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
           "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
           "source": "凤凰网",
@@ -206,8 +219,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时00分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[11时00分 ~ 20时32分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -238,8 +251,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时19分 ~ 19时14分]"
+          "appearance_count": 27,
+          "time_info": "[00时19分 ~ 20时32分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -273,19 +286,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时19分 ~ 13时15分]"
-        },
-        {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 19时14分]"
         },
         {
           "title": "特朗普称取消与普京会晤 美国国债总额首次超过38万亿美元 | 环球市场",
@@ -339,6 +339,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时05分 ~ 13时15分]"
+        },
+        {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 20时32分]"
         },
         {
           "title": "美国对俄施加新制裁，特朗普取消与普京会面",
@@ -409,17 +420,6 @@
           "time_info": "[02时22分 ~ 07时14分]"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 19时14分]"
-        },
-        {
           "title": "特朗普说是时候制裁俄罗斯了",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%98%AF%E6%97%B6%E5%80%99%E5%88%B6%E8%A3%81%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D4%26band_rank%3D4%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25AF%25B4%25E6%2598%25AF%25E6%2597%25B6%25E5%2580%2599%25E5%2588%25B6%25E8%25A3%2581%25E4%25BF%2584%25E7%25BD%2597%25E6%2596%25AF%25E4%25BA%2586%2523%26pos%3D3%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26dgr%3D0%26lcate%3D5001%26flag%3D1%26display_time%3D1761181447%26pre_seqid%3D17611814479320322049125",
           "source": "微博",
@@ -462,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美国总统特朗普政府正商谈入股量子计算公司。",
@@ -899,6 +910,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "扎哈罗娃回应特朗普证实取消“普特会” ：注意到该言论，俄愿意继续接触",
+          "url": "https://wallstreetcn.com/livenews/2992573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "俄乌和平进程受阻？特朗普最新表态：取消与普京布达佩斯会晤",
           "url": "https://www.cls.cn/detail/2177790",
           "source": "财联社热门",
@@ -952,6 +974,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国总统特朗普将于当地时间下午3点（北京时间次日凌晨3点）在华盛顿发表声明。",
+          "url": "https://wallstreetcn.com/livenews/2992566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "芝加哥商业交易所（CME）饲料牛期货在特朗普表示牧场主必须降低价格后，跌至日内交易限额。",
@@ -1110,8 +1143,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时05分 ~ 19时14分]"
+          "appearance_count": 17,
+          "time_info": "[09时05分 ~ 20时32分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1360,209 +1393,8 @@
       ]
     },
     {
-      "keyword_group": "十五五",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "“十五五”规划建议审议通过",
-          "url": "https://www.toutiao.com/trending/7563607644410396726/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 19时14分]"
-        },
-        {
-          "title": "四中全会审议通过十五五规划建议",
-          "url": "https://www.douyin.com/hot/2280186",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时14分]"
-        },
-        {
-          "title": "四中全会审议通过“十五五”规划建议",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%AE%A1%E8%AE%AE%E9%80%9A%E8%BF%87%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时14分]"
-        },
-        {
-          "title": "156份券商研报密集透视“十五五”，这些领域成共识",
-          "url": "https://www.cls.cn/detail/2177972",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时24分 ~ 19时14分]"
-        },
-        {
-          "title": "十五五规划建议审议通过",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE%E5%AE%A1%E8%AE%AE%E9%80%9A%E8%BF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
-          "title": "一图速览十五五目标",
-          "url": "https://www.cls.cn/detail/2178523",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时14分]"
-        },
-        {
-          "title": "十五五目标",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%81%E4%BA%94%E4%BA%94%E7%9B%AE%E6%A0%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D5%26stream_entry_id%3D31%26pos%3D5%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E5%258D%2581%25E4%25BA%2594%25E4%25BA%2594%25E7%259B%25AE%25E6%25A0%2587%2523%26band_rank%3D5%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761214149%26pre_seqid%3D176121414945301201193135",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
-        },
-        {
-          "title": "国务院国资委召开中央企业“十五五”规划工作座谈会",
-          "url": "https://www.cls.cn/detail/2178291",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 19时14分]"
-        },
-        {
-          "title": "十五五经济社会发展主要目标",
-          "url": "https://www.douyin.com/hot/2280222",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时14分]"
-        },
-        {
-          "title": "二十四届四中全会：提出“十五五”时期经济社会发展的主要目标",
-          "url": "https://wallstreetcn.com/livenews/2992481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时17分]"
-        },
-        {
-          "title": "十五五时期经济社会发展主要目标",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%94%E4%BA%94%E6%97%B6%E6%9C%9F%E7%BB%8F%E6%B5%8E%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E4%B8%BB%E8%A6%81%E7%9B%AE%E6%A0%87",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时14分]"
-        },
-        {
-          "title": "“十五五”具有承前启后重要地位",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E5%85%B7%E6%9C%89%E6%89%BF%E5%89%8D%E5%90%AF%E5%90%8E%E9%87%8D%E8%A6%81%E5%9C%B0%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时14分]"
-        },
-        {
-          "title": "十五五规划建议审议通过",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE%E5%AE%A1%E8%AE%AE%E9%80%9A%E8%BF%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E5%258D%2581%25E4%25BA%2594%25E4%25BA%2594%25E8%25A7%2584%25E5%2588%2592%25E5%25BB%25BA%25E8%25AE%25AE%25E5%25AE%25A1%25E8%25AE%25AE%25E9%2580%259A%25E8%25BF%2587%2523%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D13%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26band_rank%3D13%26flag%3D1%26pos%3D13%26display_time%3D1761210968%26pre_seqid%3D17612109684310368568755",
-          "source": "微博",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时17分]"
-        },
-        {
-          "title": "党的二十届四中全会审议通过“十五五”规划建议",
-          "url": "https://wallstreetcn.com/livenews/2992474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时17分]"
-        },
-        {
-          "title": "“十五五”时期发展遵循6个坚持",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E6%97%B6%E6%9C%9F%E5%8F%91%E5%B1%95%E9%81%B5%E5%BE%AA6%E4%B8%AA%E5%9D%9A%E6%8C%81",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
-          "title": "“十五五”时期经济社会发展主要目标，一图速览",
-          "url": "https://wallstreetcn.com/livenews/2992513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "国务院国资委召开中央企业“十五五”规划工作座谈会",
-          "url": "https://wallstreetcn.com/livenews/2992424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -1707,6 +1539,17 @@
           "time_info": "[11时40分 ~ 12时18分]"
         },
         {
+          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
+          "url": "https://wallstreetcn.com/articles/3757691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "分析师：美政府停摆持续与地缘政治紧张局势推动金价重返4100美元上方",
           "url": "https://flash.jin10.com/detail/20251023145502019800",
           "source": "金十数据",
@@ -1764,8 +1607,210 @@
       ]
     },
     {
+      "keyword_group": "十五五",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "“十五五”规划建议审议通过",
+          "url": "https://www.toutiao.com/trending/7563607644410396726/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 20时32分]"
+        },
+        {
+          "title": "四中全会审议通过十五五规划建议",
+          "url": "https://www.douyin.com/hot/2280186",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时32分]"
+        },
+        {
+          "title": "四中全会审议通过“十五五”规划建议",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%AE%A1%E8%AE%AE%E9%80%9A%E8%BF%87%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时32分]"
+        },
+        {
+          "title": "156份券商研报密集透视“十五五”，这些领域成共识",
+          "url": "https://www.cls.cn/detail/2177972",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时24分 ~ 19时14分]"
+        },
+        {
+          "title": "十五五规划建议审议通过",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE%E5%AE%A1%E8%AE%AE%E9%80%9A%E8%BF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 20时32分]"
+        },
+        {
+          "title": "一图速览十五五目标",
+          "url": "https://www.cls.cn/detail/2178523",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时32分]"
+        },
+        {
+          "title": "国务院国资委召开中央企业“十五五”规划工作座谈会",
+          "url": "https://www.cls.cn/detail/2178291",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 20时32分]"
+        },
+        {
+          "title": "十五五目标",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%81%E4%BA%94%E4%BA%94%E7%9B%AE%E6%A0%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D5%26stream_entry_id%3D31%26pos%3D5%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E5%258D%2581%25E4%25BA%2594%25E4%25BA%2594%25E7%259B%25AE%25E6%25A0%2587%2523%26band_rank%3D5%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761214149%26pre_seqid%3D176121414945301201193135",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
+          "title": "十五五经济社会发展主要目标",
+          "url": "https://www.douyin.com/hot/2280222",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时32分]"
+        },
+        {
+          "title": "十五五时期经济社会发展主要目标",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%94%E4%BA%94%E6%97%B6%E6%9C%9F%E7%BB%8F%E6%B5%8E%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E4%B8%BB%E8%A6%81%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时32分]"
+        },
+        {
+          "title": "二十四届四中全会：提出“十五五”时期经济社会发展的主要目标",
+          "url": "https://wallstreetcn.com/livenews/2992481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时17分]"
+        },
+        {
+          "title": "“十五五”具有承前启后重要地位",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E5%85%B7%E6%9C%89%E6%89%BF%E5%89%8D%E5%90%AF%E5%90%8E%E9%87%8D%E8%A6%81%E5%9C%B0%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 19时14分]"
+        },
+        {
+          "title": "十五五规划建议审议通过",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE%E5%AE%A1%E8%AE%AE%E9%80%9A%E8%BF%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E5%258D%2581%25E4%25BA%2594%25E4%25BA%2594%25E8%25A7%2584%25E5%2588%2592%25E5%25BB%25BA%25E8%25AE%25AE%25E5%25AE%25A1%25E8%25AE%25AE%25E9%2580%259A%25E8%25BF%2587%2523%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D13%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26band_rank%3D13%26flag%3D1%26pos%3D13%26display_time%3D1761210968%26pre_seqid%3D17612109684310368568755",
+          "source": "微博",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时17分]"
+        },
+        {
+          "title": "党的二十届四中全会审议通过“十五五”规划建议",
+          "url": "https://wallstreetcn.com/livenews/2992474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时17分]"
+        },
+        {
+          "title": "“十五五”时期发展遵循6个坚持",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E6%97%B6%E6%9C%9F%E5%8F%91%E5%B1%95%E9%81%B5%E5%BE%AA6%E4%B8%AA%E5%9D%9A%E6%8C%81",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
+          "title": "“十五五”时期经济社会发展主要目标，一图速览",
+          "url": "https://wallstreetcn.com/livenews/2992513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "国务院国资委召开中央企业“十五五”规划工作座谈会",
+          "url": "https://wallstreetcn.com/livenews/2992424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "多家外资机构力挺A股，高盛：中国股票的慢牛行情正在酝酿中",
@@ -1775,11 +1820,12 @@
             15,
             11,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时00分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[11时00分 ~ 20时32分]"
         },
         {
           "title": "A股多元金融板块局部拉升，瑞达期货涨停，弘业期货、南华期货、鲁信创投、永安期货、越秀资本跟涨。",
@@ -1805,6 +1851,18 @@
           "time_info": "[16时22分 ~ 19时14分]"
         },
         {
+          "title": "李大霄：A股奋勇收复3900",
+          "url": "https://www.toutiao.com/trending/7564334894269074983/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 20时32分]"
+        },
+        {
           "title": "A股煤炭股掀涨停潮，大有能源豪取10天9板，陕西黑猫、山西焦化、云煤能源、上海能源、郑州煤电、辽宁能源、安泰集团集体封板。",
           "url": "https://wallstreetcn.com/livenews/2992252",
           "source": "华尔街见闻-快讯",
@@ -1815,17 +1873,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 11时40分]"
-        },
-        {
-          "title": "李大霄：A股奋勇收复3900",
-          "url": "https://www.toutiao.com/trending/7564334894269074983/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "A股调整接近尾声 缩量中如何布局",
@@ -1883,6 +1930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "A股尾盘突然强劲拉升 发生了什么",
+          "url": "https://www.toutiao.com/trending/7563247198747738162/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "A股、港股拉升，A股三大指数均翻红",
