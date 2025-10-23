@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T21:30:16.396734+08:00",
-  "total_titles_processed": 2018,
+  "generated_at": "2025-10-23T22:23:06.486215+08:00",
+  "total_titles_processed": 2109,
   "failed_sources": [],
   "trends": [
     {
@@ -124,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时15分 ~ 21时30分]"
+          "appearance_count": 14,
+          "time_info": "[13时15分 ~ 22时23分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -157,6 +157,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时22分 ~ 22时23分]"
         },
         {
           "title": "特朗普：取消与普京的会面",
@@ -193,8 +204,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时15分 ~ 21时30分]"
+          "appearance_count": 14,
+          "time_info": "[13时15分 ~ 22时23分]"
         },
         {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
@@ -220,8 +231,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时00分 ~ 21时30分]"
+          "appearance_count": 19,
+          "time_info": "[11时00分 ~ 22时23分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -289,15 +300,15 @@
           "time_info": "[00时19分 ~ 13时15分]"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
           "source": "凤凰网",
           "ranks": [
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时22分 ~ 21时30分]"
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 22时23分]"
         },
         {
           "title": "特朗普称取消与普京会晤 美国国债总额首次超过38万亿美元 | 环球市场",
@@ -351,17 +362,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时05分 ~ 13时15分]"
-        },
-        {
-          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时30分]"
         },
         {
           "title": "美国对俄施加新制裁，特朗普取消与普京会面",
@@ -862,7 +862,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -961,7 +961,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -1156,7 +1156,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1166,8 +1166,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时05分 ~ 21时30分]"
+          "appearance_count": 21,
+          "time_info": "[09时05分 ~ 22时23分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1272,7 +1272,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -1376,7 +1376,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -1403,6 +1403,39 @@
           "time_info": "16时22分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、黄金ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2992636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/2992635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251023214255610800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "金十图示：2025年10月22日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251023003551309800",
           "source": "金十数据",
@@ -1425,6 +1458,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.1%，纳指平开。特斯拉跌超4%，马斯克下调机器人和Robotaxi目标。能源股普遍上涨，埃克森美孚石油涨超1.8%，康菲石油涨近3%。美国航空涨超4%，此前该公司上调了2025年盈利预期。IBM股价开盘下跌8.3%，为7月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "美股短线跳水，标普500指数跌超1%。",
           "url": "https://flash.jin10.com/detail/20251023003249960800",
           "source": "金十数据",
@@ -1439,7 +1483,7 @@
     },
     {
       "keyword_group": "十五五",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "“十五五”规划建议审议通过",
@@ -1449,8 +1493,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时17分 ~ 21时30分]"
+          "appearance_count": 10,
+          "time_info": "[17时17分 ~ 22时23分]"
         },
         {
           "title": "四中全会审议通过十五五规划建议",
@@ -1461,8 +1505,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时16分 ~ 21时30分]"
+          "appearance_count": 9,
+          "time_info": "[18时16分 ~ 22时23分]"
         },
         {
           "title": "一图速览十五五目标",
@@ -1474,8 +1518,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时16分 ~ 21时30分]"
+          "appearance_count": 9,
+          "time_info": "[18时16分 ~ 22时23分]"
         },
         {
           "title": "国务院国资委召开中央企业“十五五”规划工作座谈会",
@@ -1487,8 +1531,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时17分 ~ 21时30分]"
+          "appearance_count": 10,
+          "time_info": "[17时17分 ~ 22时23分]"
         },
         {
           "title": "十五五规划建议审议通过",
@@ -1498,8 +1542,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时13分 ~ 21时30分]"
+          "appearance_count": 7,
+          "time_info": "[19时13分 ~ 22时23分]"
         },
         {
           "title": "十五五经济社会发展主要目标",
@@ -1510,8 +1554,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时16分 ~ 21时30分]"
+          "appearance_count": 9,
+          "time_info": "[18时16分 ~ 22时23分]"
         },
         {
           "title": "十五五时期经济社会发展主要目标",
@@ -1522,8 +1566,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时16分 ~ 21时30分]"
+          "appearance_count": 9,
+          "time_info": "[18时16分 ~ 22时23分]"
         },
         {
           "title": "四中全会审议通过“十五五”规划建议",
@@ -1533,11 +1577,24 @@
             4,
             5,
             7,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时16分 ~ 21时30分]"
+          "appearance_count": 9,
+          "time_info": "[18时16分 ~ 22时23分]"
+        },
+        {
+          "title": "“十五五”时期，中国将着重办好这些事",
+          "url": "https://www.cls.cn/detail/2178735",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 22时23分]"
         },
         {
           "title": "156份券商研报密集透视“十五五”，这些领域成共识",
@@ -1554,16 +1611,15 @@
           "time_info": "[14时24分 ~ 19时14分]"
         },
         {
-          "title": "“十五五”时期，中国将着重办好这些事",
-          "url": "https://www.cls.cn/detail/2178735",
-          "source": "财联社热门",
+          "title": "“十五五”时期经济社会发展主要目标",
+          "url": "https://www.toutiao.com/trending/7563584092252635186/",
+          "source": "今日头条",
           "ranks": [
-            5,
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "十五五目标",
@@ -1663,7 +1719,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         }
@@ -1780,6 +1836,17 @@
           "time_info": "[00时20分 ~ 03时13分]"
         },
         {
+          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
+          "url": "https://wallstreetcn.com/articles/3757691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 22时23分]"
+        },
+        {
           "title": "黄金价格大跳水 金价到顶了吗",
           "url": "https://www.toutiao.com/trending/7563965781701037609/",
           "source": "今日头条",
@@ -1802,17 +1869,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时18分 ~ 13时15分]"
-        },
-        {
-          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
-          "url": "https://wallstreetcn.com/articles/3757691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时30分]"
         },
         {
           "title": "金价回调可以“上车”了吗",
@@ -1866,7 +1922,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -1911,8 +1967,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时00分 ~ 21时30分]"
+          "appearance_count": 19,
+          "time_info": "[11时00分 ~ 22时23分]"
         },
         {
           "title": "A股多元金融板块局部拉升，瑞达期货涨停，弘业期货、南华期货、鲁信创投、永安期货、越秀资本跟涨。",
@@ -1924,6 +1980,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "A股尾盘突然强劲拉升 发生了什么",
+          "url": "https://www.toutiao.com/trending/7563247198747738162/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 22时23分]"
+        },
+        {
+          "title": "资金“集结”深圳股！涨停股中占四分之一，A股“炒地图”行情再起",
+          "url": "https://www.cls.cn/detail/2178585",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 22时23分]"
         },
         {
           "title": "A股收评：三大指数全线收红",
@@ -1938,18 +2019,6 @@
           "time_info": "[16时22分 ~ 19时14分]"
         },
         {
-          "title": "A股尾盘突然强劲拉升 发生了什么",
-          "url": "https://www.toutiao.com/trending/7563247198747738162/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时30分]"
-        },
-        {
           "title": "李大霄：A股奋勇收复3900",
           "url": "https://www.toutiao.com/trending/7564334894269074983/",
           "source": "今日头条",
@@ -1960,18 +2029,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时13分 ~ 20时32分]"
-        },
-        {
-          "title": "资金“集结”深圳股！涨停股中占四分之一，A股“炒地图”行情再起",
-          "url": "https://www.cls.cn/detail/2178585",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "A股煤炭股掀涨停潮，大有能源豪取10天9板，陕西黑猫、山西焦化、云煤能源、上海能源、郑州煤电、辽宁能源、安泰集团集体封板。",
