@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T16:22:45.752721+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2025-10-23T17:17:26.958384+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 86,
+      "match_count": 88,
       "titles": [
         {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
@@ -100,8 +100,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时14分 ~ 16时22分]"
+          "appearance_count": 13,
+          "time_info": "[07时14分 ~ 17时17分]"
         },
         {
           "title": "特朗普取消与普京会面，克里姆林宫回应",
@@ -111,8 +111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时17分 ~ 16时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时17分 ~ 17时17分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -210,8 +210,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 16时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 17时17分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -231,6 +231,19 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时19分 ~ 12时18分]"
+        },
+        {
+          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时00分 ~ 17时17分]"
         },
         {
           "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
@@ -258,18 +271,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时05分 ~ 14时24分]"
-        },
-        {
-          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时00分 ~ 16时22分]"
         },
         {
           "title": "特朗普取消与普京的会面",
@@ -321,6 +322,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时00分 ~ 11时40分]"
+        },
+        {
+          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
+          "url": "https://wallstreetcn.com/articles/3757694",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 17时17分]"
         },
         {
           "title": "特朗普取消与普京会面",
@@ -391,18 +404,6 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
-          "url": "https://wallstreetcn.com/articles/3757694",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 16时22分]"
-        },
-        {
           "title": "特朗普称取消与普京在布达佩斯的会面",
           "url": "https://news.ifeng.com/c/8nfmpy1DKD2",
           "source": "凤凰网",
@@ -431,7 +432,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -453,7 +454,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -467,6 +468,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 17时17分]"
         },
         {
           "title": "特朗普本周开启第二任期首次亚洲行",
@@ -581,18 +595,6 @@
           "time_info": "[02时22分 ~ 03时13分]"
         },
         {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 16时22分]"
-        },
-        {
           "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
           "url": "https://wallstreetcn.com/livenews/2992039",
           "source": "华尔街见闻-快讯",
@@ -603,6 +605,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时17分]"
         },
         {
           "title": "美国总统特朗普：通用汽车(GM.N)首席执行官Mary Barra和福特汽车(F.N)首席执行官Bill Ford刚刚打电话感谢我对中型和大型卡车征收关税。他们的股价已经飙升。他们告诉我，如果没有这些关税，美国的卡车和汽车制造商将面临一场非常艰难、漫长的“挣扎”。",
@@ -771,6 +784,17 @@
           "time_info": "[04时18分 ~ 05时14分]"
         },
         {
+          "title": "唐驳虎：特朗普第一次对普京动真格",
+          "url": "https://www.toutiao.com/trending/7564280002351468071/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时17分]"
+        },
+        {
           "title": "美企敦促最高法院裁决特朗普关税非法",
           "url": "https://www.toutiao.com/trending/7564008619885202987/",
           "source": "今日头条",
@@ -804,17 +828,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "特斯拉：（与美国总统特朗普相关的）贸易政策和财政政策给业绩前景蒙上阴影。",
           "url": "https://wallstreetcn.com/livenews/2992088",
           "source": "华尔街见闻-快讯",
@@ -835,6 +848,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "俄乌和平进程受阻？特朗普最新表态：取消与普京布达佩斯会晤",
+          "url": "https://www.cls.cn/detail/2177790",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "美国总统特朗普：畜牧场主必须降低价格。",
@@ -865,7 +889,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -936,17 +960,6 @@
           "time_info": "06时12分"
         },
         {
-          "title": "唐驳虎：特朗普第一次对普京动真格",
-          "url": "https://www.toutiao.com/trending/7564280002351468071/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "美国总统特朗普：美国可能对哥伦比亚采取非常严厉的行动。",
           "url": "https://flash.jin10.com/detail/20251023053409345800",
           "source": "金十数据",
@@ -1008,9 +1021,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "为何没人知晓特朗普家族如今赚多少钱",
+          "url": "https://www.toutiao.com/trending/7564312142908755510/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "特朗普称取消与普京在布达佩斯的会面",
@@ -1030,7 +1054,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
@@ -1038,7 +1062,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1048,8 +1072,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时05分 ~ 16时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时05分 ~ 17时17分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1088,8 +1112,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 16时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 17时17分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -1146,6 +1170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)美股盘前涨超1.5%，此前有报道称，蔚来上周交付破万。",
+          "url": "https://flash.jin10.com/detail/20251023164713851800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "小盘股指ETF收跌约1.5%，领跌美股大类资产类ETF，布油基金则涨3.1%",
@@ -1236,7 +1271,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1247,7 +1282,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1369,6 +1404,20 @@
           "time_info": "15时16分"
         },
         {
+          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
+          "url": "https://www.cls.cn/detail/2177936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 17时17分]"
+        },
+        {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
           "url": "https://wallstreetcn.com/livenews/2992013",
           "source": "华尔街见闻-快讯",
@@ -1393,20 +1442,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 05时14分]"
-        },
-        {
-          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
-          "url": "https://www.cls.cn/detail/2177936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 16时22分]"
         },
         {
           "title": "东方汇理预计金价可能在未来三年飙升至5000美元",
@@ -1503,8 +1538,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时00分 ~ 16时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时00分 ~ 17时17分]"
         },
         {
           "title": "A股多元金融板块局部拉升，瑞达期货涨停，弘业期货、南华期货、鲁信创投、永安期货、越秀资本跟涨。",
@@ -1530,6 +1565,41 @@
           "time_info": "[11时01分 ~ 11时40分]"
         },
         {
+          "title": "A股收评：三大指数全线收红",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%85%A8%E7%BA%BF%E6%94%B6%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时17分]"
+        },
+        {
+          "title": "A股调整接近尾声 缩量中如何布局",
+          "url": "https://www.toutiao.com/trending/7564297012753993270/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时17分]"
+        },
+        {
+          "title": "A股三大指数全线收红",
+          "url": "https://www.toutiao.com/trending/7563960812440682538/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时17分]"
+        },
+        {
           "title": "A股次新股震荡走高，建发致新20cm涨停，昊创瑞通、云汉芯城涨超10%，联合动力、广东建科、艾芬达跟涨。",
           "url": "https://wallstreetcn.com/livenews/2992345",
           "source": "华尔街见闻-快讯",
@@ -1550,17 +1620,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
-        },
-        {
-          "title": "A股收评：三大指数全线收红",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%85%A8%E7%BA%BF%E6%94%B6%E7%BA%A2",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         },
         {
           "title": "A股高位人气股持续调整，上实发展、建设机械双双跌停，此前华建集团、睿能科技跌停，蓝丰生化、三孚股份、合肥城建、海鸥住工、远大控股等跟跌。",
@@ -1585,28 +1644,6 @@
           "time_info": "15时16分"
         },
         {
-          "title": "A股调整接近尾声 缩量中如何布局",
-          "url": "https://www.toutiao.com/trending/7564297012753993270/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "A股三大指数全线收红",
-          "url": "https://www.toutiao.com/trending/7563960812440682538/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "A股福建本地股异动拉升，平潭发展直线涨停，海峡创新、厦门港务、漳州发展等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/2992363",
           "source": "华尔街见闻-快讯",
@@ -1616,6 +1653,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "十五五",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "“十五五”规划建议审议通过",
+          "url": "https://www.toutiao.com/trending/7563607644410396726/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "二十四届四中全会：提出“十五五”时期经济社会发展的主要目标",
+          "url": "https://wallstreetcn.com/livenews/2992481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "156份券商研报密集透视“十五五”，这些领域成共识",
+          "url": "https://www.cls.cn/detail/2177972",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 17时17分]"
+        },
+        {
+          "title": "国务院国资委召开中央企业“十五五”规划工作座谈会",
+          "url": "https://www.cls.cn/detail/2178291",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "党的二十届四中全会审议通过“十五五”规划建议",
+          "url": "https://wallstreetcn.com/livenews/2992474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "十五五规划建议审议通过",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE%E5%AE%A1%E8%AE%AE%E9%80%9A%E8%BF%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E5%258D%2581%25E4%25BA%2594%25E4%25BA%2594%25E8%25A7%2584%25E5%2588%2592%25E5%25BB%25BA%25E8%25AE%25AE%25E5%25AE%25A1%25E8%25AE%25AE%25E9%2580%259A%25E8%25BF%2587%2523%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D13%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26band_rank%3D13%26flag%3D1%26pos%3D13%26display_time%3D1761210968%26pre_seqid%3D17612109684310368568755",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "国务院国资委召开中央企业“十五五”规划工作座谈会",
+          "url": "https://wallstreetcn.com/livenews/2992424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -1642,7 +1764,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
@@ -1674,36 +1796,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "十五五",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "156份券商研报密集透视“十五五”，这些领域成共识",
-          "url": "https://www.cls.cn/detail/2177972",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 16时22分]"
-        },
-        {
-          "title": "国务院国资委召开中央企业“十五五”规划工作座谈会",
-          "url": "https://wallstreetcn.com/livenews/2992424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         }
       ]
     }
