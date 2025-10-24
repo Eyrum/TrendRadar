@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T15:15:16.220801+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2025-10-24T16:20:06.338300+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 91,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -41,8 +41,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 15时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普：终止与加拿大的所有贸易谈判",
+          "url": "https://news.ifeng.com/c/8ni2EpR7ztO",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 16时20分]"
         },
         {
           "title": "白宫：特朗普将访问马来西亚、日本、韩国",
@@ -56,6 +68,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时32分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普：终止与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7563606616550703123/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时23分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普赦免赵长鹏，白宫回应“是否利益输送”",
+          "url": "https://news.ifeng.com/c/8nhrwh3rstP",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 16时20分]"
         },
         {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
@@ -74,15 +110,43 @@
           "time_info": "[00时20分 ~ 09时03分]"
         },
         {
-          "title": "特朗普：终止与加拿大的所有贸易谈判",
-          "url": "https://news.ifeng.com/c/8ni2EpR7ztO",
-          "source": "凤凰网",
+          "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
+          "url": "https://www.cls.cn/detail/2179115",
+          "source": "财联社热门",
           "ranks": [
-            1
+            10,
+            11,
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 15时15分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普：美国终止与加拿大的所有贸易谈判",
+          "url": "https://www.cls.cn/detail/2179344",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普特赦赵长鹏，后者承诺帮助美国成为全球加密货币之都，对此你怎么看，其会对市场产生何影响？",
+          "url": "https://www.zhihu.com/question/1964977368591495757",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时32分 ~ 16时20分]"
         },
         {
           "title": "特朗普访日行程公布",
@@ -111,17 +175,6 @@
           "time_info": "[09时03分 ~ 15时15分]"
         },
         {
-          "title": "特朗普：终止与加拿大的贸易谈判",
-          "url": "https://www.toutiao.com/trending/7563606616550703123/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 15时15分]"
-        },
-        {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
           "source": "澎湃新闻",
@@ -148,42 +201,6 @@
           "time_info": "[09时03分 ~ 12时18分]"
         },
         {
-          "title": "特朗普赦免赵长鹏，白宫回应“是否利益输送”",
-          "url": "https://news.ifeng.com/c/8nhrwh3rstP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 15时15分]"
-        },
-        {
-          "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
-          "url": "https://www.cls.cn/detail/2179115",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 15时15分]"
-        },
-        {
-          "title": "特朗普特赦赵长鹏，后者承诺帮助美国成为全球加密货币之都，对此你怎么看，其会对市场产生何影响？",
-          "url": "https://www.zhihu.com/question/1964977368591495757",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时32分 ~ 15时15分]"
-        },
-        {
           "title": "普京回应特朗普取消会晤",
           "url": "https://news.ifeng.com/c/8nhZDfyEWZm",
           "source": "凤凰网",
@@ -195,16 +212,38 @@
           "time_info": "[09时03分 ~ 10时57分]"
         },
         {
-          "title": "特朗普：美国终止与加拿大的所有贸易谈判",
-          "url": "https://www.cls.cn/detail/2179344",
-          "source": "财联社热门",
+          "title": "特朗普：终止与加拿大的所有贸易谈判",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9A%84%E6%89%80%E6%9C%89%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
           "ranks": [
-            7,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 16时20分]"
+        },
+        {
+          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
+          "url": "https://news.ifeng.com/c/8niGt31YVZS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普赦免赵长鹏",
+          "url": "https://www.douyin.com/hot/2280802",
+          "source": "抖音",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时18分 ~ 15时15分]"
+          "time_info": "[14时23分 ~ 16时20分]"
         },
         {
           "title": "美国白宫：（特朗普）与普京的会晤并非完全排除在外。普京与泽连斯基的会晤并非完全排除在外。",
@@ -298,16 +337,16 @@
           "time_info": "[00时20分 ~ 03时14分]"
         },
         {
-          "title": "特朗普：终止与加拿大的所有贸易谈判",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9A%84%E6%89%80%E6%9C%89%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
+          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
+          "url": "https://wallstreetcn.com/articles/3757776",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            13
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时15分 ~ 15时15分]"
+          "time_info": "[11时32分 ~ 16时20分]"
         },
         {
           "title": "特朗普：从现在起终止与加拿大的所有贸易谈判",
@@ -383,17 +422,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时17分]"
-        },
-        {
-          "title": "特朗普赦免赵长鹏",
-          "url": "https://www.douyin.com/hot/2280802",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 15时15分]"
         },
         {
           "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
@@ -483,6 +511,18 @@
           "time_info": "[09时03分 ~ 12时18分]"
         },
         {
+          "title": "特朗普赦免币安创始人赵长鹏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 16时20分]"
+        },
+        {
           "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
           "url": "https://wallstreetcn.com/livenews/2992710",
           "source": "华尔街见闻-快讯",
@@ -494,18 +534,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时17分]"
-        },
-        {
-          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
-          "url": "https://wallstreetcn.com/articles/3757776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 15时15分]"
         },
         {
           "title": "日本首相高市早苗安排10月25日（周六）与美国总统特朗普通电话。（Kyodo）",
@@ -555,6 +583,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时15分]"
+        },
+        {
+          "title": "一则广告惹出祸？特朗普：美国终止与加拿大的所有贸易谈判",
+          "url": "https://www.cls.cn/detail/2179429",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "美国总统特朗普：以色列不会在约旦河西岸采取任何行动。",
@@ -639,17 +678,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时17分]"
-        },
-        {
-          "title": "特朗普赦免币安创始人赵长鹏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "报道：特朗普赦免被定罪的币安创始人赵长鹏。",
@@ -945,7 +973,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -1052,7 +1080,7 @@
     },
     {
       "keyword_group": "十五五",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "十五五规划建议审议通过",
@@ -1084,8 +1112,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 15时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 16时20分]"
         },
         {
           "title": "“十五五”时期经济社会发展主要目标",
@@ -1167,6 +1195,19 @@
           "time_info": "[00时20分 ~ 09时03分]"
         },
         {
+          "title": "“十五五”时期，中国将着重办好这些事",
+          "url": "https://wallstreetcn.com/articles/3757747",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时03分 ~ 16时20分]"
+        },
+        {
           "title": "党的二十届四中全会审议通过“十五五”规划建议",
           "url": "https://wallstreetcn.com/articles/3757729",
           "source": "华尔街见闻",
@@ -1179,21 +1220,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时15分 ~ 15时15分]"
+          "appearance_count": 19,
+          "time_info": "[01时15分 ~ 16时20分]"
         },
         {
-          "title": "“十五五”时期，中国将着重办好这些事",
-          "url": "https://wallstreetcn.com/articles/3757747",
+          "title": "公报里的“十五五”线索有哪些？",
+          "url": "https://wallstreetcn.com/articles/3757748",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5,
-            6
+            8,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 15时15分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 16时20分]"
         },
         {
           "title": "解读十五五规划",
@@ -1206,19 +1247,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时14分 ~ 14时24分]"
-        },
-        {
-          "title": "公报里的“十五五”线索有哪些？",
-          "url": "https://wallstreetcn.com/articles/3757748",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 15时15分]"
         },
         {
           "title": "锚定“十五五”主要目标，未来五年这样干！",
@@ -1257,6 +1285,18 @@
           "time_info": "[10时57分 ~ 11时32分]"
         },
         {
+          "title": "国家卫健委：“十五五”时期将人均预期寿命目标提至80岁左右",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830468",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 16时20分]"
+        },
+        {
           "title": "十五五",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%81%E4%BA%94%E4%BA%94%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D8%26q%3D%2523%25E5%258D%2581%25E4%25BA%2594%25E4%25BA%2594%2523%26stream_entry_id%3D31%26band_rank%3D7%26flag%3D0%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26lcate%3D5001%26realpos%3D7%26display_time%3D1761260996%26pre_seqid%3D1761260995990032377213",
           "source": "微博",
@@ -1281,6 +1321,17 @@
           "time_info": "[10时57分 ~ 11时32分]"
         },
         {
+          "title": "「十五五」规划建议提出前瞻布局未来产业，未来 10 年将再造一个中国高技术产业，将带来哪些变革和机遇？",
+          "url": "https://www.zhihu.com/question/1965005439692435694",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
           "title": "中共中央新闻发布会丨《建议》从四方面部署“十五五”时期对外开放工作",
           "url": "https://wallstreetcn.com/livenews/2992969",
           "source": "华尔街见闻-快讯",
@@ -1291,17 +1342,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 11时32分]"
-        },
-        {
-          "title": "国家卫健委：“十五五”时期将人均预期寿命目标提至80岁左右",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830468",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "十五五6个坚持原则",
@@ -1351,7 +1391,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1389,8 +1429,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时14分 ~ 15时15分]"
+          "appearance_count": 13,
+          "time_info": "[07时14分 ~ 16时20分]"
         },
         {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
@@ -1415,6 +1455,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美股黄金概念股盘前下挫，纽蒙特矿业(NEM.N)跌6.8%，科尔黛伦矿业(CDE.N)跌4.5%，金罗斯黄金(KGC.N)、金田(GFI.N)、哈莫尼黄金(HMY.N)和巴里克黄金(GOLD.N)跌逾2%。",
+          "url": "https://flash.jin10.com/detail/20251024161101799800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "美股黄金股盘前下挫，科尔黛伦矿业跌超4%，金田、哈莫尼黄金跌逾2%。 现货黄金失守4060美元/盎司，日内跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/2993213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "周四（10月23日）纽约尾盘，现货黄金涨0.44%，报4116.53美元/盎司。 COMEX黄金期货涨1.62%，报4131.20美元/盎司。 费城金银指数收涨0.85%，报288.00点。 纽约证交所ARCA金矿开采商指数收涨1.31%，报2070.16点，美股开盘时“跳空”上涨。",
@@ -1532,7 +1594,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "多家外资机构力挺A股，高盛：中国股票的慢牛行情正在酝酿中",
@@ -1557,8 +1619,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 15时15分]"
+          "appearance_count": 11,
+          "time_info": "[09时03分 ~ 16时20分]"
         },
         {
           "title": "资金“集结”深圳股！涨停股中占四分之一，A股“炒地图”行情再起",
@@ -1590,11 +1652,23 @@
           "url": "https://www.cls.cn/detail/2179531",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 16时20分]"
+        },
+        {
+          "title": "A股收评：沪指涨0.71%续创10年新高",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.71%25%E7%BB%AD%E5%88%9B10%E5%B9%B4%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "QFII三季度积极加仓，内外资机构看好A股市场",
@@ -1655,7 +1729,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价高位震荡部分投资者开始卖金",
@@ -1669,6 +1743,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "金价大跌有人刚买镯子想退货",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E5%88%9A%E4%B9%B0%E9%95%AF%E5%AD%90%E6%83%B3%E9%80%80%E8%B4%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E5%2588%259A%25E4%25B9%25B0%25E9%2595%25AF%25E5%25AD%2590%25E6%2583%25B3%25E9%2580%2580%25E8%25B4%25A7%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26flag%3D1%26pos%3D14%26stream_entry_id%3D31%26realpos%3D13%26band_rank%3D13%26display_time%3D1761274568%26pre_seqid%3D176127456802201144434106",
+          "source": "微博",
+          "ranks": [
+            13,
+            21,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 16时20分]"
         },
         {
           "title": "摩根大通：金价未来三年内可能会翻倍",
@@ -1696,31 +1784,29 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
-          "title": "金价大跌有人刚买镯子想退货",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E5%88%9A%E4%B9%B0%E9%95%AF%E5%AD%90%E6%83%B3%E9%80%80%E8%B4%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E5%2588%259A%25E4%25B9%25B0%25E9%2595%25AF%25E5%25AD%2590%25E6%2583%25B3%25E9%2580%2580%25E8%25B4%25A7%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26flag%3D1%26pos%3D14%26stream_entry_id%3D31%26realpos%3D13%26band_rank%3D13%26display_time%3D1761274568%26pre_seqid%3D176127456802201144434106",
-          "source": "微博",
-          "ranks": [
-            13,
-            21,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 15时15分]"
-        },
-        {
           "title": "分析人士：国际金价长期仍看涨",
           "url": "https://www.douyin.com/hot/2280483",
           "source": "抖音",
           "ranks": [
             11,
             10,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时18分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 16时20分]"
+        },
+        {
+          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
@@ -1729,7 +1815,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
