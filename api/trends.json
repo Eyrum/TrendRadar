@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T18:19:21.831034+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2025-10-24T19:14:07.575261+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 96,
+      "match_count": 98,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -30,6 +30,22 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31827023",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            5,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 19时14分]"
+        },
+        {
           "title": "特朗普：终止与加拿大的所有贸易谈判",
           "url": "https://news.ifeng.com/c/8ni2EpR7ztO",
           "source": "凤凰网",
@@ -42,21 +58,6 @@
           "time_info": "[13时15分 ~ 17时17分]"
         },
         {
-          "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31827023",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            9,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普：美国终止与加拿大的所有贸易谈判",
           "url": "https://www.cls.cn/detail/2179344",
           "source": "财联社热门",
@@ -67,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时18分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 19时14分]"
         },
         {
           "title": "白宫：特朗普将访问马来西亚、日本、韩国",
@@ -84,6 +85,17 @@
           "time_info": "[11时32分 ~ 15时15分]"
         },
         {
+          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
+          "url": "https://news.ifeng.com/c/8niGt31YVZS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 19时14分]"
+        },
+        {
           "title": "特朗普赦免赵长鹏，白宫回应“是否利益输送”",
           "url": "https://news.ifeng.com/c/8nhrwh3rstP",
           "source": "凤凰网",
@@ -92,8 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时57分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[10时57分 ~ 19时14分]"
         },
         {
           "title": "特朗普特赦赵长鹏，后者承诺帮助美国成为全球加密货币之都，对此你怎么看，其会对市场产生何影响？",
@@ -104,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时32分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时32分 ~ 19时14分]"
         },
         {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
@@ -163,6 +175,19 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
+          "url": "https://wallstreetcn.com/articles/3757776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时32分 ~ 19时14分]"
+        },
+        {
           "title": "特朗普制裁俄石油业 分析人士：低油价为美国升级行动留出空间",
           "url": "https://www.cls.cn/detail/2179005",
           "source": "财联社热门",
@@ -204,17 +229,6 @@
           "time_info": "[09时03分 ~ 12时18分]"
         },
         {
-          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
-          "url": "https://news.ifeng.com/c/8niGt31YVZS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普赦免赵长鹏",
           "url": "https://www.douyin.com/hot/2280802",
           "source": "抖音",
@@ -240,17 +254,30 @@
           "time_info": "[13时15分 ~ 17时17分]"
         },
         {
-          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
-          "url": "https://wallstreetcn.com/articles/3757776",
-          "source": "华尔街见闻",
+          "title": "特朗普赦免币安创始人赵长鹏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9,
-            7
+            20,
+            17,
+            16,
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时32分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 19时14分]"
+        },
+        {
+          "title": "特朗普警告以色列：不准吞并约旦河西岸",
+          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时14分]"
         },
         {
           "title": "普京回应特朗普取消会晤",
@@ -264,6 +291,19 @@
           "time_info": "[09时03分 ~ 10时57分]"
         },
         {
+          "title": "一则广告惹出祸？特朗普：美国终止与加拿大的所有贸易谈判",
+          "url": "https://www.cls.cn/detail/2179429",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 19时14分]"
+        },
+        {
           "title": "美国白宫：（特朗普）与普京的会晤并非完全排除在外。普京与泽连斯基的会晤并非完全排除在外。",
           "url": "https://flash.jin10.com/detail/20251024015419318800",
           "source": "金十数据",
@@ -273,20 +313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "特朗普赦免币安创始人赵长鹏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 18时19分]"
         },
         {
           "title": "特朗普赦免赵长鹏将带来哪些影响",
@@ -353,17 +379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "特朗普警告以色列：不准吞并约旦河西岸",
-          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "特朗普：美国终止与加拿大的所有贸易谈判",
@@ -514,19 +529,6 @@
           "time_info": "[04时17分 ~ 05时15分]"
         },
         {
-          "title": "一则广告惹出祸？特朗普：美国终止与加拿大的所有贸易谈判",
-          "url": "https://www.cls.cn/detail/2179429",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 18时19分]"
-        },
-        {
           "title": "美国总统特朗普：不认为会要求对贩毒集团宣战。",
           "url": "https://flash.jin10.com/detail/20251024042517684800",
           "source": "金十数据",
@@ -537,6 +539,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时15分]"
+        },
+        {
+          "title": "赵长鹏回应获特朗普赦免",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E9%95%BF%E9%B9%8F%E5%9B%9E%E5%BA%94%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时14分]"
         },
         {
           "title": "特朗普对普京翻脸 俄乌还可能和谈吗",
@@ -640,6 +655,17 @@
           "time_info": "[05时15分 ~ 06时15分]"
         },
         {
+          "title": "特朗普为何终止与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7564700176221212196/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
           "title": "美国总统特朗普：以色列不会在约旦河西岸采取任何行动。",
           "url": "https://flash.jin10.com/detail/20251024041334710800",
           "source": "金十数据",
@@ -724,18 +750,6 @@
           "time_info": "[03时14分 ~ 04时17分]"
         },
         {
-          "title": "赵长鹏回应获特朗普赦免",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E9%95%BF%E9%B9%8F%E5%9B%9E%E5%BA%94%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时19分]"
-        },
-        {
           "title": "报道：特朗普赦免被定罪的币安创始人赵长鹏。",
           "url": "https://wallstreetcn.com/livenews/2992675",
           "source": "华尔街见闻-快讯",
@@ -746,6 +760,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
+          "title": "泽连斯基为何提交拜登黑料给特朗普",
+          "url": "https://www.toutiao.com/trending/7564698389833584191/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "白宫：特朗普与普京会晤并非完全不可能",
@@ -875,7 +900,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1272,8 +1297,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 18时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时03分 ~ 19时14分]"
         },
         {
           "title": "党的二十届四中全会审议通过“十五五”规划建议",
@@ -1302,8 +1327,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时57分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[10时57分 ~ 19时14分]"
+        },
+        {
+          "title": "锚定“十五五”主要目标，未来五年这样干！",
+          "url": "https://wallstreetcn.com/articles/3757754",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 19时14分]"
         },
         {
           "title": "解读十五五规划",
@@ -1318,19 +1356,6 @@
           "time_info": "[07时14分 ~ 14时24分]"
         },
         {
-          "title": "锚定“十五五”主要目标，未来五年这样干！",
-          "url": "https://wallstreetcn.com/articles/3757754",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 18时19分]"
-        },
-        {
           "title": "国家卫健委：“十五五”时期将人均预期寿命目标提至80岁左右",
           "url": "https://m.thepaper.cn/newsDetail_forward_31830468",
           "source": "澎湃新闻",
@@ -1338,11 +1363,25 @@
             16,
             14,
             13,
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 19时14分]"
+        },
+        {
+          "title": "「十五五」规划建议提出前瞻布局未来产业，未来 10 年将再造一个中国高技术产业，将带来哪些变革和机遇？",
+          "url": "https://www.zhihu.com/question/1965005439692435694",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时14分 ~ 18时19分]"
+          "time_info": "[16时19分 ~ 19时14分]"
         },
         {
           "title": "韩文秀：“十五五”时期具体的定量指标和重大工程项目将在“十五五”规划《纲要》中予以明确",
@@ -1355,19 +1394,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 11时32分]"
-        },
-        {
-          "title": "「十五五」规划建议提出前瞻布局未来产业，未来 10 年将再造一个中国高技术产业，将带来哪些变革和机遇？",
-          "url": "https://www.zhihu.com/question/1965005439692435694",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 18时19分]"
         },
         {
           "title": "中共中央新闻发布会丨 “十五五”时期预计将建设改造地下管网超过70万公里，新增投资需求超过5万亿元",
@@ -1392,6 +1418,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时14分 ~ 09时03分]"
+        },
+        {
+          "title": "一图速览丨“十五五”时期经济社会发展指导方针",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31827784",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时14分]"
         },
         {
           "title": "中共中央新闻发布会丨“十五五”时期 既重视“中国经济”也重视“中国人经济”",
@@ -1440,17 +1478,6 @@
           "time_info": "12时18分"
         },
         {
-          "title": "一图速览丨“十五五”时期经济社会发展指导方针",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31827784",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "韩文秀：《建议》明确“十五五”时期经济社会发展主要目标",
           "url": "https://wallstreetcn.com/livenews/2992942",
           "source": "华尔街见闻-快讯",
@@ -1479,7 +1506,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1536,8 +1563,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时14分 ~ 18时19分]"
+          "appearance_count": 17,
+          "time_info": "[07时14分 ~ 19时14分]"
         },
         {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
@@ -1701,7 +1728,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "多家外资机构力挺A股，高盛：中国股票的慢牛行情正在酝酿中",
@@ -1751,8 +1778,22 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 19时14分]"
+        },
+        {
+          "title": "A股收评：沪指涨0.71%续创10年新高",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.71%25%E7%BB%AD%E5%88%9B10%E5%B9%B4%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            28,
+            24,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时14分 ~ 18时19分]"
+          "time_info": "[16时19分 ~ 19时14分]"
         },
         {
           "title": "林园：4300点是A股牛市的起点",
@@ -1768,17 +1809,16 @@
           "time_info": "[00时20分 ~ 05时15分]"
         },
         {
-          "title": "A股收评：沪指涨0.71%续创10年新高",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.71%25%E7%BB%AD%E5%88%9B10%E5%B9%B4%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
+          "title": "A股未来五年大方向在哪里",
+          "url": "https://www.toutiao.com/trending/7564697479606701631/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            28,
-            24
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时14分]"
         },
         {
           "title": "李大霄：A股创下十年新高 成交量不足",
@@ -1802,6 +1842,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "中国移动：10月24日，广东移动行使换股权将其持有的合计面值人民币14.84亿元（约合16.26亿港元）浦发银行A股可转债按照每股人民币12.51元（约合13.71港元）之转股价转为约1.19亿股之浦发银行A股。",
+          "url": "https://wallstreetcn.com/livenews/2993358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "A股可控核聚变概念午后拉升，中国核建冲击涨停，应流股份、哈焊华通、合锻智能、永鼎股份等纷纷走强。",
@@ -1835,17 +1886,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
-        },
-        {
-          "title": "A股未来五年大方向在哪里",
-          "url": "https://www.toutiao.com/trending/7564697479606701631/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "A股算力硬件股午后持续走强，中际旭创大涨10%，方正科技触及涨停，胜宏科技、景旺电子、新易盛、工业富联多股涨超5%。",
@@ -1938,11 +1978,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 19时14分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
