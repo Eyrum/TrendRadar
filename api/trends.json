@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T15:15:38.507552+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2025-10-28T16:21:01.605777+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 63,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -114,6 +114,20 @@
           "time_info": "[11时06分 ~ 15时15分]"
         },
         {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 16时21分]"
+        },
+        {
           "title": "特朗普到底薅了全世界多少钱",
           "url": "https://www.toutiao.com/trending/7565875834884460086/",
           "source": "今日头条",
@@ -126,6 +140,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 05时14分]"
+        },
+        {
+          "title": "高市早苗给特朗普送礼 日网民炸锅",
+          "url": "https://www.toutiao.com/trending/7566135501460098598/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "特朗普：愿意延长亚洲行与金正恩会面",
@@ -149,6 +174,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "美国总统特朗普：日本是美国的大投资者。",
+          "url": "https://flash.jin10.com/detail/20251028155739360800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "特朗普：我们将重新开始造船，很快就会这么做。 我们将与日本合作造船。 日本是美国的大投资者。 丰田将在美国建厂，价值将高达100亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2994894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "美军机南海坠毁 特朗普：可能油不好",
@@ -187,6 +234,17 @@
           "time_info": "09时13分"
         },
         {
+          "title": "美国总统特朗普：丰田将在美国建造价值高达100亿美元的工厂。",
+          "url": "https://flash.jin10.com/detail/20251028155533375800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "美国总统特朗普：感谢日本首相的欢迎。 正签署一项新协议，这是一项非常公平的协议。 我们将一起开展大量贸易。",
           "url": "https://wallstreetcn.com/livenews/2994635",
           "source": "华尔街见闻-快讯",
@@ -209,28 +267,26 @@
           "time_info": "09时13分"
         },
         {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 15时15分]"
-        },
-        {
           "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
           "url": "https://flash.jin10.com/detail/20251028145714701800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "美国总统特朗普：我们又开始造船了，我们很快就会造。",
+          "url": "https://flash.jin10.com/detail/20251028155313523800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普东京下榻酒店军犬检查车辆",
@@ -292,6 +348,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时12分]"
+        },
+        {
+          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
+          "url": "https://www.toutiao.com/trending/7566111913025900074/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时21分]"
         },
         {
           "title": "特朗普再提2028参选可能，点名两个潜在继任者",
@@ -529,6 +597,28 @@
           "time_info": "09时13分"
         },
         {
+          "title": "特朗普：高市早苗在谈判中很强硬，但双方关系良好。",
+          "url": "https://wallstreetcn.com/livenews/2994870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "高市早苗：日本做好准备为和平与稳定作出更多贡献。 将与特朗普一起将盟友关系推升至新的高度。",
+          "url": "https://wallstreetcn.com/livenews/2994867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "特朗普盛赞盟友日本，更向高市承诺将努力“满足任何要求”",
           "url": "https://flash.jin10.com/detail/20251028100012683800",
           "source": "金十数据",
@@ -562,6 +652,17 @@
           "time_info": "09时13分"
         },
         {
+          "title": "特朗普：美日拥有令人珍视的同盟关系。",
+          "url": "https://wallstreetcn.com/livenews/2994862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "加拿大安大略省省长：美国总统特朗普正在找借口不达成协议。",
           "url": "https://flash.jin10.com/detail/20251028001555308800",
           "source": "金十数据",
@@ -584,6 +685,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "美国总统特朗普：本周将向日本交付首批导弹。",
+          "url": "https://flash.jin10.com/detail/20251028152925804800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "日本天皇用英语说很高兴见到特朗普",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%25A9%25E7%259A%2587%25E7%2594%25A8%25E8%258B%25B1%25E8%25AF%25AD%25E8%25AF%25B4%25E5%25BE%2588%25E9%25AB%2598%25E5%2585%25B4%25E8%25A7%2581%25E5%2588%25B0%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D23%26c_type%3D31%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D23%26pos%3D24%26lcate%3D5001%26display_time%3D1761620107%26pre_seqid%3D17616201073920207647278",
           "source": "微博",
@@ -595,15 +707,15 @@
           "time_info": "11时06分"
         },
         {
-          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
-          "url": "https://www.toutiao.com/trending/7566111913025900074/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：美日联盟是“整个世界上最卓越的关系之一”。",
+          "url": "https://flash.jin10.com/detail/20251028152443500800",
+          "source": "金十数据",
           "ranks": [
-            27
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "16时21分"
         },
         {
           "title": "高市早苗会见特朗普 现场奏美国国歌",
@@ -631,7 +743,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "A股时隔十年再近4000点",
@@ -676,11 +788,12 @@
           "ranks": [
             2,
             8,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 15时15分]"
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 16时21分]"
         },
         {
           "title": "野村证券：将药明康德A股目标价从93.49元上调至118.83元；将其港股目标价从102.77港元上调至130.63港元。",
@@ -742,6 +855,17 @@
           "time_info": "[12时19分 ~ 12时20分]"
         },
         {
+          "title": "A股涨到4010点回落 周三会变盘吗",
+          "url": "https://www.toutiao.com/trending/7566165187783298606/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
           "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
           "url": "https://wallstreetcn.com/livenews/2994791",
           "source": "华尔街见闻-快讯",
@@ -764,6 +888,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时25分 ~ 15时15分]"
+        },
+        {
+          "title": "A股收盘 沪指冲高回落收跌0.22%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98+%E6%B2%AA%E6%8C%87%E5%86%B2%E9%AB%98%E5%9B%9E%E8%90%BD%E6%94%B6%E8%B7%8C0.22%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "A股冲4000点后为何跳水",
+          "url": "https://www.toutiao.com/trending/7566173470686449198/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "A股收复4000点 牛市真来了吗",
+          "url": "https://www.toutiao.com/trending/7566126894614056502/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "A股重返4000点该乐观还是恐高",
@@ -799,6 +956,17 @@
           "time_info": "14时25分"
         },
         {
+          "title": "A股收盘：沪指4000点得而复失收跌0.22%，福建、军工板块集体爆发",
+          "url": "https://wallstreetcn.com/livenews/2994850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "A股机器人概念震荡拉升，南京聚隆涨超12%，永茂泰此前涨停，青岛双星3连板，大洋电机、三花智控、新瀚新材跟涨。",
           "url": "https://wallstreetcn.com/livenews/2994668",
           "source": "华尔街见闻-快讯",
@@ -816,6 +984,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时12分 ~ 16时21分]"
+        },
+        {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
           "url": "https://www.cls.cn/detail/2182682",
           "source": "财联社热门",
@@ -828,17 +1007,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时15分 ~ 15时15分]"
-        },
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时12分 ~ 15时15分]"
         },
         {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
@@ -996,11 +1164,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 16时21分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1014,6 +1183,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时12分]"
+        },
+        {
+          "title": "金价突然杀跌原因何在",
+          "url": "https://www.toutiao.com/trending/7565674495126847531/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时21分]"
         },
         {
           "title": "金价",
@@ -1045,18 +1226,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "金价突然杀跌原因何在",
-          "url": "https://www.toutiao.com/trending/7565674495126847531/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
@@ -1211,6 +1381,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "工业金属",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "铜铝齐飞！当贵金属黯然失色时 工业金属的“冲锋号”依然嘹亮",
+          "url": "https://www.cls.cn/detail/2183151",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         }
       ]
     }
