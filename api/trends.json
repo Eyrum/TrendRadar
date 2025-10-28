@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T14:25:03.634557+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2025-10-28T15:15:38.507552+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -101,6 +101,19 @@
           "time_info": "[00时19分 ~ 01时14分]"
         },
         {
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时06分 ~ 15时15分]"
+        },
+        {
           "title": "特朗普到底薅了全世界多少钱",
           "url": "https://www.toutiao.com/trending/7565875834884460086/",
           "source": "今日头条",
@@ -125,18 +138,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时12分 ~ 13时16分]"
-        },
-        {
-          "title": "高市早苗会见特朗普 多次伸手笑容满面",
-          "url": "https://www.toutiao.com/trending/7565063392713575990/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时06分 ~ 14时25分]"
         },
         {
           "title": "美国总统特朗普：正在与日本签署一项新协议，这是一项公平的协议。",
@@ -213,11 +214,23 @@
           "source": "今日头条",
           "ranks": [
             8,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时15分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
+          "url": "https://flash.jin10.com/detail/20251028145714701800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "特朗普东京下榻酒店军犬检查车辆",
@@ -304,6 +317,18 @@
           "time_info": "[09时12分 ~ 11时06分]"
         },
         {
+          "title": "高市早苗想推荐特朗普角逐和平奖",
+          "url": "https://www.toutiao.com/trending/7566126453180452390/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 15时15分]"
+        },
+        {
           "title": "特朗普访日遇运酒车翻倒专车改道",
           "url": "https://www.toutiao.com/trending/7565133400080895494/",
           "source": "今日头条",
@@ -337,17 +362,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时22分]"
-        },
-        {
-          "title": "高市早苗想推荐特朗普角逐和平奖",
-          "url": "https://www.toutiao.com/trending/7566126453180452390/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
@@ -581,6 +595,17 @@
           "time_info": "11时06分"
         },
         {
+          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
+          "url": "https://www.toutiao.com/trending/7566111913025900074/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "高市早苗会见特朗普 现场奏美国国歌",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE+%E7%8E%B0%E5%9C%BA%E5%A5%8F%E7%BE%8E%E5%9B%BD%E5%9B%BD%E6%AD%8C",
           "source": "百度热搜",
@@ -637,33 +662,12 @@
             14,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 14时25分]"
-        },
-        {
-          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2994817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "三花智控A股午后拉升触及涨停，股价创历史新高；三花智控港股涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/2994815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 15时15分]"
         },
         {
           "title": "李大霄解读A股突破4000点",
@@ -671,11 +675,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时15分]"
         },
         {
           "title": "野村证券：将药明康德A股目标价从93.49元上调至118.83元；将其港股目标价从102.77港元上调至130.63港元。",
@@ -690,6 +695,42 @@
           "time_info": "[12时20分 ~ 13时16分]"
         },
         {
+          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2994817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 15时15分]"
+        },
+        {
+          "title": "三花智控A股午后拉升触及涨停，股价创历史新高；三花智控港股涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/2994815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 15时15分]"
+        },
+        {
+          "title": "A股黄金、有色金属板块午后震荡下挫，铜陵有色接近跌停，江西铜业、豫光金铅、云南铜业跌超5%，兴业银锡、紫金矿业纷纷下挫。",
+          "url": "https://wallstreetcn.com/livenews/2994805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 15时15分]"
+        },
+        {
           "title": "A股突破4000点",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23A%E8%82%A1%E7%AA%81%E7%A0%B44000%E7%82%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D10%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26band_rank%3D10%26cate%3D5001%26q%3D%2523A%25E8%2582%25A1%25E7%25AA%2581%25E7%25A0%25B44000%25E7%2582%25B9%2523%26pos%3D10%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1761624603%26pre_seqid%3D17616246033700122575252",
           "source": "微博",
@@ -701,15 +742,28 @@
           "time_info": "[12时19分 ~ 12时20分]"
         },
         {
-          "title": "A股黄金、有色金属板块午后震荡下挫，铜陵有色接近跌停，江西铜业、豫光金铅、云南铜业跌超5%，兴业银锡、紫金矿业纷纷下挫。",
-          "url": "https://wallstreetcn.com/livenews/2994805",
+          "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
+          "url": "https://wallstreetcn.com/livenews/2994791",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 15时15分]"
+        },
+        {
+          "title": "A股军工板块持续走强，江龙船艇20cm涨停，国瑞科技涨超10%，北方长龙、天海防务、航天智装、中科海讯等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2994785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 15时15分]"
         },
         {
           "title": "A股重返4000点该乐观还是恐高",
@@ -734,35 +788,13 @@
           "time_info": "11时06分"
         },
         {
-          "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
-          "url": "https://wallstreetcn.com/livenews/2994791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "A股军工板块持续走强，江龙船艇20cm涨停，国瑞科技涨超10%，北方长龙、天海防务、航天智装、中科海讯等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/2994785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
           "title": "A股福建本地股午后持续爆发，路桥信息涨超25%，海峡创新、福建水泥、南方路机、海峡环保等近20股涨停。",
           "url": "https://wallstreetcn.com/livenews/2994781",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -794,8 +826,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时15分 ~ 14时25分]"
+          "appearance_count": 10,
+          "time_info": "[07时15分 ~ 15时15分]"
         },
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -805,8 +837,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时12分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 15时15分]"
         },
         {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
@@ -945,7 +977,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -955,8 +987,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时12分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 15时15分]"
         },
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -967,8 +999,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 15时15分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1005,6 +1037,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "分析师：贸易乐观情绪拖累金价 避险买盘有所减少",
+          "url": "https://flash.jin10.com/detail/20251028144551726800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "金价突然杀跌原因何在",
+          "url": "https://www.toutiao.com/trending/7565674495126847531/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     },
