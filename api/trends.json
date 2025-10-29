@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T14:23:50.955979+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2025-10-29T15:17:02.504932+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 99,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -20,6 +20,17 @@
           "time_info": "[00时27分 ~ 07时14分]"
         },
         {
+          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
+          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 15时17分]"
+        },
+        {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
           "url": "https://v.ifeng.com/c/8noT1p8iWLt",
           "source": "凤凰网",
@@ -29,6 +40,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 04时18分]"
+        },
+        {
+          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
+          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 15时17分]"
         },
         {
           "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
@@ -42,28 +64,6 @@
           "time_info": "[00时27分 ~ 07时14分]"
         },
         {
-          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
-          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 14时23分]"
-        },
-        {
-          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
-          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 14时23分]"
-        },
-        {
           "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
           "url": "https://news.ifeng.com/c/8np198dmCFI",
           "source": "凤凰网",
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
+          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 15时17分]"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
@@ -90,17 +101,6 @@
           "time_info": "[00时27分 ~ 09时10分]"
         },
         {
-          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
-          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 14时23分]"
-        },
-        {
           "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
           "url": "https://www.zhihu.com/question/1966809012960977218",
           "source": "知乎",
@@ -108,8 +108,47 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 15时17分]"
+        },
+        {
+          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时12分 ~ 15时17分]"
+        },
+        {
+          "title": "习近平将同特朗普举行会晤",
+          "url": "https://www.douyin.com/hot/2287259",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
+          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 15时17分]"
         },
         {
           "title": "特朗普在美航母上讲话时用手拍导弹",
@@ -121,6 +160,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "高市早苗被特朗普介绍后高兴到转圈",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8B%E7%BB%8D%E5%90%8E%E9%AB%98%E5%85%B4%E5%88%B0%E8%BD%AC%E5%9C%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26band_rank%3D2%26stream_entry_id%3D31%26realpos%3D2%26dgr%3D0%26flag%3D1%26cate%3D5001%26pos%3D1%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E8%25A2%25AB%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25BB%258B%25E7%25BB%258D%25E5%2590%258E%25E9%25AB%2598%25E5%2585%25B4%25E5%2588%25B0%25E8%25BD%25AC%25E5%259C%2588%2523%26display_time%3D1761722143%26pre_seqid%3D17617221430680113880832",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "高市早苗被特朗普搂肩称赞 高兴蹦跳",
@@ -165,6 +215,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "特朗普抵韩 落地后专属BGM响起",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 15时17分]"
         },
         {
           "title": "美国参议院通过法案，终止美国总统特朗普针对巴西的关税措施。",
@@ -233,33 +296,6 @@
           "time_info": "13时18分"
         },
         {
-          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 14时23分]"
-        },
-        {
-          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 14时23分]"
-        },
-        {
           "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
           "url": "https://wallstreetcn.com/livenews/2995354",
           "source": "华尔街见闻-快讯",
@@ -309,18 +345,6 @@
           "time_info": "[02时24分 ~ 03时14分]"
         },
         {
-          "title": "特朗普抵韩 落地后专属BGM响起",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 14时23分]"
-        },
-        {
           "title": "特朗普访日在美士兵面前即兴起舞",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D%E5%8D%B3%E5%85%B4%E8%B5%B7%E8%88%9E",
           "source": "百度热搜",
@@ -344,6 +368,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时17分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普为何抨击美航母电磁弹射技术",
+          "url": "https://www.toutiao.com/trending/7566463348447907366/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 15时17分]"
+        },
+        {
+          "title": "韩国拟赠特朗普金色王冠模型",
+          "url": "https://www.toutiao.com/trending/7565866566953271346/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 15时17分]"
+        },
+        {
+          "title": "媒体：高市早苗极力讨好特朗普却演砸",
+          "url": "https://www.toutiao.com/trending/7566495048360005161/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "特朗普媒体与科技公司：“真相社交”将与Crypto.com合作，即将开始在“真相社交”上进行测试，随后将在美国全面推出。",
@@ -404,6 +463,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普：韩国谈判非常厉害。 韩国已成为造船业的佼佼者。",
+          "url": "https://wallstreetcn.com/livenews/2995637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时17分]"
+        },
+        {
+          "title": "韩国总统：特朗普做得很好，带来了和平。 将在造船业上合作。",
+          "url": "https://wallstreetcn.com/livenews/2995634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时17分]"
         },
         {
           "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
@@ -605,17 +688,6 @@
           "time_info": "12时22分"
         },
         {
-          "title": "特朗普：韩国谈判非常厉害。 韩国已成为造船业的佼佼者。",
-          "url": "https://wallstreetcn.com/livenews/2995637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
           "title": "美国总统特朗普：与韩国的协议很快就会最终敲定。",
           "url": "https://flash.jin10.com/detail/20251029123731778800",
           "source": "金十数据",
@@ -660,17 +732,6 @@
           "time_info": "13时18分"
         },
         {
-          "title": "韩国总统：特朗普做得很好，带来了和平。 将在造船业上合作。",
-          "url": "https://wallstreetcn.com/livenews/2995634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
           "title": "美国总统特朗普：简化新能源和采矿项目的审批流程。",
           "url": "https://flash.jin10.com/detail/20251029123125103800",
           "source": "金十数据",
@@ -688,7 +749,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -765,7 +826,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -814,17 +875,6 @@
           "time_info": "02时24分"
         },
         {
-          "title": "特朗普为何抨击美航母电磁弹射技术",
-          "url": "https://www.toutiao.com/trending/7566463348447907366/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
           "title": "特朗普在日本欢迎仪式尴尬绕场",
           "url": "https://www.douyin.com/hot/2285984",
           "source": "抖音",
@@ -864,7 +914,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -908,7 +958,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -1001,6 +1051,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "美国纽约州北部莱茵贝克一年一度的圣诞庆祝活动26年来首次被取消。组织者将取消原因归咎于特朗普关税直接导致的成本上升。",
+          "url": "https://flash.jin10.com/detail/20251029144739286800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
           "url": "https://wallstreetcn.com/livenews/2995211",
           "source": "华尔街见闻-快讯",
@@ -1043,17 +1104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "韩国拟赠特朗普金色王冠模型",
-          "url": "https://www.toutiao.com/trending/7565866566953271346/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
         },
         {
           "title": "美国总统特朗普：我们已确保超过18万亿美元的新投资承诺。",
@@ -1104,8 +1154,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时15分 ~ 14时23分]"
+          "appearance_count": 10,
+          "time_info": "[06时15分 ~ 15时17分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -1277,6 +1327,152 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
+          "url": "https://wallstreetcn.com/articles/3758018",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时14分]"
+        },
+        {
+          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
+          "url": "https://wallstreetcn.com/articles/3758026",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 09时10分]"
+        },
+        {
+          "title": "金价跌破3900美元 未来会是什么走势",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B43900%E7%BE%8E%E5%85%83+%E6%9C%AA%E6%9D%A5%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E8%B5%B0%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            21,
+            14,
+            13,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 09时10分]"
+        },
+        {
+          "title": "金价银价暴跌原因",
+          "url": "https://www.douyin.com/hot/2285515",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 04时18分]"
+        },
+        {
+          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
+          "url": "https://www.cls.cn/detail/2184251",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 15时17分]"
+        },
+        {
+          "title": "现货黄金跌破 3900 美元，6 个交易日累计跌超 10％，黄金是否还具备投资价值？未来金价走势如何？",
+          "url": "https://www.zhihu.com/question/1966579524385903459",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
+          "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
+          "url": "https://flash.jin10.com/detail/20251029061557323800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "金十图示：2025年10月29日（周三）上海金午盘价为908.34元/克，较国际金价(908.26元/克)，高0.08元/克",
+          "url": "https://flash.jin10.com/detail/20251029150439553800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "金十图示：2025年10月29日（周三）上海金早盘价为906.41元/克，较国际金价(905.97元/克)，高0.44元/克",
+          "url": "https://flash.jin10.com/detail/20251029101751892800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "金价暴跌有投资者打算割肉离场",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E6%89%93%E7%AE%97%E5%89%B2%E8%82%89%E7%A6%BB%E5%9C%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E6%258A%2595%25E8%25B5%2584%25E8%2580%2585%25E6%2589%2593%25E7%25AE%2597%25E5%2589%25B2%25E8%2582%2589%25E7%25A6%25BB%25E5%259C%25BA%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26band_rank%3D25%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D25%26pos%3D25%26dgr%3D0%26display_time%3D1761700200%26pre_seqid%3D17617002001060261635772",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "金价回调原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D30%26c_type%3D31%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%259B%259E%25E8%25B0%2583%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26band_rank%3D29%26realpos%3D29%26cate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1761691813%26pre_seqid%3D176169181324703449847101",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "汇丰：金价料将于明年上半年见顶 峰值指向4400美元",
+          "url": "https://flash.jin10.com/detail/20251029144255061800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "十五五",
       "match_count": 11,
       "titles": [
@@ -1289,8 +1485,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 14时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 15时17分]"
         },
         {
           "title": "“十五五”这项任务排首位",
@@ -1355,6 +1551,17 @@
           "time_info": "[00时27分 ~ 07时14分]"
         },
         {
+          "title": "【早报】“十五五”时期，将重点发展这些新产业；大涨近5%，英伟达总市值逼近5万亿美元",
+          "url": "https://www.cls.cn/detail/2184114",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 15时17分]"
+        },
+        {
           "title": "十五五规划建议全文",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE%E5%85%A8%E6%96%87",
           "source": "bilibili 热搜",
@@ -1371,17 +1578,6 @@
           "time_info": "[00时27分 ~ 14时23分]"
         },
         {
-          "title": "【早报】“十五五”时期，将重点发展这些新产业；大涨近5%，英伟达总市值逼近5万亿美元",
-          "url": "https://www.cls.cn/detail/2184114",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 14时23分]"
-        },
-        {
           "title": "十五五规划建议发布 更清晰的方向",
           "url": "https://www.baidu.com/s?wd=%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%BB%BA%E8%AE%AE%E5%8F%91%E5%B8%83+%E6%9B%B4%E6%B8%85%E6%99%B0%E7%9A%84%E6%96%B9%E5%90%91",
           "source": "百度热搜",
@@ -1389,8 +1585,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时12分 ~ 15时17分]"
         },
         {
           "title": "“十五五”规划建议61条",
@@ -1400,8 +1596,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 15时17分]"
         },
         {
           "title": "未来五年有哪些新重点：十五五和十四五规划建议稿的比较研读",
@@ -1413,127 +1609,14 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 14时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
-          "url": "https://wallstreetcn.com/articles/3758018",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
-          "url": "https://wallstreetcn.com/articles/3758026",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 09时10分]"
-        },
-        {
-          "title": "金价跌破3900美元 未来会是什么走势",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B43900%E7%BE%8E%E5%85%83+%E6%9C%AA%E6%9D%A5%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E8%B5%B0%E5%8A%BF",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            21,
-            14,
-            13,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 09时10分]"
-        },
-        {
-          "title": "金价银价暴跌原因",
-          "url": "https://www.douyin.com/hot/2285515",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 04时18分]"
-        },
-        {
-          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
-          "url": "https://www.cls.cn/detail/2184251",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 14时23分]"
-        },
-        {
-          "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
-          "url": "https://flash.jin10.com/detail/20251029061557323800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "金十图示：2025年10月29日（周三）上海金早盘价为906.41元/克，较国际金价(905.97元/克)，高0.44元/克",
-          "url": "https://flash.jin10.com/detail/20251029101751892800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "金价暴跌有投资者打算割肉离场",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E6%89%93%E7%AE%97%E5%89%B2%E8%82%89%E7%A6%BB%E5%9C%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E6%258A%2595%25E8%25B5%2584%25E8%2580%2585%25E6%2589%2593%25E7%25AE%2597%25E5%2589%25B2%25E8%2582%2589%25E7%25A6%25BB%25E5%259C%25BA%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26band_rank%3D25%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D25%26pos%3D25%26dgr%3D0%26display_time%3D1761700200%26pre_seqid%3D17617002001060261635772",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "金价回调原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D30%26c_type%3D31%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%259B%259E%25E8%25B0%2583%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26band_rank%3D29%26realpos%3D29%26cate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1761691813%26pre_seqid%3D176169181324703449847101",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 15时17分]"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-10-29）",
@@ -1545,6 +1628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "A股尾盘铜矿股异动拉升，江西铜业触及涨停，云南铜业、北方铜业、铜陵有色、洛阳钼业、金诚信等跟涨",
+          "url": "https://wallstreetcn.com/livenews/2995675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "3000余家A股公司三季报“交卷”，科技创新加速转化为业绩增长引擎",
@@ -1575,7 +1669,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -1586,7 +1680,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -1597,7 +1691,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
@@ -1634,6 +1728,35 @@
       ]
     },
     {
+      "keyword_group": "铜价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "智利央行：铜价已呈现出显著上涨态势。",
+          "url": "https://flash.jin10.com/detail/20251029050823373800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "铜矿中断增加供应风险，铜价触及纪录高位",
+          "url": "https://flash.jin10.com/detail/20251029145736932800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1648,24 +1771,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铜价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "智利央行：铜价已呈现出显著上涨态势。",
-          "url": "https://flash.jin10.com/detail/20251029050823373800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时14分]"
         }
       ]
     }
