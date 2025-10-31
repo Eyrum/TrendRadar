@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T21:27:21.569188+08:00",
-  "total_titles_processed": 1892,
+  "generated_at": "2025-10-31T22:17:58.586448+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时09分 ~ 21时27分]"
+          "appearance_count": 15,
+          "time_info": "[11时09分 ~ 22时17分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -81,8 +81,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时09分 ~ 21时27分]"
+          "appearance_count": 15,
+          "time_info": "[11时09分 ~ 22时17分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -122,8 +122,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时06分 ~ 21时27分]"
+          "appearance_count": 17,
+          "time_info": "[09时06分 ~ 22时17分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -213,6 +213,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[09时06分 ~ 21时27分]"
+        },
+        {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 22时17分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -316,18 +328,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 04时18分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时27分]"
         },
         {
           "title": "特朗普全面关税被参议院批准终止",
@@ -731,6 +731,17 @@
           "time_info": "13时17分"
         },
         {
+          "title": "土耳其外交部长：与美国总统特朗普在纽约会晤讨论加沙问题的各国外交部长将于下周一召开会议，商讨加沙停火事宜。",
+          "url": "https://flash.jin10.com/detail/20251031214220761800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "市场消息：美国参议院已获得足够票数通过旨在终止特朗普为实施全球关税而宣布的国家紧急状态的决议。",
           "url": "https://flash.jin10.com/detail/20251031011523348800",
           "source": "金十数据",
@@ -767,7 +778,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -778,8 +789,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时13分 ~ 21时27分]"
+          "appearance_count": 19,
+          "time_info": "[07时13分 ~ 22时17分]"
         },
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -926,6 +937,18 @@
           "time_info": "[09时06分 ~ 11时09分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2997747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时17分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)美股盘后大涨超10%。",
           "url": "https://flash.jin10.com/detail/20251031040446703800",
           "source": "金十数据",
@@ -948,6 +971,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时17分]"
+        },
+        {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时17分]"
         },
         {
           "title": "美股收盘：三大股指齐跌 Meta跌超11%",
@@ -974,24 +1009,13 @@
           "time_info": "[06时17分 ~ 07时14分]"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2997747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
           "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
           "url": "https://wallstreetcn.com/livenews/2997746",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1018,17 +1042,6 @@
           "time_info": "19时13分"
         },
         {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
           "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/2997653",
           "source": "华尔街见闻-快讯",
@@ -1038,6 +1051,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "美股盘初：纳指涨1.5%，亚马逊涨约12%，苹果涨约2%",
+          "url": "https://wallstreetcn.com/livenews/2997765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
@@ -1051,13 +1086,24 @@
           "time_info": "17时17分"
         },
         {
+          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251031214235711800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
           "url": "https://flash.jin10.com/detail/20251031205708619800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
