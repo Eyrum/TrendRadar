@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T20:27:32.434188+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2025-11-02T21:21:55.795878+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时18分 ~ 20时27分]"
+          "appearance_count": 10,
+          "time_info": "[12时18分 ~ 21时21分]"
         },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -73,6 +74,17 @@
           "time_info": "[00时16分 ~ 07时13分]"
         },
         {
+          "title": "奥巴马又怼特朗普政府：无法无天！",
+          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 21时21分]"
+        },
+        {
           "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
           "url": "https://www.zhihu.com/question/1967205319198372105",
           "source": "知乎",
@@ -101,15 +113,15 @@
           "time_info": "[00时16分 ~ 07时13分]"
         },
         {
-          "title": "奥巴马又怼特朗普政府：无法无天！",
-          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
           "source": "凤凰网",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时18分 ~ 20时27分]"
+          "time_info": "[17时15分 ~ 21时21分]"
         },
         {
           "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
@@ -123,17 +135,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时11分 ~ 15时15分]"
-        },
-        {
-          "title": "特朗普下令“战争部”做好准备",
-          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时27分]"
         },
         {
           "title": "美防长：特朗普和我都认为美中关系从未如此之好",
@@ -182,8 +183,55 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 21时21分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：解除哈马斯的武装、实现加沙地带的非军事化是我们坚持的原则，这是我与特朗普总统共同达成的共识，我们正是以此为明确纲领开展行动。当然，如果这种方法行不通，我们将会采取另一种方法。",
+          "url": "https://flash.jin10.com/detail/20251102194256163800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时21分]"
+        },
+        {
+          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
+          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时21分]"
+        },
+        {
+          "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时21分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-02）",
+          "url": "https://flash.jin10.com/detail/20251102185206448800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时21分]"
         },
         {
           "title": "邵永灵：特朗普又将矛头对准尼日利亚",
@@ -196,50 +244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时18分 ~ 17时15分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：解除哈马斯的武装、实现加沙地带的非军事化是我们坚持的原则，这是我与特朗普总统共同达成的共识，我们正是以此为明确纲领开展行动。当然，如果这种方法行不通，我们将会采取另一种方法。",
-          "url": "https://flash.jin10.com/detail/20251102194256163800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
-          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-02）",
-          "url": "https://flash.jin10.com/detail/20251102185206448800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
         },
         {
           "title": "特朗普主动提“G2” 中国为何不接招",
@@ -269,8 +273,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 20时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 21时21分]"
         },
         {
           "title": "“国家队”持仓动向揭秘！Q3持仓超100亿A股上市公司名单一览",
@@ -283,8 +287,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时13分 ~ 20时27分]"
+          "appearance_count": 11,
+          "time_info": "[11时13分 ~ 21时21分]"
         },
         {
           "title": "切入存储领域的照明龙头年内涨超450% 近一月披露并购重组进展的A股名单一览",
@@ -297,8 +301,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 20时27分]"
+          "appearance_count": 7,
+          "time_info": "[15时15分 ~ 21时21分]"
         },
         {
           "title": "高盛公司将三花智控A股评级下调至中性，目标价40.90元人民币。",
@@ -320,11 +324,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时27分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时21分]"
         },
         {
           "title": "A股下周市场会迎来大变盘信号吗",
