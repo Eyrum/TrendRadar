@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T11:14:12.459790+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2025-11-03T12:24:32.520543+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 11时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 12时24分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -101,8 +101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 11时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 12时24分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -156,8 +156,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 12时24分]"
         },
         {
           "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
@@ -209,6 +209,18 @@
           "time_info": "[09时10分 ~ 11时14分]"
         },
         {
+          "title": "核武专家都在猜 特朗普这话什么意思",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 12时24分]"
+        },
+        {
           "title": "特朗普主动提“G2” 中国为何不接招",
           "url": "https://www.toutiao.com/trending/7567992516465659442/",
           "source": "今日头条",
@@ -232,17 +244,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时10分 ~ 11时14分]"
-        },
-        {
-          "title": "核武专家都在猜 特朗普这话什么意思",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
         },
         {
           "title": "学者：特朗普抛G2概念是霸权算计",
@@ -436,7 +437,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         }
@@ -467,11 +468,12 @@
           "url": "https://www.cls.cn/detail/2189006",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 12时24分]"
         }
       ]
     },
@@ -487,8 +489,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 12时24分]"
         }
       ]
     },
@@ -503,7 +505,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         }
@@ -521,8 +523,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 12时24分]"
         }
       ]
     }
