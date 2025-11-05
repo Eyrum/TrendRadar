@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T14:23:00.095216+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2025-11-05T15:17:21.342959+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 15时17分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -56,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时16分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 15时17分]"
         },
         {
           "title": "美国总统特朗普：我很高兴提名贾里德·艾萨克曼为美国国家航空航天局的局长。",
@@ -368,6 +368,17 @@
           "time_info": "11时08分"
         },
         {
+          "title": "特朗普再次提名艾萨克曼出任美航天局局长",
+          "url": "https://wallstreetcn.com/livenews/2999698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "特朗普称最高法院关税案关乎美国存亡",
           "url": "https://flash.jin10.com/detail/20251105060423187800",
           "source": "金十数据",
@@ -388,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1969362121386100394",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "美国前财长批评特朗普滥用紧急权力征收关税",
@@ -492,7 +514,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -514,8 +536,21 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 15时17分]"
+        },
+        {
+          "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
+          "url": "https://www.zhihu.com/question/1969182296755122552",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时16分 ~ 14时23分]"
+          "time_info": "[11时08分 ~ 15时17分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -528,19 +563,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时14分 ~ 14时23分]"
-        },
-        {
-          "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
-          "url": "https://www.zhihu.com/question/1969182296755122552",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 14时23分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -566,8 +588,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 15时17分]"
         },
         {
           "title": "美股期货跌幅扩大，标普500指数期货现跌0.5%，纳斯达克100指数期货跌0.7%。",
@@ -773,6 +795,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "诺和诺德第三季度销售额749.8亿丹麦克朗，预估766.8亿丹麦克朗。 第三季度净利润200.1亿丹麦克朗，预估208亿丹麦克朗。 第三季度EBIT 236.8亿丹麦克朗，预估256.1亿丹麦克朗。 第三季度GLP-1药物销售额367.4亿丹麦克朗，预估372.7亿丹麦克朗。 第三季度Wegovy销售额203.5亿丹麦克朗，预估209.4亿丹麦克朗。 诺和诺德预计全财年销售额（按固定汇率计算）增长8%-11%，此前预计增长8%-14%。 诺和诺德预计2025年资本支出为约600亿丹麦克朗，此前预计为650亿丹麦克朗。 诺和诺德美股夜盘跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/2999684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "美股大跌都怪Palantir？CNBC名嘴：华尔街的眼光太狭隘",
           "url": "https://flash.jin10.com/detail/20251105095353867800",
           "source": "金十数据",
@@ -842,7 +875,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股投资者逼近2.5亿！年末或将突破大关",
@@ -850,11 +883,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时16分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 15时17分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-11-05）",
@@ -866,6 +900,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "A股收盘：创业板指低开高走涨超1%，智能电网概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/2999707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "A股光伏板块午后拉升，通润装备直线涨停，阿特斯涨超10%，天合光能、京山轻机、阳光电源、东方日升、天宜新材跟涨。",
@@ -1065,6 +1110,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/2999388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "全球股市动荡引领资金买美债 分析师称10年期收益率下看3.5%",
+          "url": "https://wallstreetcn.com/livenews/2999697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "铜价",
       "match_count": 2,
       "titles": [
@@ -1089,24 +1163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/2999388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时14分]"
         }
       ]
     },
