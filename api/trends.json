@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-11-06T19:14:30.622362+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2025-11-06T20:30:45.919981+08:00",
+  "total_titles_processed": 1843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
-        {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时15分 ~ 19时14分]"
-        },
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
           "url": "https://wallstreetcn.com/articles/3758755",
@@ -29,8 +17,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时07分 ~ 19时14分]"
+          "appearance_count": 16,
+          "time_info": "[09时07分 ~ 20时30分]"
+        },
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时15分 ~ 20时30分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -191,6 +192,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "特朗普为什么总是针对南非？",
+          "url": "https://news.ifeng.com/c/8o3ygttojoa",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
           "title": "特朗普再次对尼日利亚发出威胁",
           "url": "https://flash.jin10.com/detail/20251106061021528800",
           "source": "金十数据",
@@ -219,7 +231,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -335,6 +347,18 @@
           "time_info": "[03时15分 ~ 05时15分]"
         },
         {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时30分]"
+        },
+        {
           "title": "据CBS新闻：礼来制药、诺和诺德将与美国总统特朗普宣布下调减肥药价格。",
           "url": "https://flash.jin10.com/detail/20251106020814036800",
           "source": "金十数据",
@@ -393,18 +417,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时15分]"
-        },
-        {
-          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
-          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时14分]"
         },
         {
           "title": "多家公司的代理律师Katyal在美国最高法院听证会上表示：（总统特朗普挑起的）关税就是税收，而那本来应该是（宪法赋予）国会山的责任。",
@@ -672,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
         },
         {
           "title": "克里姆林宫：普京和特朗普之间没有计划在不久的将来进行对话。",
@@ -949,7 +972,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -990,7 +1013,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股人形机器人概念股午后拉升，方正电机直线涨停，浙江仙通、五洲新春、绿的谐波、博杰股份、汉宇集团跟涨。",
@@ -1111,6 +1134,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "A股走出独立上涨行情：价值板块领涨，市场风格切换已至？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31901459",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
           "title": "港交所文件显示，中国石油化工股份(00386.HK)于11月6日在其他交易所斥资1350万人民币回购了240万股A股。",
           "url": "https://flash.jin10.com/detail/20251106171925923800",
           "source": "金十数据",
@@ -1158,7 +1192,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "澳大利亚贸易顺差受金价飙升推动",
@@ -1182,6 +1216,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
         },
         {
           "title": "中信证券：金价仍将上行",
@@ -1253,8 +1298,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时07分 ~ 19时14分]"
+          "appearance_count": 16,
+          "time_info": "[09时07分 ~ 20时30分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
