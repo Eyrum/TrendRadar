@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T22:17:21.273977+08:00",
-  "total_titles_processed": 1972,
+  "generated_at": "2025-11-07T23:16:10.885945+08:00",
+  "total_titles_processed": 2060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 85,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -13,17 +13,6 @@
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普为什么总是针对南非？",
-          "url": "https://news.ifeng.com/c/8o3ygttojoa",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -38,8 +27,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时16分 ~ 22时17分]"
+          "appearance_count": 11,
+          "time_info": "[15时16分 ~ 23时16分]"
+        },
+        {
+          "title": "特朗普为什么总是针对南非？",
+          "url": "https://news.ifeng.com/c/8o3ygttojoa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时14分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -94,6 +94,17 @@
           "time_info": "[09时07分 ~ 14时23分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时16分]"
+        },
+        {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
           "url": "https://www.cls.cn/detail/2193664",
           "source": "财联社热门",
@@ -106,6 +117,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时09分 ~ 16时20分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时16分]"
         },
         {
           "title": "周四（11月6日），降息赢家指数跌1.63%，报94.02点。 “特朗普关税输家”指数跌3.69%，报101.61点。",
@@ -149,20 +174,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
-        },
-        {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时17分]"
         },
         {
           "title": "特朗普媒体科技集团(DJT.O)第三季度净亏损5480万美元。",
@@ -171,7 +185,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -217,7 +231,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -239,7 +253,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -255,19 +269,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时09分 ~ 14时23分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时17分]"
         },
         {
           "title": "美国总统特朗普：不担心航空旅行安全。",
@@ -676,7 +677,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -723,6 +724,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "CNH Industrial NV跌11%，恐创2020年以来最差单日表现，特朗普关税冲击到该公司业绩展望。 迪尔农机/约翰迪尔（DE）跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3001287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美国总统特朗普：刚刚与以色列总理内塔尼亚胡进行了一次重要的通话。",
@@ -813,6 +825,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "特朗普媒体科技三季度净销售97.29万美元，上年同期101万美元。 三季度金融资产大约31亿美元。 连续两个季度实现正运营现金流。 预计将继续推进并购与收购策略。 正进军迅猛扩张的预测市场。",
+          "url": "https://wallstreetcn.com/livenews/3001276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "美国总统特朗普：美国与乌兹别克斯坦达成贸易和经济协议。",
           "url": "https://flash.jin10.com/detail/20251107102715387800",
           "source": "金十数据",
@@ -901,6 +924,28 @@
           "time_info": "02时34分"
         },
         {
+          "title": "乌克兰总统泽连斯基：俄罗斯正试图通过波克罗夫斯克攻势向美国总统特朗普展示战场上的成功。",
+          "url": "https://flash.jin10.com/detail/20251107222025196800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "市场消息：特朗普政府向第一巡回法院提交紧急延期动议，寻求阻止法官关于11月全额发放补充营养协助计划（SNAP）福利的裁决。",
+          "url": "https://flash.jin10.com/detail/20251107221627605800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "特朗普为何否认美军要袭击委内瑞拉",
           "url": "https://www.toutiao.com/trending/7569866217960246838/",
           "source": "今日头条",
@@ -959,7 +1004,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -1023,6 +1068,17 @@
           "time_info": "17时16分"
         },
         {
+          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251107224624350800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 特斯拉美股盘后涨1.8%。",
           "url": "https://wallstreetcn.com/livenews/3000764",
           "source": "华尔街见闻-快讯",
@@ -1032,17 +1088,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3001278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         },
         {
           "title": "小摩：美股牛市格局未改，标普500指数近期料突破7000点",
@@ -1069,6 +1114,40 @@
           "time_info": "[18时19分 ~ 19时15分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3001278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时16分]"
+        },
+        {
+          "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
+          "url": "https://wallstreetcn.com/articles/3758914",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
+          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2194710",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
           "title": "半导体ETF收跌超2.3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3000758",
           "source": "华尔街见闻-快讯",
@@ -1086,9 +1165,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "行业ETF美股盘初普跌，半导体ETF跌1.3%",
+          "url": "https://wallstreetcn.com/livenews/3001288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美国10月裁员人数同比大增175%，芝加哥联储数据显示10月失业率创四年新高，就业市场已现危机信号；美联储官员继续保持谨慎，古尔斯比、哈马克接连反对降息……当前黄金多头持续占优，美股纳指呈强烈卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1100,6 +1190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "美股明星科技股普跌，特斯拉(TSLA.O)、AMD(AMD.O)跌约3.5%，甲骨文(ORCL.N)、英伟达(NVDA.O)跌约2%，谷歌(GOOG.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251107223609043800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨2.5%。",
@@ -1144,6 +1245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美股三大股指集体低开",
+          "url": "https://flash.jin10.com/detail/20251107223052805800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "金十图示：2025年11月06日（周四）热门中概股行情一览（美股收盘）",
@@ -1372,8 +1484,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时07分 ~ 22时17分]"
+          "appearance_count": 17,
+          "time_info": "[09时07分 ~ 23时16分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1550,8 +1662,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "彭博美元指数刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3001303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
         {
           "title": "美元指数6日下跌",
           "url": "https://flash.jin10.com/detail/20251107052956396800",
