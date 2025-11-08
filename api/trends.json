@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T18:14:53.100509+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2025-11-08T19:12:17.512987+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -93,8 +93,32 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普被问急眼了怒喷记者",
+          "url": "https://www.toutiao.com/trending/7569684589699235903/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时14分]"
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "特朗普称佩洛西在股市“非法敛财”",
@@ -106,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
+          "url": "https://flash.jin10.com/detail/20251108183318165800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
@@ -153,29 +188,18 @@
           "time_info": "[11时00分 ~ 13时14分]"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 18时14分]"
-        },
-        {
           "title": "南非政府发表声明驳斥特朗普言论",
           "url": "https://flash.jin10.com/detail/20251108154641553800",
           "source": "金十数据",
           "ranks": [
             3,
             12,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时14分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 19时12分]"
         },
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -238,6 +262,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时11分]"
+        },
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 19时12分]"
         },
         {
           "title": "美国总统特朗普：我们一致认为，俄乌冲突将在不久的将来结束。",
@@ -353,18 +390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时14分]"
-        },
-        {
-          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
-          "url": "https://wallstreetcn.com/articles/3758970",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
@@ -567,7 +592,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -709,8 +734,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时13分 ~ 18时14分]"
+          "appearance_count": 16,
+          "time_info": "[07时13分 ~ 19时12分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -724,8 +749,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时18分 ~ 18时14分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 19时12分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -925,11 +950,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 18时14分]"
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 19时12分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
@@ -950,6 +976,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "A股并购重组活跃 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2194975",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
           "title": "A股再现天价离婚案",
           "url": "https://www.toutiao.com/trending/7569944829556391979/",
           "source": "今日头条",
@@ -959,17 +997,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "A股并购重组活跃 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2194975",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         },
         {
           "title": "A股再现天价离婚分手费超9亿元",
