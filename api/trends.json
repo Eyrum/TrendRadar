@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-08T15:13:54.029816+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2025-11-08T16:19:02.596762+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 16时19分]"
+        },
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
           "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 09时04分]"
-        },
-        {
-          "title": "死对头要走了，特朗普开心坏了",
-          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时04分 ~ 15时13分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -58,6 +58,22 @@
           "time_info": "[00时18分 ~ 12时19分]"
         },
         {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 16时19分]"
+        },
+        {
           "title": "特朗普真想对委内瑞拉开战吗？",
           "url": "https://v.ifeng.com/c/8o61H5snkCE",
           "source": "凤凰网",
@@ -67,21 +83,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时04分 ~ 15时13分]"
         },
         {
           "title": "特朗普称佩洛西在股市“非法敛财”",
@@ -124,6 +125,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时37分 ~ 15时13分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -277,6 +289,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时21分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 16时19分]"
         },
         {
           "title": "美国总统特朗普：考虑在“制裁俄罗斯石油”方面实施豁免。 考虑对匈牙利实施豁免。",
@@ -434,17 +457,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
           "title": "美国总统特朗普：我完全支持人工智能。",
           "url": "https://flash.jin10.com/detail/20251108022405006800",
           "source": "金十数据",
@@ -495,7 +507,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -659,8 +671,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时13分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[07时13分 ~ 16时19分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -674,8 +686,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 15时13分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 16时19分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -855,7 +867,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -867,6 +879,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "下周美国市场也不好过？美债发行潮来袭，流动性“雪上加霜”",
+          "url": "https://wallstreetcn.com/articles/3758965",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
@@ -933,7 +956,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
