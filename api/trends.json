@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T19:14:41.637823+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2025-11-10T20:32:05.579063+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -72,6 +72,21 @@
           "time_info": "[00时16分 ~ 09时11分]"
         },
         {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            11,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时25分 ~ 20时32分]"
+        },
+        {
           "title": "最美词汇：特朗普对关税到底有什么误解？",
           "url": "https://news.ifeng.com/c/8o9xDTJ6QSA",
           "source": "凤凰网",
@@ -121,21 +136,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时16分 ~ 15时15分]"
-        },
-        {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            11,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 19时14分]"
         },
         {
           "title": "特朗普称政府停摆接近结束",
@@ -395,6 +395,18 @@
           "time_info": "[05时14分 ~ 07时13分]"
         },
         {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时32分]"
+        },
+        {
           "title": "因剪辑拼接与1月6日国会山暴乱相关的特朗普视频，英国BBC高管辞职",
           "url": "https://wallstreetcn.com/livenews/3001718",
           "source": "华尔街见闻-快讯",
@@ -476,17 +488,6 @@
           "time_info": "18时18分"
         },
         {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "拜登为什么罕见出面痛批特朗普",
           "url": "https://www.toutiao.com/trending/7570996784411971126/",
           "source": "今日头条",
@@ -553,6 +554,17 @@
           "time_info": "17时19分"
         },
         {
+          "title": "匈牙利总理欧尔班：只要特朗普还是美国总统，而我还是匈牙利总理，美国就不会对匈牙利实施制裁。",
+          "url": "https://flash.jin10.com/detail/20251110191854398800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "拜登狠批特朗普：让国家蒙羞",
           "url": "https://www.toutiao.com/trending/7569666407429324863/",
           "source": "今日头条",
@@ -570,7 +582,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
@@ -578,7 +590,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "A股并购重组活跃 本周披露并购重组进展的A股名单一览",
@@ -590,6 +602,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 07时13分]"
+        },
+        {
+          "title": "中金2026年A股展望：前升后稳，防范“波动”",
+          "url": "https://wallstreetcn.com/articles/3759002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 20时32分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-11-10）",
@@ -640,18 +665,6 @@
           "time_info": "[13时16分 ~ 14时25分]"
         },
         {
-          "title": "中金2026年A股展望：前升后稳，防范“波动”",
-          "url": "https://wallstreetcn.com/articles/3759002",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 19时14分]"
-        },
-        {
           "title": "A股券商股再度走强，东北证券封板，广发证券、湘财股份、东兴证券、华泰证券、长江证券等拉升涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3001952",
           "source": "华尔街见闻-快讯",
@@ -662,6 +675,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时25分 ~ 15时15分]"
+        },
+        {
+          "title": "A股涨跌互现，创业板跌0.9%，大消费集体爆发，港股全线收涨，恒指涨超1%",
+          "url": "https://wallstreetcn.com/articles/3759020",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "中国中免A股触及涨停，成交额53.32亿元。H股现涨超11％。",
@@ -770,7 +794,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -795,11 +819,12 @@
             10,
             4,
             5,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时17分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[11时17分 ~ 20时32分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -826,6 +851,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 18时18分]"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
@@ -876,8 +912,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时32分]"
         },
         {
           "title": "经济疲软助推降息预期 黄金价格跳涨至两周高点",
@@ -936,7 +972,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
