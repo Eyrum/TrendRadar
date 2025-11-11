@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:20:21.857822+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2025-11-11T13:16:31.509727+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             23,
             19,
             30,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 11时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 13时16分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -55,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 13时16分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -151,6 +152,18 @@
           "time_info": "[05时15分 ~ 07时15分]"
         },
         {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 13时16分]"
+        },
+        {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
           "url": "https://flash.jin10.com/detail/20251111020735747800",
           "source": "金十数据",
@@ -185,18 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时14分]"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 12时20分]"
         },
         {
           "title": "特朗普：美国通胀率很快就会降至1.5%，将支持拨款法案",
@@ -591,6 +592,17 @@
       "match_count": 22,
       "titles": [
         {
+          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
+          "url": "https://www.cls.cn/detail/2196579",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时09分 ~ 13时16分]"
+        },
+        {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
           "url": "https://wallstreetcn.com/articles/3759034",
           "source": "华尔街见闻",
@@ -599,19 +611,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时20分]"
-        },
-        {
-          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
-          "url": "https://www.cls.cn/detail/2196579",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 12时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时16分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -639,8 +640,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时15分 ~ 12时20分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时16分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -685,8 +686,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 13时16分]"
         },
         {
           "title": "半导体ETF收涨将近3.1%，领跑美股行业ETF，标普科技板块涨约2.7%",
@@ -754,7 +755,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -933,7 +934,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
