@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T13:17:37.759993+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2025-11-12T14:23:32.232822+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -72,11 +72,12 @@
             14,
             17,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 14时23分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -141,11 +142,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 14时23分]"
         },
         {
           "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
@@ -424,6 +426,17 @@
           "time_info": "11时09分"
         },
         {
+          "title": "据英国金融时报：英国国家安全顾问乔纳森·鲍威尔试图打开与俄罗斯总统普京的秘密沟通渠道。英国及其欧洲盟友担心，特朗普政府可能会在乌克兰问题上置它们的利益于不顾。",
+          "url": "https://flash.jin10.com/detail/20251112132543128800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "美国交通部长Duffy：空管人员将在特朗普政府开门之后24-48（小时）获得以往薪酬的70%。 剩余30%将在那一周之后发放。",
           "url": "https://wallstreetcn.com/livenews/3002977",
           "source": "华尔街见闻-快讯",
@@ -615,8 +628,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 14时23分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -734,7 +747,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
@@ -758,6 +771,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "A股存储芯片板块震荡回暖，大港股份午后涨停，科翔股份回封涨停，香农芯创涨超10%，普冉股份、德明利跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3003203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "机构普遍看好2026年中国经济与A股市场",
@@ -945,6 +969,45 @@
       ]
     },
     {
+      "keyword_group": "铜价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "花旗：预计今年剩余时间内铜价将在每吨11000美元左右波动。",
+          "url": "https://flash.jin10.com/detail/20251112133258524800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "花旗：继续预计到2026年第二季度，铜价将攀升至平均每吨12,000美元（看涨情形下为每吨14,000美元）。",
+          "url": "https://flash.jin10.com/detail/20251112133213949800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "花旗：持续预测铜价到2026年第二季将攀升至均价1.2万美元/吨。 预计今年剩余时间内铜价将交投在每吨1.1万美元左右。",
+          "url": "https://wallstreetcn.com/livenews/3003192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -958,8 +1021,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 14时23分]"
         },
         {
           "title": "美债期货上涨，美元走软，美国就业前景低迷",
