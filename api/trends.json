@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T12:19:53.349804+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-11-12T13:17:37.759993+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 13时17分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -136,6 +136,18 @@
           "time_info": "[00时19分 ~ 09时08分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 13时17分]"
+        },
+        {
           "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
           "url": "https://flash.jin10.com/detail/20251112070247139800",
           "source": "金十数据",
@@ -167,18 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时19分]"
         },
         {
           "title": "“美元微笑理论”提出者：美元在特朗普任期内将再跌超13%",
@@ -615,8 +615,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 12时19分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 13时17分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -737,6 +737,18 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
+          "url": "https://wallstreetcn.com/articles/3759102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时17分]"
+        },
+        {
           "title": "业内：A股要变盘了吗",
           "url": "https://www.toutiao.com/trending/7571443689667448363/",
           "source": "今日头条",
@@ -757,17 +769,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
-          "url": "https://wallstreetcn.com/articles/3759102",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
         },
         {
           "title": "A股三大指数集体翻红，医药商业、油气、脑机接口、保险等板块领涨，沪深京三市上涨个股超2100只。",
@@ -884,7 +885,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         }
@@ -957,8 +958,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 12时19分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 13时17分]"
         },
         {
           "title": "美债期货上涨，美元走软，美国就业前景低迷",
