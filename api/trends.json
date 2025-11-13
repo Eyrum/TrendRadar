@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T16:21:06.004169+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2025-11-13T17:18:20.303527+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 17时18分]"
+        },
+        {
+          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
+          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时16分 ~ 17时18分]"
         },
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -32,20 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时15分 ~ 16时21分]"
-        },
-        {
-          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
-          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 16时21分]"
+          "appearance_count": 21,
+          "time_info": "[01时15分 ~ 17时18分]"
         },
         {
           "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
@@ -56,8 +56,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[15时15分 ~ 17时18分]"
+        },
+        {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 17时18分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -74,16 +86,15 @@
           "time_info": "[12时21分 ~ 15时16分]"
         },
         {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
+          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
+          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时23分 ~ 16时21分]"
+          "time_info": "[15时15分 ~ 17时18分]"
         },
         {
           "title": "瑞士商业代表团送特朗普金条和劳力士 或为换取低关税",
@@ -114,7 +125,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -142,17 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时18分]"
-        },
-        {
-          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
-          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 16时21分]"
         },
         {
           "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
@@ -273,6 +273,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时16分]"
+        },
+        {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
@@ -630,7 +641,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
@@ -666,8 +677,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 17时18分]"
+        },
+        {
+          "title": "哪些原因促成了今天A股的爆发",
+          "url": "https://www.toutiao.com/trending/7572112952220732954/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "展望A股2026年行情，三大投资主线获券商青睐",
@@ -681,6 +703,18 @@
           "time_info": "07时15分"
         },
         {
+          "title": "明天A股将怎么走",
+          "url": "https://www.toutiao.com/trending/7572102588787592746/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 17时18分]"
+        },
+        {
           "title": "A股收盘：沪指涨0.73%刷新十年新高",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.73%25%E5%88%B7%E6%96%B0%E5%8D%81%E5%B9%B4%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -688,19 +722,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时21分]"
-        },
-        {
-          "title": "明天A股将怎么走",
-          "url": "https://www.toutiao.com/trending/7572102588787592746/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 17时18分]"
         },
         {
           "title": "A股近日大幅震荡是何原因",
