@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T17:16:56.091377+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2025-11-14T18:17:56.528520+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 17时16分]"
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 18时17分]"
+        },
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://www.cls.cn/detail/2200844",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时17分]"
         },
         {
           "title": "美国总统特朗普的法律团队表示，特朗普尚未对英国广播公司（BBC）提起诉讼。",
@@ -44,14 +56,15 @@
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://www.cls.cn/detail/2200844",
-          "source": "财联社热门",
+          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
+          "source": "凤凰网",
           "ranks": [
-            5
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时17分]"
         },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -126,17 +139,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 04时18分]"
-        },
-        {
-          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时16分]"
         },
         {
           "title": "特朗普送叙利亚领导人香水还问有几个妻子，美网民：缺乏外交礼仪",
@@ -794,8 +796,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 17时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时17分]"
         }
       ]
     },
@@ -810,7 +812,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         }
