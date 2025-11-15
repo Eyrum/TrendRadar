@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T00:16:06.334467+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-16T01:11:51.810548+08:00",
+  "total_titles_processed": 341,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时11分]"
         },
         {
           "title": "特朗普：对委内瑞拉“差不多下定决心”",
@@ -26,19 +26,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时11分]"
         },
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
           "url": "https://wallstreetcn.com/articles/3759457",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时11分]"
         },
         {
           "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
@@ -47,9 +48,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时11分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
@@ -58,9 +59,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时11分]"
         },
         {
           "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
@@ -69,9 +70,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时11分]"
         },
         {
           "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
@@ -80,9 +81,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时11分]"
         }
       ]
     },
@@ -98,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时11分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -110,8 +111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时11分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -121,8 +122,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时11分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -132,8 +133,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时11分]"
         }
       ]
     },
@@ -150,8 +151,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时11分]"
         }
       ]
     },
@@ -166,9 +167,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时11分]"
         }
       ]
     }
