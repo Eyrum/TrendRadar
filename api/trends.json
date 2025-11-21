@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T19:13:51.091834+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2025-11-21T20:29:17.695009+08:00",
+  "total_titles_processed": 1887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -37,11 +37,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时23分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 20时29分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -73,7 +74,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -258,7 +259,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -307,13 +308,24 @@
           "time_info": "00时19分"
         },
         {
+          "title": "美媒称特朗普执政团队可能“大换血” 白宫发言人否认",
+          "url": "https://flash.jin10.com/detail/20251121192247348800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-21）",
           "url": "https://flash.jin10.com/detail/20251121182645395800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -327,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "特朗普为何取消对巴西40%食品关税",
+          "url": "https://www.toutiao.com/trending/7575096459230449162/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "特朗普政府重组能源部 取消清洁能源办公室",
@@ -390,7 +413,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -450,6 +473,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "泽连斯基将于下周与特朗普讨论和平计划",
+          "url": "https://wallstreetcn.com/livenews/3008662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "乌克兰总统办公室：预计泽连斯基将在未来几天与特朗普对话。",
           "url": "https://flash.jin10.com/detail/20251121001848368800",
           "source": "金十数据",
@@ -476,8 +510,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 19时13分]"
+          "appearance_count": 12,
+          "time_info": "[11时07分 ~ 20时29分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -542,8 +576,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 19时13分]"
+          "appearance_count": 12,
+          "time_info": "[11时07分 ~ 20时29分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -582,8 +616,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时23分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 20时29分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -641,8 +675,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时29分]"
         },
         {
           "title": "美股期货短线跳水，纳指期货日内跌幅扩大至0.8%，标普500指数期货跌0.38%，道指期货日内涨0.12%。",
@@ -885,7 +919,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -1019,6 +1053,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "出门问问TicNote与CodeBanana已全面接入Gemini 3模型",
+          "url": "https://wallstreetcn.com/livenews/3008660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     },
@@ -1236,8 +1281,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时07分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[09时07分 ~ 20时29分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
