@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T15:14:50.311341+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2025-11-29T16:19:21.632723+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -294,8 +294,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 15时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 16时19分]"
         },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -324,6 +324,20 @@
           "time_info": "[00时18分 ~ 06时14分]"
         },
         {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 16时19分]"
+        },
+        {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251129031455925800",
           "source": "金十数据",
@@ -337,20 +351,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时16分 ~ 12时18分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时14分 ~ 15时14分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
@@ -576,8 +576,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 15时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 16时19分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -588,8 +588,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 16时19分]"
         }
       ]
     },
@@ -607,8 +607,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 16时19分]"
         },
         {
           "title": "金价",
