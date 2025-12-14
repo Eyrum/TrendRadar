@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T17:15:36.788591+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2025-12-14T18:16:02.237723+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -246,6 +246,17 @@
           "time_info": "[09时16分 ~ 09时17分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
           "title": "3名美方人员遇袭死亡 特朗普誓言报复",
           "url": "https://www.toutiao.com/trending/7583408102318489643/",
           "source": "今日头条",
@@ -360,7 +371,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -371,7 +382,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -382,7 +393,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -459,8 +470,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 17时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 18时16分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -506,11 +517,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 17时15分]"
+          "appearance_count": 8,
+          "time_info": "[13时15分 ~ 18时16分]"
         }
       ]
     }
