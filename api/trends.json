@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T17:18:12.210560+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2025-12-26T18:18:09.689466+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时21分 ~ 17时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时21分 ~ 18时18分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -120,6 +120,17 @@
           "time_info": "[02时22分 ~ 06时15分]"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 18时18分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -145,17 +156,6 @@
           "time_info": "[16时21分 ~ 17时18分]"
         },
         {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
-        },
-        {
           "title": "Marko Papic万字访谈：委内瑞拉救不了油价，特朗普或在2026年“压榨”美联储，股市迎来“YOLO时刻”",
           "url": "https://wallstreetcn.com/articles/3762069",
           "source": "华尔街见闻",
@@ -176,6 +176,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "据AXIOS记者：乌克兰官员透露，美国总统特朗普将于周日在海湖庄园会见乌克兰总统泽连斯基。",
+          "url": "https://flash.jin10.com/detail/20251226175327901800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -259,8 +270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时21分 ~ 17时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时21分 ~ 18时18分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -450,7 +461,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -475,6 +486,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时18分]"
+        },
+        {
+          "title": "美股太空概念股Sidus Space盘前延续大涨，现涨超30%，前一交易日收涨33%。",
+          "url": "https://flash.jin10.com/detail/20251226172626463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
@@ -492,8 +514,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 17时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时20分 ~ 18时18分]"
         }
       ]
     },
