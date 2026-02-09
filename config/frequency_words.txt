@@ -1,17 +1,18 @@
 DeepSeek
-梁文锋
 
-谷歌
+Kimi
+
+GLM
+
 google
 gemini
 
-chatgpt
+Anthropic
+
 openai
 
-金价
-
-黄金
-+价格
+英伟达
+Nvidia
 
 美债
 
@@ -23,3 +24,16 @@ openai
 特朗普
 
 伊朗
+
+金价
+
+黄金
++价格
+
+铜价
+
+储能
+
+液流电池
+
+特高压
