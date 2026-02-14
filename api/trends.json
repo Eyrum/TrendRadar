@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T01:22:09.689507+08:00",
-  "total_titles_processed": 337,
+  "generated_at": "2026-02-15T02:26:25.547471+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
@@ -60,8 +60,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
@@ -71,8 +71,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
@@ -82,8 +82,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
@@ -96,11 +96,12 @@
           "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -111,8 +112,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
@@ -128,19 +129,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
           "url": "https://wallstreetcn.com/articles/3765664",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
@@ -156,8 +158,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
@@ -170,11 +172,12 @@
           "url": "https://wallstreetcn.com/articles/3765732",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
@@ -190,8 +193,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
@@ -207,8 +210,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
@@ -225,8 +228,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
@@ -240,11 +243,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     }
