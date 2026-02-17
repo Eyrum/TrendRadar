@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:52:16.913537+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-02-17T15:46:41.675399+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 14时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 15时46分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -289,8 +289,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 14时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 15时46分]"
         },
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -302,8 +302,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时46分]"
         },
         {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
@@ -525,8 +525,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 14时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 15时46分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -590,8 +590,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 14时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时36分 ~ 15时46分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -605,8 +605,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 14时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时36分 ~ 15时46分]"
         }
       ]
     },
@@ -679,7 +679,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         }
