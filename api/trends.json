@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-18T07:24:25.671843+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-02-18T09:44:30.820700+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
           "url": "https://news.ifeng.com/c/8qpTdmSckn9",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时52分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[01时52分 ~ 09时44分]"
         },
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时49分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[02时49分 ~ 09时44分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -88,17 +89,6 @@
           "time_info": "01时53分"
         },
         {
-          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
-          "url": "https://wallstreetcn.com/livenews/3056166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
           "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3056161",
           "source": "华尔街见闻-快讯",
@@ -121,6 +111,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时31分]"
+        },
+        {
+          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
+          "url": "https://wallstreetcn.com/livenews/3056166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时44分]"
         },
         {
           "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
@@ -254,6 +256,17 @@
           "time_info": "[07时01分 ~ 07时24分]"
         },
         {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
           "url": "https://flash.jin10.com/detail/20260218041935194800",
           "source": "金十数据",
@@ -367,7 +380,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -377,19 +390,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 07时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 09时44分]"
         },
         {
           "title": "伊朗外长披露与美方谈判结果",
           "url": "https://news.ifeng.com/c/8qpUHBlBe7s",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时52分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[01时52分 ~ 09时44分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -402,6 +416,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时51分 ~ 07时24分]"
+        },
+        {
+          "title": "万斯：美方向伊朗划定“红线”",
+          "url": "https://news.ifeng.com/c/8qpzcl8sWDw",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -497,6 +522,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "伊朗总统：伊朗愿就其核工业和平性质接受任何形式核查",
           "url": "https://flash.jin10.com/detail/20260218023510875800",
           "source": "金十数据",
@@ -566,7 +602,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -586,11 +622,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 07时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 09时44分]"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -621,9 +658,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）热门中概股行情一览（美股收盘）",
@@ -695,6 +743,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
+          "url": "https://wallstreetcn.com/livenews/3056169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "日用品ETF收跌超1.4%，领跌美股行业ETF，标普能源板块跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3056131",
           "source": "华尔街见闻-快讯",
@@ -720,7 +779,7 @@
     },
     {
       "keyword_group": "英伟达 Nvidia",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "英伟达和Meta宣布建立多年战略合作伙伴关系",
@@ -825,6 +884,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "美国证交会文件显示，软银集团出售英伟达公司的股份。",
           "url": "https://flash.jin10.com/detail/20260217233326050800",
           "source": "金十数据",
@@ -834,6 +904,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "Meta将部署数百万颗英伟达芯片",
+          "url": "https://www.toutiao.com/trending/7607763089089921062/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "Meta与英伟达打造AI基础设施。Meta将加大部署英伟达CPU。 英伟达宣布，与对方达成持续多年的合作伙伴关系。 英伟达美股盘后涨1.1%，AMD跌幅扩大至3.6%。",
@@ -850,7 +931,7 @@
     },
     {
       "keyword_group": "Anthropic claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
@@ -875,6 +956,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时52分]"
+        },
+        {
+          "title": "Anthropic又“踢馆”！Sonnet 4.6操作电脑接近人类，性能堪比旗舰模型、定价仅1/5",
+          "url": "https://wallstreetcn.com/articles/3765816",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "Anthropic发布新AI模型：操控计算机能力大幅提升",
@@ -975,11 +1067,12 @@
           "url": "https://wallstreetcn.com/livenews/3056163",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时44分]"
         },
         {
           "title": "美债的信用游戏会崩溃吗",
@@ -1022,8 +1115,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 09时44分]"
         }
       ]
     },
