@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:01:07.824486+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-02-25T15:55:36.924525+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 15时01分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 15时55分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 15时01分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 15时55分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时58分 ~ 15时01分]"
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 15时55分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -100,8 +100,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时00分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[15时00分 ~ 15时55分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时00分 ~ 15时55分]"
         },
         {
           "title": "特朗普：伊朗正研制很快打到美国的导弹",
@@ -113,17 +124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 13时58分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -245,11 +245,24 @@
           "source": "今日头条",
           "ranks": [
             7,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 15时55分]"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 15时55分]"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -264,17 +277,6 @@
           "time_info": "[01时01分 ~ 01时58分]"
         },
         {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时01分]"
-        },
-        {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
           "url": "https://wallstreetcn.com/livenews/3058339",
           "source": "华尔街见闻-快讯",
@@ -285,6 +287,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 06时29分]"
+        },
+        {
+          "title": "美议员称宁愿瞎也不想听特朗普演说",
+          "url": "https://www.toutiao.com/trending/7610278765754794003/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时00分 ~ 15时55分]"
         },
         {
           "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
@@ -355,17 +369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 05时35分]"
-        },
-        {
-          "title": "美议员称宁愿瞎也不想听特朗普演说",
-          "url": "https://www.toutiao.com/trending/7610278765754794003/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -638,9 +641,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "特朗普试戴美冰球队的奥运金牌",
+          "url": "https://www.toutiao.com/trending/7610318993089400356/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "市场消息：美国总统特朗普将表示，要求立即全面恢复美国边境安全和国土安全部的所有资金。",
@@ -833,7 +847,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -863,6 +877,30 @@
           "time_info": "[01时01分 ~ 09时58分]"
         },
         {
+          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
+          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 15时55分]"
+        },
+        {
+          "title": "美大军压境伊朗为何不屈服",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 15时55分]"
+        },
+        {
           "title": "伊朗一军用直升机坠毁",
           "url": "https://www.douyin.com/hot/2410332",
           "source": "抖音",
@@ -890,32 +928,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 15时01分]"
-        },
-        {
-          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
-          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 15时01分]"
-        },
-        {
-          "title": "美大军压境伊朗为何不屈服",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时01分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 15时55分]"
         },
         {
           "title": "伊朗大规模军演 试射多种导弹",
@@ -925,8 +939,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 15时55分]"
+        },
+        {
+          "title": "伊朗发布航行通告称，将在靠近阿塞拜疆边境的地面至10000英尺高度范围内进行遥控飞行器活动。",
+          "url": "https://flash.jin10.com/detail/20260225152602709800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -1023,6 +1048,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "日媒：一名日本公民被伊朗拘留",
+          "url": "https://www.toutiao.com/trending/7610698832640216603/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：只要优先考虑外交途径，与美国达成核协议是可能的。",
           "url": "https://flash.jin10.com/detail/20260225125758262800",
           "source": "金十数据",
@@ -1069,9 +1105,246 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时29分]"
+        },
+        {
+          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时29分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时35分]"
+        },
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时39分 ~ 15时01分]"
+        },
+        {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 12时15分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260225013329714800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "数字货币市场在美股早盘反弹",
+          "url": "https://wallstreetcn.com/livenews/3058269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时58分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050547207800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时29分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050527378800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时29分]"
+        },
+        {
+          "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
+          "url": "https://wallstreetcn.com/livenews/3058334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 06时29分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
+          "url": "https://flash.jin10.com/detail/20260225050111394800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时29分]"
+        },
+        {
+          "title": "德债收益率在美股盘初短暂地拉升",
+          "url": "https://wallstreetcn.com/livenews/3058277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时39分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260225013325111800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
+          "url": "https://wallstreetcn.com/livenews/3058381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
+          "url": "https://wallstreetcn.com/livenews/3058355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
+          "url": "https://wallstreetcn.com/livenews/3058353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3058348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
+          "url": "https://flash.jin10.com/detail/20260225001502391800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Anthropic claude",
       "match_count": 18,
       "titles": [
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时39分 ~ 15时55分]"
+        },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
           "url": "https://wallstreetcn.com/articles/3766083",
@@ -1084,19 +1357,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时39分 ~ 15时01分]"
-        },
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时39分 ~ 15时01分]"
+          "appearance_count": 14,
+          "time_info": "[03时39分 ~ 15时55分]"
         },
         {
           "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
@@ -1288,217 +1550,52 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 18,
+      "keyword_group": "金价",
+      "match_count": 4,
       "titles": [
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
+          "title": "金价暴涨下的众生相",
+          "url": "https://www.toutiao.com/trending/7610085865549905966/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            1
+            4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时29分]"
-        },
-        {
-          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时29分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时35分]"
-        },
-        {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时39分 ~ 15时01分]"
-        },
-        {
-          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2293967",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 12时15分]"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260225013329714800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "15时55分"
         },
         {
-          "title": "数字货币市场在美股早盘反弹",
-          "url": "https://wallstreetcn.com/livenews/3058269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时58分]"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260225050547207800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时29分]"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260225050527378800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时29分]"
-        },
-        {
-          "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
-          "url": "https://wallstreetcn.com/livenews/3058334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 06时29分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
-          "url": "https://flash.jin10.com/detail/20260225050111394800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时29分]"
-        },
-        {
-          "title": "德债收益率在美股盘初短暂地拉升",
-          "url": "https://wallstreetcn.com/livenews/3058277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时39分]"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260225013325111800",
+          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
+          "url": "https://flash.jin10.com/detail/20260225150843874800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "15时55分"
         },
         {
-          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
-          "url": "https://wallstreetcn.com/livenews/3058381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
-          "url": "https://wallstreetcn.com/livenews/3058355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
-          "url": "https://wallstreetcn.com/livenews/3058353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3058348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
-          "url": "https://flash.jin10.com/detail/20260225001502391800",
+          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260225150719104800",
           "source": "金十数据",
           "ranks": [
-            20
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "15时55分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
+          "url": "https://flash.jin10.com/detail/20260225150243003800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     },
@@ -1518,8 +1615,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 15时01分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 15时55分]"
         },
         {
           "title": "英伟达明晨将临“大考”：四大看点提前把握！",
@@ -1527,11 +1624,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 15时55分]"
         },
         {
           "title": "美官员证实英伟达H200对华销售为零",
