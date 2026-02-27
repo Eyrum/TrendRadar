@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T17:35:47.028467+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-02-27T18:31:52.630781+08:00",
+  "total_titles_processed": 1577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 54,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -82,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 18时31分]"
         },
         {
           "title": "伊朗外长Abbas Araghchi在国家电视台表示：今天的谈判属于最严肃的磋商之一。",
@@ -117,6 +117,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时44分 ~ 18时31分]"
         },
         {
           "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
@@ -178,20 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时27分]"
-        },
-        {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 17时35分]"
         },
         {
           "title": "阿曼：美国与伊朗今天的会谈结束，取得了重大进展。 经过征求（各自政府）意见之后，双方将迅速恢复磋商。 两国将于下周在维也纳举行工作层面的会谈。",
@@ -301,6 +301,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "伊朗前总统Ayatollah Khatami表示，伊朗政权不会接受暂停铀浓缩活动。（更正：非伊朗最高领袖哈梅内伊）",
+          "url": "https://flash.jin10.com/detail/20260227181323772800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "市场消息：伊朗敦促美国放弃“过分的要求”以达成协议。",
           "url": "https://flash.jin10.com/detail/20260227152714694800",
           "source": "金十数据",
@@ -310,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "加拿大再次要求其公民立即撤离伊朗",
+          "url": "https://wallstreetcn.com/livenews/3060216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "据半岛电视台：伊朗外交部发言人在接受伊朗伊斯兰共和国通讯社（IRNA）采访时称，美伊最新一轮谈判刚刚结束，但未透露更多细节。",
@@ -367,6 +389,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "美驻以大使警告使团：美袭击伊朗迫在眉睫，今天就离开以色列",
+          "url": "https://flash.jin10.com/detail/20260227181043243800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "伊朗威胁美国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -389,6 +422,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "加拿大再次要求其公民立即撤离伊朗",
+          "url": "https://flash.jin10.com/detail/20260227181037975800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "伊朗外长敦促阿富汗和巴基斯坦通过对话解决分歧。",
           "url": "https://flash.jin10.com/detail/20260227124053017800",
           "source": "金十数据",
@@ -409,6 +453,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "伊朗军方称将对美国侵略行为予以“毁灭性”回应",
+          "url": "https://wallstreetcn.com/livenews/3060200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "市场消息：伊朗方面表示，谈判的成功与否取决于对方的诚意和务实精神。",
+          "url": "https://flash.jin10.com/detail/20260227180012487800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "伊朗石油出货量为何突然飙升",
@@ -568,7 +634,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -623,8 +689,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 18时31分]"
         },
         {
           "title": "美军驻中东最高将领向特朗普汇报针对伊朗的军事选项",
@@ -649,6 +715,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-27）",
+          "url": "https://flash.jin10.com/detail/20260227181757598800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
           "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
           "source": "凤凰网",
@@ -659,6 +736,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 14时44分]"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 18时31分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -736,17 +824,6 @@
           "time_info": "[12时08分 ~ 13时47分]"
         },
         {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 17时35分]"
-        },
-        {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
           "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
           "source": "凤凰网",
@@ -755,8 +832,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时31分]"
         },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -764,11 +841,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时31分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -1022,6 +1100,18 @@
           "time_info": "[00时52分 ~ 07时24分]"
         },
         {
+          "title": "英伟达重挫引发板块轮动，软件股上演逼空，避险情绪撑债汇齐涨，金涨银跌，纽铜三连涨",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 18时31分]"
+        },
+        {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
           "url": "https://wallstreetcn.com/articles/3766225",
           "source": "华尔街见闻",
@@ -1046,18 +1136,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时52分 ~ 14时44分]"
-        },
-        {
-          "title": "英伟达重挫引发板块轮动，软件股上演逼空，避险情绪撑债汇齐涨，金涨银跌，纽铜三连涨",
-          "url": "https://wallstreetcn.com/articles/3766225",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 17时35分]"
         },
         {
           "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
@@ -1109,6 +1187,20 @@
           "time_info": "[07时24分 ~ 15时42分]"
         },
         {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 18时31分]"
+        },
+        {
           "title": "英伟达市值一夜蒸发超1.7万亿元",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%851.7%E4%B8%87%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -1121,20 +1213,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时25分 ~ 16时35分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 17时35分]"
         },
         {
           "title": "伯恩斯坦：将英伟达(NVDA.O)目标价从每股275美元上调至每股300美元，维持“跑赢大盘”评级。",
@@ -1236,7 +1314,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -1540,7 +1618,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -1613,11 +1691,12 @@
             20,
             5,
             26,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 17时35分]"
+          "appearance_count": 6,
+          "time_info": "[13时47分 ~ 18时31分]"
         },
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
