@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T13:54:29.934111+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-04-28T16:13:56.487810+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -28,11 +28,12 @@
             8,
             7,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 13时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时17分 ~ 16时13分]"
         },
         {
           "title": "美国以涉伊朗为由制裁中企 中方表态",
@@ -51,18 +52,6 @@
           "time_info": "[01时17分 ~ 07时46分]"
         },
         {
-          "title": "伊朗外长：美方请求谈判 伊方正考虑",
-          "url": "https://www.toutiao.com/trending/7633444247001189938/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 10时15分]"
-        },
-        {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
           "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
           "source": "凤凰网",
@@ -71,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 16时13分]"
         },
         {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
@@ -83,8 +72,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 16时13分]"
+        },
+        {
+          "title": "伊朗外长：美方请求谈判 伊方正考虑",
+          "url": "https://www.toutiao.com/trending/7633444247001189938/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 10时15分]"
         },
         {
           "title": "伊朗外交部长：我们欢迎俄罗斯对外交的支持。",
@@ -244,6 +245,18 @@
           "time_info": "[05时51分 ~ 07时46分]"
         },
         {
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 16时13分]"
+        },
+        {
           "title": "普京会见伊朗外长阿拉格齐",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%A7%81%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90",
           "source": "百度热搜",
@@ -267,18 +280,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时46分 ~ 13时54分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：若要实现成功的谈判，必须有双方的通力配合与意愿。显然，如果上述报道属实，那么伊朗无疑是在玩弄把戏。",
@@ -305,6 +306,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时56分 ~ 06时44分]"
+        },
+        {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 16时13分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：伊朗提出的所谓新提议是不可接受的。",
@@ -391,16 +404,16 @@
           "time_info": "[06时44分 ~ 07时46分]"
         },
         {
-          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
-          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.toutiao.com/trending/7632881081640976430/",
           "source": "今日头条",
           "ranks": [
-            11,
-            17
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时15分 ~ 13时54分]"
+          "time_info": "[13时54分 ~ 16时13分]"
         },
         {
           "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
@@ -511,7 +524,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -525,17 +538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        },
-        {
-          "title": "伊朗“蚊子舰队”如何控制海峡",
-          "url": "https://www.toutiao.com/trending/7632881081640976430/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "卢比奥：美国对提交伊朗最新提议的人士存有疑问",
@@ -593,6 +595,17 @@
           "time_info": "10时15分"
         },
         {
+          "title": "伊朗三阶段和平建议讨论之时，贝森特称伊朗石油工业即将崩溃，储油罐爆满、汽油短缺将出现，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2032385595960451834",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：在地区处于重大动荡之际，很高兴能够与俄罗斯在最高层级开展接触。近期事态已表明我们战略伙伴关系的深度与强度。随着双边关系持续发展，我们对这种团结表示感谢，并欢迎俄罗斯对外交努力的支持。",
           "url": "https://flash.jin10.com/detail/20260428095145631800",
           "source": "金十数据",
@@ -621,7 +634,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -698,9 +711,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "据伊朗学生通讯社：政府发言人表示，随着情况的正常化，伊朗互联网状况必将发生变化。",
+          "url": "https://flash.jin10.com/detail/20260428152901320800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "法国外交部长表示，伊朗必须作出“重大让步”以结束危机。",
@@ -747,6 +771,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "伊朗油轮聚集在恰巴哈尔港附近 紧邻美国封锁线",
+          "url": "https://wallstreetcn.com/livenews/3095530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "伊朗向美国提3个条件",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E5%9B%BD%E6%8F%903%E4%B8%AA%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -761,7 +796,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -891,6 +926,18 @@
           "time_info": "[06时44分 ~ 07时46分]"
         },
         {
+          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
+          "url": "https://www.cls.cn/detail/2357692",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时13分]"
+        },
+        {
           "title": "报道：特朗普对伊朗的霍尔木兹海峡方案持怀疑态度",
           "url": "https://wallstreetcn.com/livenews/3095255",
           "source": "华尔街见闻-快讯",
@@ -927,6 +974,17 @@
           "time_info": "[05时51分 ~ 06时44分]"
         },
         {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时13分]"
+        },
+        {
           "title": "特朗普取消更多风能租赁项目以刺激油气投资",
           "url": "https://flash.jin10.com/detail/20260428052935112800",
           "source": "金十数据",
@@ -937,6 +995,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时46分]"
+        },
+        {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时13分]"
         },
         {
           "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
@@ -951,26 +1020,16 @@
           "time_info": "[10时15分 ~ 13时54分]"
         },
         {
-          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
-          "url": "https://www.cls.cn/detail/2357692",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时13分]"
         },
         {
           "title": "白宫：特朗普及其国安团队开会讨论伊朗新提案",
@@ -1017,17 +1076,6 @@
           "time_info": "01时17分"
         },
         {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "白宫记协晚宴枪手事发前有“宣言”，自称对特朗普政府不满",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060147",
           "source": "澎湃新闻",
@@ -1072,17 +1120,6 @@
           "time_info": "10时15分"
         },
         {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
           "url": "https://wallstreetcn.com/livenews/3095326",
           "source": "华尔街见闻-快讯",
@@ -1092,6 +1129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "美媒：特朗普对伊朗新方案不满意",
+          "url": "https://www.toutiao.com/trending/7633339570876170294/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "迪士尼股价短线下挫，从涨约0.5%转而下跌约0.4%。 美国总统特朗普声称，ABC与迪士尼应当立即解雇Jimmy Kimmel，Kimmel一点都不风趣。",
@@ -1133,7 +1181,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1301,6 +1349,17 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 16时13分]"
+        },
+        {
           "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
           "url": "https://www.cls.cn/detail/2357431",
           "source": "财联社热门",
@@ -1311,17 +1370,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时46分 ~ 13时54分]"
-        },
-        {
-          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
-          "url": "https://wallstreetcn.com/articles/3770961",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 13时54分]"
         },
         {
           "title": "科技巨头财报周前夕，标普、纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
@@ -1417,7 +1465,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
@@ -1455,7 +1503,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1466,7 +1514,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1477,9 +1525,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -1615,6 +1674,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格跌跌不休",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         }
       ]
     }
