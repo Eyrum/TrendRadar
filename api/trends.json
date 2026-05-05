@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T10:11:11.264720+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-05-05T13:38:17.579595+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时26分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 13时38分]"
         },
         {
           "title": "美计划在中东部署“暗鹰”高超音速导弹，伊朗有办法对付吗？",
@@ -71,11 +71,12 @@
           "ranks": [
             11,
             13,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时26分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 13时38分]"
         },
         {
           "title": "伊朗称2枚导弹击中美军舰",
@@ -86,8 +87,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时26分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 13时38分]"
         },
         {
           "title": "伊朗战争丨美军称两艘悬挂美国旗商船通过霍尔木兹，伊朗否认",
@@ -123,6 +124,17 @@
           "time_info": "[01时26分 ~ 07时48分]"
         },
         {
+          "title": "伊朗战争丨伊方：美军袭击民用船只致5人死亡",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时38分]"
+        },
+        {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362134",
           "source": "财联社热门",
@@ -132,17 +144,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 03时21分]"
-        },
-        {
-          "title": "伊朗战争丨伊方：美军袭击民用船只致5人死亡",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
         },
         {
           "title": "据以色列媒体：以色列军方与国家情报机构摩萨德建议在政治层面恢复与伊朗的战争。",
@@ -231,7 +232,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -247,15 +248,15 @@
           "time_info": "01时26分"
         },
         {
-          "title": "伊朗军方消息人士：美军袭击民用船只致5人死亡",
-          "url": "https://wallstreetcn.com/livenews/3098692",
+          "title": "伊朗媒体：伊朗南部一港口多艘船只起火",
+          "url": "https://wallstreetcn.com/livenews/3098713",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "13时38分"
         },
         {
           "title": "美情报评估显示：本轮军事打击未进一步削弱伊朗核能力",
@@ -270,6 +271,18 @@
           "time_info": "[07时48分 ~ 10时11分]"
         },
         {
+          "title": "伊朗军方消息人士：美军袭击民用船只致5人死亡",
+          "url": "https://wallstreetcn.com/livenews/3098692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时38分]"
+        },
+        {
           "title": "伊朗公布霍尔木兹海峡管控新范围",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%AE%A1%E6%8E%A7%E6%96%B0%E8%8C%83%E5%9B%B4%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -279,6 +292,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时20分 ~ 05时03分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 67 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2034766994671494088",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时38分]"
         },
         {
           "title": "伊朗外长：霍尔木兹海峡发生的一系列事件表明，政治危机无法通过武力行动来解决。 随着谈判在巴基斯坦的努力下取得进展，美国和阿联酋都应当“警惕别被别有用心之人拖回泥潭”。",
@@ -304,17 +329,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 03时21分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 67 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2034766994671494088",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
         },
         {
           "title": "以媒：美以权衡对伊朗实施打击",
@@ -364,6 +378,17 @@
           "time_info": "[05时02分 ~ 05时03分]"
         },
         {
+          "title": "伊朗向美舰发射导弹画面曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E8%88%B0%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美军称击沉6艘伊朗小型船只",
           "url": "https://flash.jin10.com/detail/20260505005343427800",
           "source": "金十数据",
@@ -403,7 +428,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -485,6 +510,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "伊朗媒体：伊朗南部一港口多艘船只起火",
+          "url": "https://flash.jin10.com/detail/20260505125513658800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "伊朗发布向美军舰警告射击视频",
           "url": "https://flash.jin10.com/detail/20260505004832896800",
           "source": "金十数据",
@@ -527,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗南部一港口多艘船只起火",
+          "url": "https://flash.jin10.com/detail/20260505124417009800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "阿联酋外交部：伊朗的袭击标志着严重升级，并对阿联酋安全构成直接威胁。",
@@ -656,7 +703,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -686,7 +733,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -716,11 +763,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时26分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 13时38分]"
         },
         {
           "title": "美财长保证特朗普访华不会再推迟",
@@ -760,22 +808,12 @@
           "url": "https://wallstreetcn.com/articles/3771548",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "日本怂恿特朗普访华途中访日",
-          "url": "https://www.toutiao.com/trending/7635392980899069998/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时38分]"
         },
         {
           "title": "伊朗革命卫队政治副司令：特朗普当前面临的挑战是重开霍尔木兹海峡。在整个40天的战争期间及之后，他尝试了所有可能的选项，却未能取得任何成果。特朗普无力将局势倒退回2月28日之前，也无力改变当前局势。",
@@ -843,6 +881,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "日本怂恿特朗普访华途中访日",
+          "url": "https://www.toutiao.com/trending/7635392980899069998/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时38分]"
         },
         {
           "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
@@ -920,6 +970,17 @@
           "time_info": "[06时52分 ~ 07时48分]"
         },
         {
+          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
+          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美国总统特朗普：如果伊朗攻击美国船只，将被“从地球上抹去”。",
           "url": "https://flash.jin10.com/detail/20260505005445496800",
           "source": "金十数据",
@@ -931,6 +992,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
+          "url": "https://wallstreetcn.com/articles/3771561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美国总统特朗普：数亿桶石油正从委内瑞拉流出。",
           "url": "https://flash.jin10.com/detail/20260505042014116800",
           "source": "金十数据",
@@ -940,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美国总统特朗普：“太迟先生”（即美联储主席鲍威尔）对美国来说是一个灾难！利率太高！",
@@ -959,7 +1042,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1088,8 +1171,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时26分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 13时38分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -1103,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时03分 ~ 07时48分]"
+        },
+        {
+          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
+          "url": "https://www.cls.cn/detail/2362725",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时38分]"
         },
         {
           "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
@@ -1127,17 +1221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 06时52分]"
-        },
-        {
-          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
-          "url": "https://www.cls.cn/detail/2362725",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
         },
         {
           "title": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。 一季度月活用户数6.31亿，分析师预期6.3047亿。 预计二季度营收11.3亿-11.5亿美元，分析师预期11.2亿美元。 Pinterest美股盘后涨15%。",
@@ -1278,11 +1361,12 @@
           "url": "https://wallstreetcn.com/articles/3771533",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 10时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 13时38分]"
         },
         {
           "title": "据华尔街日报：Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
@@ -1322,6 +1406,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 Nvidia",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊(AMZN.O)首席执行官：我们与英伟达(NVDA.O)有着深厚的合作关系。",
+          "url": "https://flash.jin10.com/detail/20260505062352724800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时48分]"
+        },
+        {
+          "title": "黄仁勋：无人能复制英伟达",
+          "url": "https://www.toutiao.com/trending/7636234802818977289/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     },
@@ -1370,24 +1483,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时26分 ~ 07时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 Nvidia",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊(AMZN.O)首席执行官：我们与英伟达(NVDA.O)有着深厚的合作关系。",
-          "url": "https://flash.jin10.com/detail/20260505062352724800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时48分]"
         }
       ]
     },
