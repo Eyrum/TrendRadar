@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T11:33:02.956160+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-05-20T15:39:59.373927+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -24,11 +24,12 @@
           "source": "凤凰网",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 11时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 15时39分]"
         },
         {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
@@ -46,11 +47,12 @@
           "url": "https://www.cls.cn/detail/2376144",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 15时39分]"
         },
         {
           "title": "万斯为特朗普超长交易清单辩护",
@@ -350,7 +352,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -397,12 +399,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普称台偷走芯片产业 国台办回应",
+          "url": "https://www.toutiao.com/trending/7641090156523716649/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -510,6 +523,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "印尼央行行长：通胀保持在低位，必须应对全球动态的影响。原油价格的上涨与伊朗战争有关，可能会影响国内通胀。",
+          "url": "https://flash.jin10.com/detail/20260520151330905800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "伊朗战争冲击AI供应链 分析人士警告：最坏影响或仍未到来",
           "url": "https://www.cls.cn/detail/2375963",
           "source": "财联社热门",
@@ -530,6 +554,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "伊朗：美国关于伊朗学校位于巡航导弹基地内的说法毫无根据。",
@@ -664,11 +699,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 11时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 15时39分]"
         },
         {
           "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
@@ -713,8 +749,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 15时39分]"
         },
         {
           "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
@@ -902,6 +938,20 @@
           "time_info": "[06时11分 ~ 11时33分]"
         },
         {
+          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
+          "url": "https://wallstreetcn.com/articles/3772622",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时11分 ~ 15时39分]"
+        },
+        {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
           "url": "https://www.cls.cn/detail/2375879",
           "source": "财联社热门",
@@ -912,19 +962,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时48分 ~ 07时59分]"
-        },
-        {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时11分 ~ 11时33分]"
         },
         {
           "title": "周二（5月19日），美股存储芯片与硬件供应链指数涨0.62%，报173.64点，美股早盘呈现出V形反转行情。 成分股闪迪收涨3.77%，美光科技涨2.52%，泰瑞达涨0.15%，西部数据则收跌0.63%，希捷科技、Rambus、应用材料、拉姆研究跌1.01%-1.65%。",
@@ -1088,7 +1125,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -1128,11 +1165,12 @@
           "url": "https://wallstreetcn.com/articles/3772671",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 15时39分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -1168,6 +1206,28 @@
           "time_info": "06时12分"
         },
         {
+          "title": "WTI多头仍占优，黄金高位拉扯，美债警报突然变响｜市场赔率数据表",
+          "url": "https://flash.jin10.com/detail/20260520151055539800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "美债上演“投降式大抛售”",
+          "url": "https://www.toutiao.com/trending/7641784327507824191/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "汇丰：10年期美债收益率在危险区，但尚未发出买入信号",
           "url": "https://wallstreetcn.com/livenews/3106217",
           "source": "华尔街见闻-快讯",
@@ -1177,6 +1237,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 Nvidia",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时59分]"
+        },
+        {
+          "title": "高盛英伟达前瞻：业绩大概率超预期，但市场更关注“1万亿美元”指引之外的增量空间",
+          "url": "https://wallstreetcn.com/articles/3772638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 15时39分]"
+        },
+        {
+          "title": "英伟达财报倒计时！期权市场押注：3550亿美元单日市值巨震将至",
+          "url": "https://www.cls.cn/detail/2376293",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://flash.jin10.com/detail/20260520043717324800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://wallstreetcn.com/livenews/3106251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "机构：北美CSP大举购置NVIDIA GB/Rubin整柜式方案，今年AI推理算力将跃升1.2倍",
+          "url": "https://wallstreetcn.com/livenews/3106515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         }
       ]
     },
@@ -1242,58 +1377,6 @@
       ]
     },
     {
-      "keyword_group": "英伟达 Nvidia",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 07时59分]"
-        },
-        {
-          "title": "高盛英伟达前瞻：业绩大概率超预期，但市场更关注“1万亿美元”指引之外的增量空间",
-          "url": "https://wallstreetcn.com/articles/3772638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
-          "url": "https://flash.jin10.com/detail/20260520043717324800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
-          "url": "https://wallstreetcn.com/livenews/3106251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Anthropic claude",
       "match_count": 3,
       "titles": [
@@ -1333,6 +1416,46 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "高盛：金价回调不改长期涨势",
+          "url": "https://www.douyin.com/hot/2504515",
+          "source": "抖音",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 11时33分]"
+        },
+        {
+          "title": "机构：黄金价格因美元的走强及利率担忧而下跌",
+          "url": "https://flash.jin10.com/detail/20260519235653385800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "金十图示：2026年05月20日（周三）上海金午盘价为983.69元/克，较国际金价(980.63元/克)，高3.06元/克",
+          "url": "https://flash.jin10.com/detail/20260520150440630800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 2,
       "titles": [
@@ -1364,38 +1487,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "openai",
       "match_count": 2,
       "titles": [
         {
-          "title": "高盛：金价回调不改长期涨势",
-          "url": "https://www.douyin.com/hot/2504515",
-          "source": "抖音",
+          "title": "软银创始人孙正义对OpenAI的集中押注日益引发担忧",
+          "url": "https://wallstreetcn.com/livenews/3106553",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 11时33分]"
-        },
-        {
-          "title": "机构：黄金价格因美元的走强及利率担忧而下跌",
-          "url": "https://flash.jin10.com/detail/20260519235653385800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
+          "time_info": "15时39分"
+        },
         {
           "title": "OpenAI担保给予开支水平的算力。",
           "url": "https://wallstreetcn.com/livenews/3106231",
@@ -1406,6 +1511,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Kimi",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里云全面开放百炼平台 智谱、Minimax、Kimi等首批上架",
+          "url": "https://wallstreetcn.com/livenews/3106534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         }
       ]
     },
@@ -1423,6 +1545,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "第四届国际储能大会即将召开 储能行业景气度或持续向好",
+          "url": "https://www.cls.cn/detail/2376117",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         }
       ]
     }
