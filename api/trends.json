@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T07:08:51.310394+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-05-21T10:43:50.820962+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -37,8 +37,63 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 07时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 10时43分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤：我觉得很好",
+          "url": "https://www.toutiao.com/trending/7641482501025808434/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "特朗普，“退了一万亿”",
+          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "特朗普继续口头威胁伊朗",
@@ -50,6 +105,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "美国总统特朗普：就破冰船问题感谢芬兰。 短期内将形成55艘破冰船的（船队）规模。",
@@ -140,6 +217,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "特朗普重申结束陆路毒品贩运的承诺。",
           "url": "https://flash.jin10.com/detail/20260521002809553800",
           "source": "金十数据",
@@ -226,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "一份美国国务院内部密电显示，美国总统特朗普领导的政府已发出威胁，如果巴勒斯坦驻联合国大使拒绝放弃竞选联合国大会副主席一职，美方将撤销巴勒斯坦驻联合国代表团官员的签证。",
+          "url": "https://flash.jin10.com/detail/20260521101733202800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "特朗普：伊朗非常渴望达成协议。",
@@ -352,7 +451,7 @@
     },
     {
       "keyword_group": "英伟达 Nvidia",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "英伟达财报倒计时！超预期基本没悬念，但华尔街最关心这五个问题",
@@ -365,6 +464,52 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 07时08分]"
+        },
+        {
+          "title": "油价走软、海外股市债市携手回暖 英伟达即将发布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2377104",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 10时43分]"
+        },
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "全面超预期！英伟达公布强劲财报 预计下半年开始发货Vera Rubin",
+          "url": "https://www.cls.cn/detail/2377323",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
@@ -386,7 +531,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -413,18 +558,6 @@
           "time_info": "05时47分"
         },
         {
-          "title": "油价走软、海外股市债市携手回暖 英伟达即将发布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2377104",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 07时08分]"
-        },
-        {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
           "url": "https://wallstreetcn.com/articles/3772698",
           "source": "华尔街见闻",
@@ -435,6 +568,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 07时08分]"
+        },
+        {
+          "title": "英伟达Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772760",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 10时43分]"
         },
         {
           "title": "英伟达CEO黄仁勋：Vera Rubin开局不错。",
@@ -484,15 +629,15 @@
           "time_info": "05时47分"
         },
         {
-          "title": "英伟达Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772760",
+          "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
+          "url": "https://wallstreetcn.com/articles/3772763",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "10时43分"
         },
         {
           "title": "英伟达(NVDA.O)CFO：现在拥有超过1000亿美元回购授权。",
@@ -528,6 +673,17 @@
           "time_info": "05时47分"
         },
         {
+          "title": "英伟达财报",
+          "url": "https://www.douyin.com/hot/2506460",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "英伟达(NVDA.O)CFO：预计将在今年下半年开始生产和发货Vera Rubin。",
           "url": "https://flash.jin10.com/detail/20260521051922747800",
           "source": "金十数据",
@@ -556,7 +712,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -589,7 +745,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -622,7 +778,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -633,7 +789,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -644,7 +800,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -655,7 +811,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -666,7 +822,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -677,7 +833,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
@@ -685,7 +841,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美参议员格雷厄姆：希望伊朗冲突以外交方式解决",
@@ -762,7 +918,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -773,7 +929,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -789,13 +945,24 @@
           "time_info": "03时18分"
         },
         {
+          "title": "据新德里电视台：印度总理莫迪今日将主持重要会议，内阁改组与伊朗战争问题列入议程。",
+          "url": "https://flash.jin10.com/detail/20260521101826172800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
           "url": "https://flash.jin10.com/detail/20260521061556986800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -878,9 +1045,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 10时43分]"
         },
         {
           "title": "金十图示：2026年05月20日（周三）美股热门股票行情一览（美股盘中）",
@@ -983,7 +1150,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -1002,7 +1169,7 @@
     },
     {
       "keyword_group": "Anthropic claude",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
@@ -1038,6 +1205,17 @@
           "time_info": "05时47分"
         },
         {
+          "title": "“烧钱”已是刻板印象！Anthropic预计Q2营收翻倍，首度实现营业利润",
+          "url": "https://wallstreetcn.com/articles/3772764",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "英伟达(NVDA.O)CFO：Anthropic和OpenAI的模型层增长势头尤为强劲。",
           "url": "https://flash.jin10.com/detail/20260521051358120800",
           "source": "金十数据",
@@ -1055,7 +1233,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -1088,7 +1266,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -1189,6 +1367,47 @@
       ]
     },
     {
+      "keyword_group": "google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
+          "url": "https://www.zhihu.com/question/2040264998916712429",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 07时08分]"
+        },
+        {
+          "title": "如何评价 Gemini 于 2026 年 5 月 17 日实行的新限额形式？",
+          "url": "https://www.zhihu.com/question/2040264998916712429",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -1256,36 +1475,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
-          "url": "https://www.zhihu.com/question/2040264998916712429",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 07时08分]"
         }
       ]
     }
