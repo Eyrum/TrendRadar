@@ -1,100 +1,11 @@
 {
-  "generated_at": "2026-06-05T00:49:53.580100+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-05T03:19:19.884163+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美国财长贝森特：美国价格短期偏高，将会下降。 在总统特朗普的第二任期内，实际薪资除了4月份、每个月都在增长。",
-          "url": "https://wallstreetcn.com/livenews/3114537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美国财长贝森特：在特朗普2.0政策下，除了四月外，每个月的实际工资均有所增长。",
-          "url": "https://flash.jin10.com/detail/20260604234601041800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "李大霄谈美股风险释放",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 10,
       "titles": [
         {
           "title": "据Axios：波士顿联储表示，伊朗战争对美国劳动力市场的冲击预计有限。",
@@ -106,6 +17,83 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "普京：俄罗斯希望伊朗冲突尽快结束。",
+          "url": "https://flash.jin10.com/detail/20260605024637794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "俄罗斯总统普京：伊朗危机给俄罗斯带来的利益是暂时的。",
+          "url": "https://flash.jin10.com/detail/20260605024523661800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
+          "url": "https://flash.jin10.com/detail/20260605024510184800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "伊朗“圣城旅”喊话以色列",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E5%9C%A3%E5%9F%8E%E6%97%85%E2%80%9D%E5%96%8A%E8%AF%9D%E4%BB%A5%E8%89%B2%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "伊朗5月石油出口降至六年新低",
+          "url": "https://wallstreetcn.com/livenews/3114569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "数据显示：伊朗石油出口降至六年来的最低水平",
+          "url": "https://flash.jin10.com/detail/20260605022126491800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "俄罗斯总统普京：希望伊朗冲突各方能够找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260605021812132800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         },
         {
           "title": "摩根大通 ：石油市场已找到代价高昂的方式消化伊朗冲击",
@@ -122,6 +110,129 @@
           "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
           "url": "https://wallstreetcn.com/livenews/3114520",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
+          "url": "https://wallstreetcn.com/livenews/3114582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 03时19分]"
+        },
+        {
+          "title": "美国财长贝森特：美国价格短期偏高，将会下降。 在总统特朗普的第二任期内，实际薪资除了4月份、每个月都在增长。",
+          "url": "https://wallstreetcn.com/livenews/3114537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
+          "url": "https://wallstreetcn.com/livenews/3114570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "美国财长贝森特：在特朗普2.0政策下，除了四月外，每个月的实际工资均有所增长。",
+          "url": "https://flash.jin10.com/detail/20260604234601041800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
+          "url": "https://wallstreetcn.com/livenews/3114560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 03时19分]"
+        },
+        {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 03时19分]"
+        },
+        {
+          "title": "李大霄谈美股风险释放",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
+          "source": "bilibili 热搜",
           "ranks": [
             28
           ],
@@ -171,8 +282,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 03时19分]"
         },
         {
           "title": "据知情人士透露，Hut 8 Corp.寻求发行高评级（投资级）债券，融资超过40亿美元。 这笔资金将用于支持一个与英伟达相关的数据中心。（彭博）",
