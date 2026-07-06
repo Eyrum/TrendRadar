@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T13:05:45.060479+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-07-06T18:03:33.927371+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -56,6 +56,18 @@
           "time_info": "[01时02分 ~ 08时02分]"
         },
         {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 18时03分]"
+        },
+        {
           "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
           "url": "https://flash.jin10.com/detail/20260706042147057800",
           "source": "金十数据",
@@ -67,17 +79,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时52分 ~ 06时57分]"
-        },
-        {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
         },
         {
           "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
@@ -108,7 +109,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -200,6 +201,18 @@
           "time_info": "[03时07分 ~ 05时56分]"
         },
         {
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 18时03分]"
+        },
+        {
           "title": "美国高级官员：特朗普将在北约峰会期间讨论霍尔木兹海峡的航行问题。盟友已准备好参与保护霍尔木兹海峡的航运安全。",
           "url": "https://flash.jin10.com/detail/20260706012858730800",
           "source": "金十数据",
@@ -246,17 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 04时52分]"
-        },
-        {
-          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
-          "url": "https://wallstreetcn.com/articles/3776227",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
         },
         {
           "title": "特朗普一个电话改写世界杯？FIFA撤销红牌引爆“政治干预体育”风暴",
@@ -356,12 +358,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "据《今日美国》：古巴安全官员和政治顾问罗德里格斯·卡斯特罗表示，愿意与特朗普对话。",
+          "url": "https://flash.jin10.com/detail/20260706171951637800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -402,15 +415,27 @@
           "time_info": "[01时02分 ~ 08时02分]"
         },
         {
+          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
+          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "伊朗最高领袖发布任免令",
           "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 18时03分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
@@ -481,7 +506,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -500,7 +525,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -531,11 +556,12 @@
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 18时03分]"
         },
         {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
@@ -553,11 +579,12 @@
           "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 18时03分]"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
@@ -569,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美股下半年何去何从？华尔街普遍乐观看涨，但警惕AI和半导体等“抢手货”！",
+          "url": "https://www.cls.cn/detail/2417506",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     },
@@ -581,22 +619,24 @@
           "url": "https://wallstreetcn.com/articles/3776238",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 18时03分]"
         },
         {
           "title": "PCB成关键瓶颈？机构爆料：制造工艺面临挑战 英伟达Kyber机架或遇延迟",
           "url": "https://www.cls.cn/detail/2417600",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 18时03分]"
         }
       ]
     },
