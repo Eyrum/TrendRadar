@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T16:02:33.767485+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-07-16T18:52:42.313932+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -56,6 +56,20 @@
           "time_info": "[01时10分 ~ 07时54分]"
         },
         {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时53分 ~ 18时52分]"
+        },
+        {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
           "source": "澎湃新闻",
@@ -80,11 +94,12 @@
             16,
             14,
             15,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时01分 ~ 16时02分]"
+          "appearance_count": 13,
+          "time_info": "[03时01分 ~ 18时52分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -111,20 +126,6 @@
           "time_info": "[01时10分 ~ 07时54分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时53分 ~ 16时02分]"
-        },
-        {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
           "url": "https://wallstreetcn.com/articles/3776932",
           "source": "华尔街见闻",
@@ -142,7 +143,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -213,6 +214,18 @@
           "time_info": "04时16分"
         },
         {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 18时52分]"
+        },
+        {
           "title": "特朗普敦促国防企业增加武器产量",
           "url": "https://flash.jin10.com/detail/20260716054732872800",
           "source": "金十数据",
@@ -235,17 +248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 05时53分]"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 16时02分]"
         },
         {
           "title": "据知情人士透露，特朗普政府正考虑要求部分美国绿卡申请人缴纳10万美元保证金。（华尔街日报）",
@@ -383,6 +385,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "“特朗普金币”来了！面值1美元 计划今年秋季发行",
+          "url": "https://www.cls.cn/detail/2428113",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "特朗普：纽约州应立即改变数据中心政策",
           "url": "https://flash.jin10.com/detail/20260716004652811800",
           "source": "金十数据",
@@ -403,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-16）",
+          "url": "https://flash.jin10.com/detail/20260716184022118800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "美国总统特朗普：伊朗非常渴望达成和解。 会知道我们是和解，还是彻底解决。",
@@ -477,7 +501,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -774,7 +798,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -785,7 +809,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -815,7 +839,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 71,
       "titles": [
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -827,8 +851,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时10分 ~ 16时02分]"
+          "appearance_count": 14,
+          "time_info": "[01时10分 ~ 18时52分]"
         },
         {
           "title": "上千枚导弹，要飞向伊朗？",
@@ -854,6 +878,19 @@
           "time_info": "[10时00分 ~ 13时14分]"
         },
         {
+          "title": "伊朗议长发声：这是与美国的生存之战",
+          "url": "https://news.ifeng.com/c/8unecXHHhfz",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 18时52分]"
+        },
+        {
           "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
           "url": "https://www.cls.cn/detail/2427842",
           "source": "财联社热门",
@@ -864,18 +901,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时54分 ~ 16时02分]"
-        },
-        {
-          "title": "伊朗议长发声：这是与美国的生存之战",
-          "url": "https://news.ifeng.com/c/8unecXHHhfz",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 16时02分]"
         },
         {
           "title": "三名美国官员称，近期美国对伊朗的打击行动正在增强美方进一步升级行动的选项。",
@@ -911,6 +936,17 @@
           "time_info": "05时53分"
         },
         {
+          "title": "伊朗革命卫队：如果美国军队犯下战略性错误，那么所有人都必须与这个地区的能源告别。",
+          "url": "https://flash.jin10.com/detail/20260716184743478800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "伊朗称南部多地遭美军炮击",
           "url": "https://wallstreetcn.com/livenews/3134651",
           "source": "华尔街见闻-快讯",
@@ -942,6 +978,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "伊朗陆军发言人：如果美国总统继续推行其违反单方面协议的冒险和恶意政策，伊朗将会拿出令其始料未及的反制举措。",
+          "url": "https://flash.jin10.com/detail/20260716184247583800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "伊朗公布最新打击美军基地画面",
@@ -1040,6 +1087,17 @@
           "time_info": "[05时53分 ~ 06时54分]"
         },
         {
+          "title": "伊朗边防部队查获一批走私武器",
+          "url": "https://flash.jin10.com/detail/20260716184055020800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "伊朗塞姆南机场遭空袭 未造成人员伤亡",
           "url": "https://wallstreetcn.com/livenews/3134809",
           "source": "华尔街见闻-快讯",
@@ -1082,6 +1140,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡不会因美国施压恢复开放",
+          "url": "https://wallstreetcn.com/livenews/3135013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
+          "url": "https://www.cls.cn/detail/2428434",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：美国发射物击中了伊朗阿巴斯港附近一处地点。",
@@ -1150,6 +1230,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "伊朗革命卫队：我们的航空航天部队在“纳斯尔2”行动的第八、九、十波次中，对美军阵地发起了进攻行动。",
+          "url": "https://flash.jin10.com/detail/20260716183507199800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗阿瓦士传出爆炸声，爆炸来源尚未确定。",
           "url": "https://flash.jin10.com/detail/20260716032356160800",
           "source": "金十数据",
@@ -1189,7 +1280,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1376,7 +1467,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1464,7 +1555,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1486,7 +1577,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1513,6 +1604,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "伊朗：霍尔木兹海峡不会因美国施压恢复开放",
+          "url": "https://flash.jin10.com/detail/20260716181042592800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "伊朗外交部称伊方目前没有谈判计划，专注于防御",
           "url": "https://wallstreetcn.com/livenews/3134535",
           "source": "华尔街见闻-快讯",
@@ -1530,7 +1632,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -1538,7 +1640,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -1594,6 +1696,18 @@
           "time_info": "[01时10分 ~ 10时01分]"
         },
         {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 18时52分]"
+        },
+        {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -1605,17 +1719,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时10分 ~ 04时16分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 16时02分]"
         },
         {
           "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
@@ -1663,13 +1766,24 @@
           "time_info": "04时16分"
         },
         {
+          "title": "联合健康美股盘前涨超8%，公司二季度业绩超预期，并上调全年业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3135023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "美股盘前，存储芯片概念股普跌，SK海力士跌约5%，闪迪跌约4%，西部数据跌约4%，希捷科技跌约3%。 台积电跌约2%，此前公布二季度财报。",
           "url": "https://wallstreetcn.com/livenews/3134935",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1803,7 +1917,7 @@
     },
     {
       "keyword_group": "英伟达 Nvidia",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "日本机器人企业发那科和川崎重工等加入英伟达的物理AI阵营",
@@ -1823,7 +1937,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1861,6 +1975,28 @@
           "time_info": "13时14分"
         },
         {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：期望明天会见日本首相。",
+          "url": "https://flash.jin10.com/detail/20260716183652395800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：我们正处于周期的起点。",
+          "url": "https://flash.jin10.com/detail/20260716183020862800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元。 “超大”市值科技股指数涨1.12%，报446.55点。",
           "url": "https://wallstreetcn.com/livenews/3134606",
           "source": "华尔街见闻-快讯",
@@ -1878,7 +2014,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1889,7 +2025,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1903,6 +2039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：铠侠非常出色。",
+          "url": "https://flash.jin10.com/detail/20260716182533535800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "英伟达(NVDA.O)：与丰田扩大合作伙伴关系，推动汽车、机器人和城市领域的物理人工智能发展。",
@@ -1988,9 +2135,90 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
+          "url": "https://www.zhihu.com/question/2053497628416030104",
+          "source": "知乎",
+          "ranks": [
+            18,
+            11,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 07时54分]"
+        },
+        {
+          "title": "据The Information：Anthropic正就在IPO前增加25亿美元的银行信贷额度进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260716070929444800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "英媒：中国公司月之暗面将发布新模型，挑战Anthropic领先地位",
+          "url": "https://flash.jin10.com/detail/20260716180356383800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "铁锈凭什么成为储能尖兵",
+          "url": "https://www.toutiao.com/trending/7662734527072046646/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 06时54分]"
+        },
+        {
+          "title": "6月我国动力和储能电池销量为196.0GWh 同比增长49.1%",
+          "url": "https://wallstreetcn.com/livenews/3134801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "宁德时代签署协议 拟在欧洲部署钠电储能系统",
+          "url": "https://wallstreetcn.com/livenews/3134985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     },
@@ -2027,37 +2255,6 @@
       ]
     },
     {
-      "keyword_group": "Anthropic claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
-          "url": "https://www.zhihu.com/question/2053497628416030104",
-          "source": "知乎",
-          "ranks": [
-            18,
-            11,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 07时54分]"
-        },
-        {
-          "title": "据The Information：Anthropic正就在IPO前增加25亿美元的银行信贷额度进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260716070929444800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -2086,30 +2283,19 @@
       ]
     },
     {
-      "keyword_group": "储能",
-      "match_count": 2,
+      "keyword_group": "Kimi",
+      "match_count": 1,
       "titles": [
         {
-          "title": "铁锈凭什么成为储能尖兵",
-          "url": "https://www.toutiao.com/trending/7662734527072046646/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 06时54分]"
-        },
-        {
-          "title": "6月我国动力和储能电池销量为196.0GWh 同比增长49.1%",
-          "url": "https://wallstreetcn.com/livenews/3134801",
+          "title": "月之暗面将在未来几天推出人工智能模型Kimi K3。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3135007",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时14分"
+          "time_info": "18时52分"
         }
       ]
     },
