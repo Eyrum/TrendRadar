@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T10:49:54.701736+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-07-17T13:36:28.444238+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 66,
       "titles": [
         {
           "title": "据伊朗媒体Fars News：美国打击了伊朗港口城市哈米尔的一座桥梁。",
@@ -80,7 +80,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -202,7 +202,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -251,6 +251,17 @@
           "time_info": "08时00分"
         },
         {
+          "title": "伊朗革命卫队：打击叙利亚美军指挥中心 造成大量美军人员死亡",
+          "url": "https://wallstreetcn.com/livenews/3135479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "美国连续第六晚打击伊朗",
           "url": "https://flash.jin10.com/detail/20260717022528646800",
           "source": "金十数据",
@@ -260,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "遭美国制裁油轮在阿曼湾及阿拉伯海掉头 航运活动受伊朗封锁影响",
+          "url": "https://flash.jin10.com/detail/20260717131938051800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         },
         {
           "title": "白宫称伊朗仍在与美国对话",
@@ -312,7 +334,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -339,6 +361,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "约旦军方声明称，已拦截三枚针对其领土的伊朗导弹，未报告人员伤亡或物质损失。",
+          "url": "https://flash.jin10.com/detail/20260717131547108800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "美国周四袭击了伊朗境内多座桥梁。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3135319",
           "source": "华尔街见闻-快讯",
@@ -359,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "伊朗革命卫队称打击叙利亚美军指挥中心",
+          "url": "https://wallstreetcn.com/livenews/3135475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         },
         {
           "title": "据伊朗媒体：在美军对格什姆岛发动空袭后，岛上马森村附近再次传出8次爆炸声。",
@@ -444,7 +488,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -592,6 +636,17 @@
           "time_info": "08时00分"
         },
         {
+          "title": "伊朗革命卫队表示，只要美军的袭击持续，就不会有任何石油或天然气通过霍尔木兹海峡出口。",
+          "url": "https://wallstreetcn.com/livenews/3135465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "伊朗革命卫队：伊朗绝不会允许美国介入霍尔木兹海峡事务。伊朗规定的航行路线是安全的，任何偏离该路线的航线都将面临风险，相关船只可能遭受损害。",
           "url": "https://flash.jin10.com/detail/20260717031824680800",
           "source": "金十数据",
@@ -642,7 +697,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -664,7 +719,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -675,7 +730,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -683,7 +738,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -709,6 +764,17 @@
           "time_info": "[07时59分 ~ 08时00分]"
         },
         {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 13时36分]"
+        },
+        {
           "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260717015332023800",
           "source": "金十数据",
@@ -718,17 +784,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
         },
         {
           "title": "美国白宫通讯总监‌张振熙：懦夫。NBC和ABC不想让你听到真相。他们只想对你隐瞒事实。（此前报道称这两家媒体将不会电视直播特朗普今天黄金时段的演讲）",
@@ -774,6 +829,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 13时36分]"
         },
         {
           "title": "白宫：特朗普总统始终愿意进行外交谈判。",
@@ -831,17 +897,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
           "title": "特朗普将赴世界杯现场观看决赛",
           "url": "https://flash.jin10.com/detail/20260717021058975800",
           "source": "金十数据",
@@ -862,6 +917,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "白宫官宣特朗普将出席世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7663253128728657971/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "特朗普政府收紧签证规则 逾1.3万韩国人在美身份或受影响",
+          "url": "https://flash.jin10.com/detail/20260717131017081800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         },
         {
           "title": "报道：特朗普帖文花钱就能抢先看",
@@ -967,8 +1044,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 10时49分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 13时36分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -979,8 +1056,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 10时49分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 13时36分]"
         },
         {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
@@ -988,11 +1065,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 10时49分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 13时36分]"
         },
         {
           "title": "美联储两大官员放鹰：关注通胀风险，支持适度加息；美军连续第六晚对伊朗采取打击行动，伊朗部分机场、桥梁和铁路枢纽遭袭……当前现货金银、美油维持卖出信号，美股信号分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
@@ -1001,7 +1079,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -1070,9 +1148,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 13时36分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）热门中概股行情一览（美股收盘）",
@@ -1144,7 +1222,7 @@
     },
     {
       "keyword_group": "Kimi",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
@@ -1184,24 +1262,36 @@
           "time_info": "[07时59分 ~ 08时00分]"
         },
         {
+          "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
+          "url": "https://www.zhihu.com/question/2061204677446964906",
+          "source": "知乎",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 13时36分]"
+        },
+        {
+          "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
+          "url": "https://wallstreetcn.com/articles/3777138",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "Kimi K3参数达2.8万亿",
           "url": "https://s.weibo.com/weibo?q=Kimi%20K3%E5%8F%82%E6%95%B0%E8%BE%BE2.8%E4%B8%87%E4%BA%BF&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
-          "url": "https://www.zhihu.com/question/2061204677446964906",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -1215,6 +1305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
+        },
+        {
+          "title": "月之暗面Kimi K3上线！系全球最大规模开源模型 支持视觉理解、100万token上下文",
+          "url": "https://www.cls.cn/detail/2429127",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         },
         {
           "title": "中国企业发布全球最大规模的开源模型Kimi K3",
@@ -1282,11 +1383,12 @@
           "url": "https://www.cls.cn/detail/2428944",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 13时36分]"
         },
         {
           "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
@@ -1415,11 +1517,12 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 13时36分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
@@ -1512,7 +1615,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -1532,6 +1635,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特高压",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "浙江宁波：首座1000千伏特高压变电站建设有序推进",
+          "url": "https://wallstreetcn.com/livenews/3135469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     }
