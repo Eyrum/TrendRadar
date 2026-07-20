@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:11:03.127071+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-07-20T17:53:54.950099+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 14时11分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 17时53分]"
         },
         {
           "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
@@ -77,19 +77,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 14时11分]"
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时53分]"
         },
         {
           "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
           "url": "https://news.ifeng.com/c/8uuXB95ZA03",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 14时11分]"
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时53分]"
         },
         {
           "title": "伊朗让美军付出重大代价",
@@ -604,7 +605,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -692,7 +693,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -758,9 +759,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        },
+        {
+          "title": "伊朗外交部证实第三方已拿出全新调解方案，直言“打和谈”并行不悖",
+          "url": "https://flash.jin10.com/detail/20260720172928781800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "伊朗方面称已向“敌方目标”发射新一轮导弹",
@@ -956,6 +968,18 @@
           "time_info": "[01时54分 ~ 04时06分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时53分]"
+        },
+        {
           "title": "特朗普摸大力神杯",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "百度热搜",
@@ -977,17 +1001,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时53分]"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 14时11分]"
         },
         {
           "title": "特朗普为西班牙颁奖",
@@ -1037,7 +1050,7 @@
     },
     {
       "keyword_group": "Kimi",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
@@ -1084,6 +1097,19 @@
           "time_info": "[00时51分 ~ 07时53分]"
         },
         {
+          "title": "如何看待月之暗面 kimi 在 2026 年 7 月 19 日宣布算力紧张，暂停会员开放？",
+          "url": "https://www.zhihu.com/question/2062310754481656074",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 17时53分]"
+        },
+        {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
           "url": "https://www.zhihu.com/question/2061156114658485568",
           "source": "知乎",
@@ -1097,27 +1123,16 @@
           "time_info": "[00时51分 ~ 04时06分]"
         },
         {
-          "title": "如何看待月之暗面 kimi 在 2026 年 7 月 19 日宣布算力紧张，暂停会员开放？",
-          "url": "https://www.zhihu.com/question/2062310754481656074",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 14时11分]"
-        },
-        {
           "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
           "url": "https://wallstreetcn.com/articles/3777376",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 14时11分]"
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时53分]"
         },
         {
           "title": "Kimi：即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户，已在全速推进算力扩容",
@@ -1152,6 +1167,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
+          "url": "https://wallstreetcn.com/articles/3777389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     },
