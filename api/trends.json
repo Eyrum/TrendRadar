@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T20:17:48.530593+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-07-24T22:50:15.541570+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 22时50分]"
+        },
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
           "url": "https://www.zhihu.com/question/2063259853338972886",
@@ -20,16 +32,15 @@
           "time_info": "[01时13分 ~ 10时04分]"
         },
         {
-          "title": "伊朗公布美军近期袭击伤亡数据",
-          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
           "source": "凤凰网",
           "ranks": [
-            5,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 20时17分]"
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
         },
         {
           "title": "伊朗袭击约旦和巴林境内美军基地",
@@ -60,7 +71,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -104,7 +115,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -118,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国财政部宣布对伊朗实施新一轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3139521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "世界银行：摩洛哥2026年通胀将因伊朗战争上升至2.4%。",
@@ -217,9 +239,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
+        },
+        {
+          "title": "科威特国防部：科威特防空系统目前正在拦截从伊朗发射的敌对目标。",
+          "url": "https://flash.jin10.com/detail/20260724222436037800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
@@ -250,9 +283,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗已经表明不会屈服于美国的霸凌，我们不会对威胁、压力或恐吓做出回应。",
+          "url": "https://flash.jin10.com/detail/20260724222340369800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "伊朗外长：扣押他国资产“极具煽动性”",
@@ -277,6 +321,28 @@
           "time_info": "18时58分"
         },
         {
+          "title": "伊朗外长阿拉格齐：已与作为调解方的巴基斯坦讨论了其倡议和提案。问题不在于美国与我们之间缺乏调解人，而在于美国人的问题处理方式。",
+          "url": "https://flash.jin10.com/detail/20260724222325080800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美官员否认伊朗拒绝停火提议",
+          "url": "https://wallstreetcn.com/livenews/3139511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "伊朗、胡塞武装：已做好应战准备",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E3%80%81%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E6%88%98%E5%87%86%E5%A4%87",
           "source": "百度热搜",
@@ -297,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "美官员否认伊朗拒绝停火提议",
+          "url": "https://flash.jin10.com/detail/20260724222048676800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "伊朗媒体：美军导弹袭击伊朗南部Qeshm Island的Suaz小镇。",
@@ -478,7 +555,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -495,6 +572,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[03时04分 ~ 20时17分]"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 22时50分]"
         },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -523,15 +611,18 @@
           "time_info": "[01时13分 ~ 16时15分]"
         },
         {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            8,
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 20时17分]"
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 22时50分]"
         },
         {
           "title": "盟友集体反击“强迫劳动”指控！特朗普关税战为何连最高法院也挡不住？",
@@ -556,17 +647,15 @@
           "time_info": "03时05分"
         },
         {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
+          "title": "以总理办公室：内塔尼亚胡将访美 与特朗普会晤",
+          "url": "https://flash.jin10.com/detail/20260724223621938800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 20时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "美国总统特朗普：如果我们不对伊朗采取行动，就没有人会采取行动。",
@@ -682,6 +771,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "以色列宣称：总理内塔尼亚胡下周二将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3139516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "美国总统特朗普：伊朗人想要谈判，但他们并没有准备好。",
           "url": "https://flash.jin10.com/detail/20260724025035550800",
           "source": "金十数据",
@@ -765,7 +865,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -803,6 +903,17 @@
           "time_info": "04时55分"
         },
         {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周二在白宫会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260724221517947800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
           "url": "https://wallstreetcn.com/livenews/3138978",
           "source": "华尔街见闻-快讯",
@@ -812,6 +923,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周一应美国总统特朗普邀请访问华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260724221512312800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
@@ -861,7 +983,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -872,8 +994,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时01分 ~ 20时17分]"
+          "appearance_count": 10,
+          "time_info": "[06时01分 ~ 22时50分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -887,6 +1009,18 @@
           "time_info": "[01时13分 ~ 07时02分]"
         },
         {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 22时50分]"
+        },
+        {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
           "url": "https://www.cls.cn/detail/2435717",
           "source": "财联社热门",
@@ -896,18 +1030,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时04分 ~ 16时15分]"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 20时17分]"
         },
         {
           "title": "美股",
@@ -981,6 +1103,17 @@
           "time_info": "[04时55分 ~ 06时01分]"
         },
         {
+          "title": "美股纳指低开0.1% 英特尔小幅高开",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%BA%B3%E6%8C%87%E4%BD%8E%E5%BC%800.1%25+%E8%8B%B1%E7%89%B9%E5%B0%94%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
+        },
+        {
           "title": "金十图示：2026年07月23日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260724025439749800",
           "source": "金十数据",
@@ -1020,7 +1153,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -1053,7 +1186,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -1097,7 +1230,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -1144,6 +1277,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨超1%，网络股指数ETF涨近1%，半导体ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3139499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美股盘初：道指涨0.2%，存储芯片股普跌，英特尔跌约1%，Amkor涨约6%",
+          "url": "https://wallstreetcn.com/livenews/3139496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
@@ -1161,8 +1316,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 20时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 22时50分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -1182,11 +1337,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 20时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时58分 ~ 22时50分]"
         },
         {
           "title": "微软(MSFT.O)正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing。",
@@ -1298,6 +1454,58 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 06时01分]"
+        },
+        {
+          "title": "美元指数涨超0.3%，日元跌0.4%逼近164",
+          "url": "https://wallstreetcn.com/livenews/3139047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 06时01分]"
+        },
+        {
+          "title": "美元指数23日上涨",
+          "url": "https://flash.jin10.com/detail/20260724040944825800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨约1.8%，报88.69美元，有望脱离6月26日以来最低位87.10美元。",
+          "url": "https://wallstreetcn.com/livenews/3139505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -1352,43 +1560,41 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "英伟达 Nvidia",
       "match_count": 3,
       "titles": [
         {
-          "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3139060",
+          "title": "微软联合20多家美国科技公司发布公开信之后，英伟达CEO黄仁勋迅速在X（原名推特）发布了公开社交动态，专门为此公开信背书，并指出：“世界既需要顶尖的封闭模型，也需要顶尖的开放模型。”",
+          "url": "https://wallstreetcn.com/livenews/3139515",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 06时01分]"
-        },
-        {
-          "title": "美元指数涨超0.3%，日元跌0.4%逼近164",
-          "url": "https://wallstreetcn.com/livenews/3139047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 06时01分]"
-        },
-        {
-          "title": "美元指数23日上涨",
-          "url": "https://flash.jin10.com/detail/20260724040944825800",
-          "source": "金十数据",
           "ranks": [
             10
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "AMD的CEO苏姿丰：新款Venice CPU扩大（本公司产品）在行业的领先地位。 全新EPYC架构带来了史上最大幅度的代际性能飞跃。 新款服务器CPU遥遥领先那些基于Arm的芯片。 新款EPYC性能比英伟达CPU高出20%。 Venice全面投产，客户需求强劲。 那些基于Venice的系统将在四季度出现。",
+          "url": "https://wallstreetcn.com/livenews/3139013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时55分"
+          "time_info": "03时05分"
+        },
+        {
+          "title": "英伟达与Amkor签署价值15亿美元的芯片封装协议",
+          "url": "https://wallstreetcn.com/livenews/3139136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
@@ -1448,34 +1654,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 Nvidia",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AMD的CEO苏姿丰：新款Venice CPU扩大（本公司产品）在行业的领先地位。 全新EPYC架构带来了史上最大幅度的代际性能飞跃。 新款服务器CPU遥遥领先那些基于Arm的芯片。 新款EPYC性能比英伟达CPU高出20%。 Venice全面投产，客户需求强劲。 那些基于Venice的系统将在四季度出现。",
-          "url": "https://wallstreetcn.com/livenews/3139013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "英伟达与Amkor签署价值15亿美元的芯片封装协议",
-          "url": "https://wallstreetcn.com/livenews/3139136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
         }
       ]
     },
