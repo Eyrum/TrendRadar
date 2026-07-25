@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T17:41:16.693601+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-07-25T19:06:04.490317+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -64,6 +64,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
+          "url": "https://flash.jin10.com/detail/20260725183311628800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "一周热榜精选：美伊对抗下双海峡告急！特朗普再挥关税大棒",
           "url": "https://flash.jin10.com/detail/20260725095254129800",
           "source": "金十数据",
@@ -109,6 +120,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时14分 ~ 04时15分]"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%87%86%E5%A4%87%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时06分]"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://wallstreetcn.com/livenews/3139731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 19时06分]"
         },
         {
           "title": "美国总统特朗普：新的关税非常标准。另一种征收关税的方式更简单，我们有多种形式。",
@@ -168,17 +203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://wallstreetcn.com/livenews/3139731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
         },
         {
           "title": "据CNN：美国总统特朗普在白宫记者协会晚宴上致辞时开玩笑说，观看那些批评他政府的报道获奖，对他而言并非易事。特朗普说：“今晚可真不容易——这么多奖项，我对这些奖项有发言权吗？”",
@@ -286,7 +310,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -401,17 +425,6 @@
           "time_info": "04时15分"
         },
         {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%87%86%E5%A4%87%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
           "title": "美国总统特朗普：美国国务卿鲁比奥与副总统万斯谈论了伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260725034352232800",
           "source": "金十数据",
@@ -492,7 +505,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -504,8 +517,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 17时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 19时06分]"
+        },
+        {
+          "title": "伊朗外长：无需更多调解者，美应改变态度",
+          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 19时06分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -520,15 +544,29 @@
           "time_info": "[00时37分 ~ 10时03分]"
         },
         {
-          "title": "伊朗外长：无需更多调解者，美应改变态度",
-          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
+          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
+          "url": "https://news.ifeng.com/c/8v324dBINEL",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时06分]"
+        },
+        {
+          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 19时06分]"
         },
         {
           "title": "伊朗称袭击美国亚马逊公司一数据中心",
@@ -545,17 +583,6 @@
           "time_info": "[00时37分 ~ 07时04分]"
         },
         {
-          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
-          "url": "https://news.ifeng.com/c/8v324dBINEL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
           "title": "据伊朗媒体Fars News：与也门航运管理部门有关联的消息人士称，几乎所有通过曼德海峡的商船都遵守也门海军部队的相关决定。",
           "url": "https://flash.jin10.com/detail/20260725000646407800",
           "source": "金十数据",
@@ -565,6 +592,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://flash.jin10.com/detail/20260725184006843800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://wallstreetcn.com/livenews/3139738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "市场消息：巴基斯坦方面警告伊朗，关闭“曼德海峡”将使局势进一步复杂化。",
@@ -578,17 +627,15 @@
           "time_info": "02时14分"
         },
         {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://wallstreetcn.com/livenews/3139737",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 17时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
@@ -639,6 +686,20 @@
           "time_info": "[10时03分 ~ 13时38分]"
         },
         {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://wallstreetcn.com/livenews/3139714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 19时06分]"
+        },
+        {
           "title": "据伊朗媒体Fars News：阿拉伯消息称，沙特阿拉伯对也门的荷台达港进行了空袭。",
           "url": "https://flash.jin10.com/detail/20260725040656654800",
           "source": "金十数据",
@@ -650,19 +711,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时15分 ~ 07时04分]"
-        },
-        {
-          "title": "伊朗外长说不惧威胁不屈服于美国",
-          "url": "https://wallstreetcn.com/livenews/3139714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 17时41分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
@@ -700,6 +748,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
+          "url": "https://flash.jin10.com/detail/20260725181020836800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "据沙特媒体哈达斯（Alhadath）援引一名高级消息人士称，巴基斯坦已告知伊朗，必须向胡塞武装施压，要求其停止在红海发动袭击。",
           "url": "https://flash.jin10.com/detail/20260725013116862800",
           "source": "金十数据",
@@ -722,6 +781,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
+          "url": "https://flash.jin10.com/detail/20260725180813776800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "王毅会见伊朗外长阿拉格齐",
           "url": "https://wallstreetcn.com/livenews/3139591",
           "source": "华尔街见闻-快讯",
@@ -731,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://flash.jin10.com/detail/20260725174159775800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：有报道称，沙特吉赞（Jazan）地区传出多次爆炸声。",
@@ -871,17 +952,6 @@
       "match_count": 17,
       "titles": [
         {
-          "title": "如何评价 Anthropic 发布的 Claude Opus 5？",
-          "url": "https://www.zhihu.com/question/2064158791801758733",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
           "url": "https://wallstreetcn.com/articles/3777901",
           "source": "华尔街见闻",
@@ -891,8 +961,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 17时41分]"
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 19时06分]"
+        },
+        {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 19时06分]"
+        },
+        {
+          "title": "如何评价 Anthropic 发布的 Claude Opus 5？",
+          "url": "https://www.zhihu.com/question/2064158791801758733",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "Anthropic发布更具成本效率的Claude Opus 5模型",
@@ -906,29 +999,18 @@
           "time_info": "02时14分"
         },
         {
-          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
-          "url": "https://www.cls.cn/detail/2436901",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 17时41分]"
-        },
-        {
           "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
           "url": "https://wallstreetcn.com/livenews/3139722",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             9,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 19时06分]"
         },
         {
           "title": "Claude Opus 5发布",
@@ -1071,6 +1153,30 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 19时06分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 19时06分]"
+        },
+        {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
           "url": "https://wallstreetcn.com/articles/3777828",
           "source": "华尔街见闻",
@@ -1084,18 +1190,6 @@
           "time_info": "[00时37分 ~ 07时04分]"
         },
         {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 17时41分]"
-        },
-        {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
@@ -1107,16 +1201,18 @@
           "time_info": "[00时37分 ~ 06时00分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
           "ranks": [
-            2,
-            3
+            6,
+            8,
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 19时06分]"
         },
         {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
@@ -1139,19 +1235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 17时41分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
@@ -1273,11 +1356,12 @@
           "ranks": [
             1,
             7,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 19时06分]"
         },
         {
           "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
@@ -1286,11 +1370,12 @@
           "ranks": [
             8,
             14,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 19时06分]"
         },
         {
           "title": "SK集团与英伟达深化战略合作伙伴关系，涵盖AI工厂与下一代存储技术。",
@@ -1404,11 +1489,12 @@
           "url": "https://wallstreetcn.com/livenews/3139736",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 19时06分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -1420,17 +1506,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://flash.jin10.com/detail/20260725172016965800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
         },
         {
           "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
@@ -1454,6 +1529,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 02时14分]"
+        },
+        {
+          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://flash.jin10.com/detail/20260725172016965800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 19时06分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA和LUNA现已在亚马逊Bedrock上正式上线。",
@@ -1524,6 +1611,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2063822441583993476",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 19时06分]"
+        },
+        {
           "title": "近日马斯克称其 2 万亿新模型「可能超越 Kimi」，可能超越 Kimi 的具体依据是什么？对此你们是怎么看？",
           "url": "https://www.zhihu.com/question/2063015674528765058",
           "source": "知乎",
@@ -1536,19 +1637,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 10时03分]"
-        },
-        {
-          "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2063822441583993476",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 17时41分]"
         }
       ]
     },
