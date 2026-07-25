@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T19:06:04.490317+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-07-25T21:10:47.145098+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -64,17 +64,6 @@
           "time_info": "10时03分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
-          "url": "https://flash.jin10.com/detail/20260725183311628800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
           "title": "一周热榜精选：美伊对抗下双海峡告急！特朗普再挥关税大棒",
           "url": "https://flash.jin10.com/detail/20260725095254129800",
           "source": "金十数据",
@@ -122,6 +111,31 @@
           "time_info": "[02时14分 ~ 04时15分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
+          "url": "https://flash.jin10.com/detail/20260725183311628800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时10分]"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://wallstreetcn.com/livenews/3139731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 21时10分]"
+        },
+        {
           "title": "特朗普称准备第四次竞选总统",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%87%86%E5%A4%87%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -131,18 +145,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时06分]"
-        },
-        {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://wallstreetcn.com/livenews/3139731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[17时41分 ~ 19时06分]"
         },
         {
@@ -258,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "专家：特朗普一刀切关税得罪全部盟友",
+          "url": "https://www.toutiao.com/trending/7666410407686311467/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "美国总统特朗普与特勤局警官维克多·冈萨雷斯（Victor Gonzales）握手致意；冈萨雷斯曾在4月份的白宫记者协会晚宴上制服了那名涉嫌持枪行凶的男子。",
@@ -505,7 +518,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -517,8 +530,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 19时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 21时10分]"
         },
         {
           "title": "伊朗外长：无需更多调解者，美应改变态度",
@@ -528,8 +541,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 19时06分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 21时10分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -551,8 +564,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时06分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 21时10分]"
         },
         {
           "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
@@ -594,28 +607,6 @@
           "time_info": "00时37分"
         },
         {
-          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
-          "url": "https://flash.jin10.com/detail/20260725184006843800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
-          "url": "https://wallstreetcn.com/livenews/3139738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
           "title": "市场消息：巴基斯坦方面警告伊朗，关闭“曼德海峡”将使局势进一步复杂化。",
           "url": "https://flash.jin10.com/detail/20260725013811963800",
           "source": "金十数据",
@@ -625,17 +616,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        },
-        {
-          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
-          "url": "https://wallstreetcn.com/livenews/3139737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
@@ -648,6 +628,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时00分 ~ 07时04分]"
+        },
+        {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://flash.jin10.com/detail/20260725184006843800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时10分]"
+        },
+        {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://wallstreetcn.com/livenews/3139738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时10分]"
         },
         {
           "title": "据伊朗Press TV：也门方面袭击炼油厂后，沙特各地出现大规模排队加油的现象。",
@@ -686,6 +690,18 @@
           "time_info": "[10时03分 ~ 13时38分]"
         },
         {
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://wallstreetcn.com/livenews/3139737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时10分]"
+        },
+        {
           "title": "伊朗外长说不惧威胁不屈服于美国",
           "url": "https://wallstreetcn.com/livenews/3139714",
           "source": "华尔街见闻-快讯",
@@ -713,6 +729,30 @@
           "time_info": "[04时15分 ~ 07时04分]"
         },
         {
+          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
+          "url": "https://flash.jin10.com/detail/20260725181020836800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时10分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
+          "url": "https://flash.jin10.com/detail/20260725180813776800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时10分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
           "url": "https://wallstreetcn.com/livenews/3139664",
           "source": "华尔街见闻-快讯",
@@ -723,6 +763,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时00分 ~ 07时04分]"
+        },
+        {
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://flash.jin10.com/detail/20260725174159775800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时10分]"
         },
         {
           "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
@@ -748,17 +800,6 @@
           "time_info": "02时14分"
         },
         {
-          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
-          "url": "https://flash.jin10.com/detail/20260725181020836800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
           "title": "据沙特媒体哈达斯（Alhadath）援引一名高级消息人士称，巴基斯坦已告知伊朗，必须向胡塞武装施压，要求其停止在红海发动袭击。",
           "url": "https://flash.jin10.com/detail/20260725013116862800",
           "source": "金十数据",
@@ -781,17 +822,6 @@
           "time_info": "10时03分"
         },
         {
-          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
-          "url": "https://flash.jin10.com/detail/20260725180813776800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
           "title": "王毅会见伊朗外长阿拉格齐",
           "url": "https://wallstreetcn.com/livenews/3139591",
           "source": "华尔街见闻-快讯",
@@ -801,17 +831,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        },
-        {
-          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
-          "url": "https://flash.jin10.com/detail/20260725174159775800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：有报道称，沙特吉赞（Jazan）地区传出多次爆炸声。",
@@ -845,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "伊朗称近期美国空袭造成境内59死666伤",
@@ -952,6 +982,19 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时38分 ~ 21时10分]"
+        },
+        {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
           "url": "https://wallstreetcn.com/articles/3777901",
           "source": "华尔街见闻",
@@ -961,20 +1004,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 19时06分]"
-        },
-        {
-          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
-          "url": "https://www.cls.cn/detail/2436901",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 19时06分]"
+          "appearance_count": 6,
+          "time_info": "[13时38分 ~ 21时10分]"
         },
         {
           "title": "如何评价 Anthropic 发布的 Claude Opus 5？",
@@ -988,6 +1019,21 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
+          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
+          "url": "https://wallstreetcn.com/livenews/3139722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            15,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 21时10分]"
+        },
+        {
           "title": "Anthropic发布更具成本效率的Claude Opus 5模型",
           "url": "https://flash.jin10.com/detail/20260725013909944800",
           "source": "金十数据",
@@ -997,20 +1043,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        },
-        {
-          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
-          "url": "https://wallstreetcn.com/livenews/3139722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 19时06分]"
         },
         {
           "title": "Claude Opus 5发布",
@@ -1161,8 +1193,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 19时06分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 21时10分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -1173,8 +1205,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 19时06分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 21时10分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -1208,11 +1240,12 @@
             6,
             8,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 19时06分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 21时10分]"
         },
         {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
@@ -1325,8 +1358,23 @@
     },
     {
       "keyword_group": "英伟达 Nvidia",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3139724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            13,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 21时10分]"
+        },
         {
           "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
           "url": "https://wallstreetcn.com/livenews/3139564",
@@ -1350,20 +1398,6 @@
           "time_info": "13时38分"
         },
         {
-          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3139724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 19时06分]"
-        },
-        {
           "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
           "url": "https://wallstreetcn.com/livenews/3139717",
           "source": "华尔街见闻-快讯",
@@ -1376,6 +1410,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时38分 ~ 19时06分]"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "SK集团与英伟达深化战略合作伙伴关系，涵盖AI工厂与下一代存储技术。",
@@ -1490,11 +1535,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 19时06分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 21时10分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
