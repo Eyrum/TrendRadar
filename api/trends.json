@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T10:10:38.721013+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-08-06T13:14:22.923283+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -19,6 +19,17 @@
           "time_info": "[01时27分 ~ 06时17分]"
         },
         {
+          "title": "伊朗副外长：霍尔木兹海峡协议接近收尾，伊美尚未谈判",
+          "url": "https://wallstreetcn.com/livenews/3145818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬在国家电视台发表讲话：联系最高领袖“非常困难”。",
           "url": "https://wallstreetcn.com/livenews/3145551",
           "source": "华尔街见闻-快讯",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://wallstreetcn.com/livenews/3145817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "伊朗副外长：我们与阿曼讨论了在霍尔木兹海峡建立联合航行管理中心。",
@@ -109,6 +131,30 @@
           "time_info": "[01时27分 ~ 03时20分]"
         },
         {
+          "title": "伊朗与阿曼会谈最新细节曝光",
+          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 13时14分]"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 13时14分]"
+        },
+        {
           "title": "伊朗：将在未来2-4个月内激活新版霍尔木兹海峡航线。（IRNA）",
           "url": "https://wallstreetcn.com/livenews/3145528",
           "source": "华尔街见闻-快讯",
@@ -121,18 +167,6 @@
           "time_info": "[01时27分 ~ 03时20分]"
         },
         {
-          "title": "伊朗与阿曼会谈最新细节曝光",
-          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时10分]"
-        },
-        {
           "title": "也门正在为与沙特展开全面对抗做准备。 袭击沙特船只巩固了“封锁换封锁”的局面。 根据也门武装部队在地面局势发展方面的情况，过去被认为安全的航线已不再安全。（伊朗塔斯尼姆通讯社）",
           "url": "https://wallstreetcn.com/livenews/3145525",
           "source": "华尔街见闻-快讯",
@@ -143,6 +177,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 03时20分]"
+        },
+        {
+          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2446838",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 13时14分]"
         },
         {
           "title": "伊朗副外长Gharibabadi：伊朗不会接受外国势力干涉霍尔木兹海峡。 伊朗与阿曼达成协议，并不代表执行《伊斯兰堡谅解备忘录》第5条。（伊朗媒体IRNA）",
@@ -177,17 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
         },
         {
           "title": "伊朗副外长：美国在信息中表示，已准备好重返其承诺。",
@@ -278,17 +313,6 @@
           "time_info": "01时27分"
         },
         {
-          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2446838",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
           "title": "伊朗副外长：伊朗所有外交立场和外交行动都与战场形势实现了百分之百协调。",
           "url": "https://flash.jin10.com/detail/20260806010149604800",
           "source": "金十数据",
@@ -350,7 +374,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -446,7 +470,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普污蔑：中国背后捣鬼",
@@ -456,8 +480,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时10分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 13时14分]"
         },
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -467,8 +491,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时10分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 13时14分]"
         },
         {
           "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
@@ -478,8 +502,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时10分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普称不想让孩子像拜登那样摔下台",
+          "url": "https://www.toutiao.com/trending/7670741330352734262/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "特朗普频繁致电沃什：美联储主席成总统“经济顾问”，独立性警报再起",
@@ -488,9 +523,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。 特朗普称赞股市上涨。",
@@ -637,6 +683,17 @@
           "time_info": "[06时17分 ~ 07时54分]"
         },
         {
+          "title": "特朗普：美国拥有大量“弹药”",
+          "url": "https://flash.jin10.com/detail/20260806123756235800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
           "url": "https://wallstreetcn.com/livenews/3145617",
           "source": "华尔街见闻-快讯",
@@ -646,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "特朗普被曝频繁致电沃什 “美联储传声筒”：没错，打好几次",
+          "url": "https://flash.jin10.com/detail/20260806121551898800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "特朗普直升机一度与客机距离过近",
@@ -659,6 +727,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "美国国会山CBO：特朗普的战列舰舰队耗资或达2750亿美元",
           "url": "https://wallstreetcn.com/livenews/3145541",
           "source": "华尔街见闻-快讯",
@@ -670,13 +749,35 @@
           "time_info": "03时20分"
         },
         {
+          "title": "特朗普：美国有大量军火，大量军火正运往美国。",
+          "url": "https://wallstreetcn.com/livenews/3145805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "卡尼不点名调侃特朗普",
+          "url": "https://wallstreetcn.com/livenews/3145797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "特朗普回应多次遇“暗杀企图”",
           "url": "https://www.toutiao.com/trending/7670150786047295497/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -687,7 +788,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -695,7 +796,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -708,6 +809,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 03时20分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2446816",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 13时14分]"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
@@ -724,17 +839,15 @@
           "time_info": "[01时27分 ~ 10时10分]"
         },
         {
-          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2446816",
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
           "source": "财联社热门",
           "ranks": [
-            12,
-            6,
-            5
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 10时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "美股收盘：道指再创历史新高",
@@ -754,7 +867,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -776,7 +889,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -812,6 +925,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "DeepSeek API即将大幅涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "DeepSeek计划大幅涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AE%A1%E5%88%92%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -941,7 +1126,46 @@
           "ranks": [
             19
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际金价涨超4%，重返4200美元上方",
+          "url": "https://wallstreetcn.com/livenews/3145608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "多重利好同时发力，金价一口气创下半年最强表现！",
+          "url": "https://flash.jin10.com/detail/20260806115414724800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "黄金价格是否已经出现底部信号",
+          "url": "https://www.toutiao.com/trending/7670703383359000107/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -973,34 +1197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价涨超4%，重返4200美元上方",
-          "url": "https://wallstreetcn.com/livenews/3145608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "黄金价格是否已经出现底部信号",
-          "url": "https://www.toutiao.com/trending/7670703383359000107/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
         }
       ]
     }
