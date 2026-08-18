@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T07:18:05.391406+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-08-18T08:57:39.811946+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 08时57分]"
+        },
+        {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 08时57分]"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -30,16 +42,26 @@
           "time_info": "[00时20分 ~ 07时18分]"
         },
         {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
+          "title": "大V：特朗普“金蝉脱壳”是政治失算",
+          "url": "https://www.toutiao.com/trending/7675011910084857394/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "特朗普拒绝延长美伊停火协议，警告阿曼别“挡路”，否则将遭轰炸",
@@ -48,7 +70,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -174,25 +196,59 @@
         },
         {
           "title": "民调显示特朗普支持率创第二任期内新低",
+          "url": "https://wallstreetcn.com/livenews/3150715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 08时57分]"
+        },
+        {
+          "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
+          "url": "https://news.ifeng.com/c/8vgLjEXesPE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "民调显示特朗普支持率创第二任期内新低",
           "url": "https://flash.jin10.com/detail/20260818062651085800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
         {
-          "title": "民调显示特朗普支持率创第二任期内新低",
-          "url": "https://wallstreetcn.com/livenews/3150715",
-          "source": "华尔街见闻-快讯",
+          "title": "以退为进？特朗普想用这招要挟韩国掏钱",
+          "url": "https://v.ifeng.com/c/8vfkc7n8wJm",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时18分"
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "伊朗战事拖累选情，特朗普被曝拨款支持共和党候选人",
@@ -220,26 +276,27 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
-          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 07时18分]"
-        },
         {
           "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
           "url": "https://wallstreetcn.com/articles/3779592",
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 08时57分]"
+        },
+        {
+          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
+          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -255,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
+          "url": "https://v.ifeng.com/c/8vfiQsf50xA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -279,13 +347,24 @@
           "time_info": "00时20分"
         },
         {
+          "title": "为向伊朗革命卫队传话，美国找了谁？",
+          "url": "https://news.ifeng.com/c/8vfjQXLe7At",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "美国与伊朗继续僵持，油价上涨",
           "url": "https://flash.jin10.com/detail/20260818062100594800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -296,7 +375,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -332,13 +411,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "伊朗对美将从防御转向全面进攻",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%B0%86%E4%BB%8E%E9%98%B2%E5%BE%A1%E8%BD%AC%E5%90%91%E5%85%A8%E9%9D%A2%E8%BF%9B%E6%94%BB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 08时57分]"
+        },
+        {
+          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
+          "url": "https://www.cls.cn/detail/2456585",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
         {
           "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
           "url": "https://wallstreetcn.com/articles/3779603",
@@ -352,16 +465,15 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
+          "title": "美股收盘：3大利好推动AI板块逆势走强",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A3%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%8E%A8%E5%8A%A8AI%E6%9D%BF%E5%9D%97%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            8
+            12
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "美股存储芯片指数收涨将近4.8%，五天反弹超20%",
@@ -384,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "美股收盘：3大利好推动AI板块逆势走强",
+          "url": "https://www.toutiao.com/trending/7675142828237786670/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "金十图示：2026年08月17日（周一）美股热门股票行情一览（美股收盘）",
@@ -444,7 +567,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -454,8 +577,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 08时57分]"
         },
         {
           "title": "地缘风险推高油价和美债收益率，美股三大指数两连跌，存储芯片、光通信逆势大涨",
@@ -469,15 +592,27 @@
           "time_info": "[07时17分 ~ 07时18分]"
         },
         {
+          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
           "url": "https://www.cls.cn/detail/2456558",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时18分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 08时57分]"
         },
         {
           "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
@@ -527,7 +662,7 @@
     },
     {
       "keyword_group": "Anthropic claude",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Anthropic估值有多激进？华尔街押注：2028年收入狂飙至2000亿美元",
@@ -539,6 +674,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "半年翻7倍！Anthropic“年化营收”据传已突破650亿美元",
+          "url": "https://www.cls.cn/detail/2456549",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "Anthropic年化营收在IPO前突破650亿美元",
@@ -605,11 +751,12 @@
           "ranks": [
             17,
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 08时57分]"
         }
       ]
     }
